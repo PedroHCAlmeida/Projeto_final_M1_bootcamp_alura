@@ -1,0 +1,3862 @@
+,UF,regiao,data,perm_media
+0,Rondônia,Norte,2008-02-01,3.4
+1,Acre,Norte,2008-02-01,4.8
+2,Amazonas,Norte,2008-02-01,4.9
+3,Roraima,Norte,2008-02-01,5.0
+4,Pará,Norte,2008-02-01,3.8
+5,Amapá,Norte,2008-02-01,5.1
+6,Tocantins,Norte,2008-02-01,4.8
+7,Maranhão,Nordeste,2008-02-01,4.9
+8,Piauí,Nordeste,2008-02-01,4.5
+9,Ceará,Nordeste,2008-02-01,5.1
+10,Rio Grande do Norte,Nordeste,2008-02-01,5.7
+11,Paraíba,Nordeste,2008-02-01,5.0
+12,Pernambuco,Nordeste,2008-02-01,5.9
+13,Alagoas,Nordeste,2008-02-01,5.1
+14,Sergipe,Nordeste,2008-02-01,4.9
+15,Bahia,Nordeste,2008-02-01,4.3
+16,Minas Gerais,Sudeste,2008-02-01,5.6
+17,Espírito Santo,Sudeste,2008-02-01,6.1
+18,Rio de Janeiro,Sudeste,2008-02-01,15.0
+19,São Paulo,Sudeste,2008-02-01,8.1
+20,Paraná,Sul,2008-02-01,5.2
+21,Santa Catarina,Sul,2008-02-01,5.4
+22,Rio Grande do Sul,Sul,2008-02-01,5.9
+23,Mato Grosso do Sul,Centro-Oeste,2008-02-01,4.6
+24,Mato Grosso,Centro-Oeste,2008-02-01,4.3
+25,Goiás,Centro-Oeste,2008-02-01,4.8
+26,Distrito Federal,Centro-Oeste,2008-02-01,6.7
+27,Rondônia,Norte,2008-03-01,3.8
+28,Acre,Norte,2008-03-01,4.6
+29,Amazonas,Norte,2008-03-01,4.7
+30,Roraima,Norte,2008-03-01,4.7
+31,Pará,Norte,2008-03-01,3.8
+32,Amapá,Norte,2008-03-01,5.0
+33,Tocantins,Norte,2008-03-01,4.5
+34,Maranhão,Nordeste,2008-03-01,4.6
+35,Piauí,Nordeste,2008-03-01,4.4
+36,Ceará,Nordeste,2008-03-01,5.1
+37,Rio Grande do Norte,Nordeste,2008-03-01,5.5
+38,Paraíba,Nordeste,2008-03-01,4.8
+39,Pernambuco,Nordeste,2008-03-01,6.7
+40,Alagoas,Nordeste,2008-03-01,5.5
+41,Sergipe,Nordeste,2008-03-01,4.7
+42,Bahia,Nordeste,2008-03-01,4.1
+43,Minas Gerais,Sudeste,2008-03-01,5.6
+44,Espírito Santo,Sudeste,2008-03-01,5.6
+45,Rio de Janeiro,Sudeste,2008-03-01,8.0
+46,São Paulo,Sudeste,2008-03-01,6.2
+47,Paraná,Sul,2008-03-01,5.1
+48,Santa Catarina,Sul,2008-03-01,5.3
+49,Rio Grande do Sul,Sul,2008-03-01,5.7
+50,Mato Grosso do Sul,Centro-Oeste,2008-03-01,4.6
+51,Mato Grosso,Centro-Oeste,2008-03-01,4.2
+52,Goiás,Centro-Oeste,2008-03-01,4.6
+53,Distrito Federal,Centro-Oeste,2008-03-01,6.1
+54,Rondônia,Norte,2008-04-01,4.0
+55,Acre,Norte,2008-04-01,4.6
+56,Amazonas,Norte,2008-04-01,4.8
+57,Roraima,Norte,2008-04-01,4.5
+58,Pará,Norte,2008-04-01,3.7
+59,Amapá,Norte,2008-04-01,5.2
+60,Tocantins,Norte,2008-04-01,4.6
+61,Maranhão,Nordeste,2008-04-01,4.5
+62,Piauí,Nordeste,2008-04-01,4.5
+63,Ceará,Nordeste,2008-04-01,5.0
+64,Rio Grande do Norte,Nordeste,2008-04-01,5.2
+65,Paraíba,Nordeste,2008-04-01,4.8
+66,Pernambuco,Nordeste,2008-04-01,5.4
+67,Alagoas,Nordeste,2008-04-01,5.3
+68,Sergipe,Nordeste,2008-04-01,4.8
+69,Bahia,Nordeste,2008-04-01,4.1
+70,Minas Gerais,Sudeste,2008-04-01,5.3
+71,Espírito Santo,Sudeste,2008-04-01,6.2
+72,Rio de Janeiro,Sudeste,2008-04-01,8.6
+73,São Paulo,Sudeste,2008-04-01,6.4
+74,Paraná,Sul,2008-04-01,5.1
+75,Santa Catarina,Sul,2008-04-01,5.5
+76,Rio Grande do Sul,Sul,2008-04-01,5.8
+77,Mato Grosso do Sul,Centro-Oeste,2008-04-01,4.6
+78,Mato Grosso,Centro-Oeste,2008-04-01,4.3
+79,Goiás,Centro-Oeste,2008-04-01,4.6
+80,Distrito Federal,Centro-Oeste,2008-04-01,6.3
+81,Rondônia,Norte,2008-05-01,4.7
+82,Acre,Norte,2008-05-01,4.5
+83,Amazonas,Norte,2008-05-01,4.9
+84,Roraima,Norte,2008-05-01,4.6
+85,Pará,Norte,2008-05-01,3.7
+86,Amapá,Norte,2008-05-01,4.7
+87,Tocantins,Norte,2008-05-01,4.6
+88,Maranhão,Nordeste,2008-05-01,4.7
+89,Piauí,Nordeste,2008-05-01,4.4
+90,Ceará,Nordeste,2008-05-01,5.2
+91,Rio Grande do Norte,Nordeste,2008-05-01,5.4
+92,Paraíba,Nordeste,2008-05-01,5.0
+93,Pernambuco,Nordeste,2008-05-01,5.7
+94,Alagoas,Nordeste,2008-05-01,4.8
+95,Sergipe,Nordeste,2008-05-01,4.7
+96,Bahia,Nordeste,2008-05-01,4.1
+97,Minas Gerais,Sudeste,2008-05-01,5.3
+98,Espírito Santo,Sudeste,2008-05-01,5.8
+99,Rio de Janeiro,Sudeste,2008-05-01,8.1
+100,São Paulo,Sudeste,2008-05-01,6.3
+101,Paraná,Sul,2008-05-01,5.2
+102,Santa Catarina,Sul,2008-05-01,5.5
+103,Rio Grande do Sul,Sul,2008-05-01,5.9
+104,Mato Grosso do Sul,Centro-Oeste,2008-05-01,5.0
+105,Mato Grosso,Centro-Oeste,2008-05-01,4.2
+106,Goiás,Centro-Oeste,2008-05-01,4.7
+107,Distrito Federal,Centro-Oeste,2008-05-01,6.1
+108,Rondônia,Norte,2008-06-01,4.2
+109,Acre,Norte,2008-06-01,4.3
+110,Amazonas,Norte,2008-06-01,4.7
+111,Roraima,Norte,2008-06-01,4.3
+112,Pará,Norte,2008-06-01,3.8
+113,Amapá,Norte,2008-06-01,4.8
+114,Tocantins,Norte,2008-06-01,4.6
+115,Maranhão,Nordeste,2008-06-01,4.7
+116,Piauí,Nordeste,2008-06-01,4.5
+117,Ceará,Nordeste,2008-06-01,5.1
+118,Rio Grande do Norte,Nordeste,2008-06-01,5.6
+119,Paraíba,Nordeste,2008-06-01,5.0
+120,Pernambuco,Nordeste,2008-06-01,5.5
+121,Alagoas,Nordeste,2008-06-01,5.4
+122,Sergipe,Nordeste,2008-06-01,4.8
+123,Bahia,Nordeste,2008-06-01,4.2
+124,Minas Gerais,Sudeste,2008-06-01,5.4
+125,Espírito Santo,Sudeste,2008-06-01,5.7
+126,Rio de Janeiro,Sudeste,2008-06-01,8.6
+127,São Paulo,Sudeste,2008-06-01,6.2
+128,Paraná,Sul,2008-06-01,5.1
+129,Santa Catarina,Sul,2008-06-01,5.4
+130,Rio Grande do Sul,Sul,2008-06-01,5.8
+131,Mato Grosso do Sul,Centro-Oeste,2008-06-01,4.8
+132,Mato Grosso,Centro-Oeste,2008-06-01,4.3
+133,Goiás,Centro-Oeste,2008-06-01,5.3
+134,Distrito Federal,Centro-Oeste,2008-06-01,6.3
+135,Rondônia,Norte,2008-07-01,3.9
+136,Acre,Norte,2008-07-01,4.2
+137,Amazonas,Norte,2008-07-01,4.7
+138,Roraima,Norte,2008-07-01,5.2
+139,Pará,Norte,2008-07-01,3.8
+140,Amapá,Norte,2008-07-01,4.7
+141,Tocantins,Norte,2008-07-01,4.7
+142,Maranhão,Nordeste,2008-07-01,4.8
+143,Piauí,Nordeste,2008-07-01,4.5
+144,Ceará,Nordeste,2008-07-01,4.9
+145,Rio Grande do Norte,Nordeste,2008-07-01,5.8
+146,Paraíba,Nordeste,2008-07-01,5.4
+147,Pernambuco,Nordeste,2008-07-01,5.5
+148,Alagoas,Nordeste,2008-07-01,5.5
+149,Sergipe,Nordeste,2008-07-01,4.4
+150,Bahia,Nordeste,2008-07-01,10.1
+151,Minas Gerais,Sudeste,2008-07-01,5.6
+152,Espírito Santo,Sudeste,2008-07-01,6.2
+153,Rio de Janeiro,Sudeste,2008-07-01,8.1
+154,São Paulo,Sudeste,2008-07-01,6.3
+155,Paraná,Sul,2008-07-01,5.2
+156,Santa Catarina,Sul,2008-07-01,5.4
+157,Rio Grande do Sul,Sul,2008-07-01,5.8
+158,Mato Grosso do Sul,Centro-Oeste,2008-07-01,4.8
+159,Mato Grosso,Centro-Oeste,2008-07-01,4.3
+160,Goiás,Centro-Oeste,2008-07-01,5.2
+161,Distrito Federal,Centro-Oeste,2008-07-01,6.4
+162,Rondônia,Norte,2008-08-01,3.6
+163,Acre,Norte,2008-08-01,4.0
+164,Amazonas,Norte,2008-08-01,4.5
+165,Roraima,Norte,2008-08-01,4.7
+166,Pará,Norte,2008-08-01,3.7
+167,Amapá,Norte,2008-08-01,4.8
+168,Tocantins,Norte,2008-08-01,4.4
+169,Maranhão,Nordeste,2008-08-01,4.7
+170,Piauí,Nordeste,2008-08-01,4.4
+171,Ceará,Nordeste,2008-08-01,5.1
+172,Rio Grande do Norte,Nordeste,2008-08-01,5.9
+173,Paraíba,Nordeste,2008-08-01,5.1
+174,Pernambuco,Nordeste,2008-08-01,5.6
+175,Alagoas,Nordeste,2008-08-01,5.3
+176,Sergipe,Nordeste,2008-08-01,4.8
+177,Bahia,Nordeste,2008-08-01,4.1
+178,Minas Gerais,Sudeste,2008-08-01,5.5
+179,Espírito Santo,Sudeste,2008-08-01,5.8
+180,Rio de Janeiro,Sudeste,2008-08-01,8.2
+181,São Paulo,Sudeste,2008-08-01,6.4
+182,Paraná,Sul,2008-08-01,5.1
+183,Santa Catarina,Sul,2008-08-01,5.6
+184,Rio Grande do Sul,Sul,2008-08-01,5.9
+185,Mato Grosso do Sul,Centro-Oeste,2008-08-01,4.8
+186,Mato Grosso,Centro-Oeste,2008-08-01,4.2
+187,Goiás,Centro-Oeste,2008-08-01,4.9
+188,Distrito Federal,Centro-Oeste,2008-08-01,6.2
+189,Rondônia,Norte,2008-09-01,3.6
+190,Acre,Norte,2008-09-01,4.2
+191,Amazonas,Norte,2008-09-01,4.6
+192,Roraima,Norte,2008-09-01,5.0
+193,Pará,Norte,2008-09-01,3.6
+194,Amapá,Norte,2008-09-01,4.7
+195,Tocantins,Norte,2008-09-01,4.3
+196,Maranhão,Nordeste,2008-09-01,4.4
+197,Piauí,Nordeste,2008-09-01,4.1
+198,Ceará,Nordeste,2008-09-01,5.0
+199,Rio Grande do Norte,Nordeste,2008-09-01,5.6
+200,Paraíba,Nordeste,2008-09-01,5.1
+201,Pernambuco,Nordeste,2008-09-01,5.5
+202,Alagoas,Nordeste,2008-09-01,5.1
+203,Sergipe,Nordeste,2008-09-01,4.7
+204,Bahia,Nordeste,2008-09-01,4.0
+205,Minas Gerais,Sudeste,2008-09-01,5.4
+206,Espírito Santo,Sudeste,2008-09-01,5.6
+207,Rio de Janeiro,Sudeste,2008-09-01,7.8
+208,São Paulo,Sudeste,2008-09-01,6.2
+209,Paraná,Sul,2008-09-01,5.0
+210,Santa Catarina,Sul,2008-09-01,5.3
+211,Rio Grande do Sul,Sul,2008-09-01,5.8
+212,Mato Grosso do Sul,Centro-Oeste,2008-09-01,4.8
+213,Mato Grosso,Centro-Oeste,2008-09-01,4.1
+214,Goiás,Centro-Oeste,2008-09-01,4.6
+215,Distrito Federal,Centro-Oeste,2008-09-01,6.1
+216,Rondônia,Norte,2008-10-01,3.5
+217,Acre,Norte,2008-10-01,4.4
+218,Amazonas,Norte,2008-10-01,4.6
+219,Roraima,Norte,2008-10-01,4.7
+220,Pará,Norte,2008-10-01,3.7
+221,Amapá,Norte,2008-10-01,4.9
+222,Tocantins,Norte,2008-10-01,4.6
+223,Maranhão,Nordeste,2008-10-01,5.0
+224,Piauí,Nordeste,2008-10-01,4.4
+225,Ceará,Nordeste,2008-10-01,5.1
+226,Rio Grande do Norte,Nordeste,2008-10-01,5.7
+227,Paraíba,Nordeste,2008-10-01,5.2
+228,Pernambuco,Nordeste,2008-10-01,5.4
+229,Alagoas,Nordeste,2008-10-01,5.3
+230,Sergipe,Nordeste,2008-10-01,4.7
+231,Bahia,Nordeste,2008-10-01,4.2
+232,Minas Gerais,Sudeste,2008-10-01,5.3
+233,Espírito Santo,Sudeste,2008-10-01,5.4
+234,Rio de Janeiro,Sudeste,2008-10-01,8.4
+235,São Paulo,Sudeste,2008-10-01,6.3
+236,Paraná,Sul,2008-10-01,5.1
+237,Santa Catarina,Sul,2008-10-01,5.5
+238,Rio Grande do Sul,Sul,2008-10-01,5.9
+239,Mato Grosso do Sul,Centro-Oeste,2008-10-01,4.9
+240,Mato Grosso,Centro-Oeste,2008-10-01,4.3
+241,Goiás,Centro-Oeste,2008-10-01,4.9
+242,Distrito Federal,Centro-Oeste,2008-10-01,6.1
+243,Rondônia,Norte,2008-11-01,3.6
+244,Acre,Norte,2008-11-01,4.3
+245,Amazonas,Norte,2008-11-01,4.5
+246,Roraima,Norte,2008-11-01,4.6
+247,Pará,Norte,2008-11-01,3.7
+248,Amapá,Norte,2008-11-01,4.8
+249,Tocantins,Norte,2008-11-01,4.4
+250,Maranhão,Nordeste,2008-11-01,4.7
+251,Piauí,Nordeste,2008-11-01,4.3
+252,Ceará,Nordeste,2008-11-01,5.1
+253,Rio Grande do Norte,Nordeste,2008-11-01,5.9
+254,Paraíba,Nordeste,2008-11-01,5.1
+255,Pernambuco,Nordeste,2008-11-01,5.4
+256,Alagoas,Nordeste,2008-11-01,5.4
+257,Sergipe,Nordeste,2008-11-01,4.4
+258,Bahia,Nordeste,2008-11-01,4.1
+259,Minas Gerais,Sudeste,2008-11-01,5.4
+260,Espírito Santo,Sudeste,2008-11-01,5.9
+261,Rio de Janeiro,Sudeste,2008-11-01,8.4
+262,São Paulo,Sudeste,2008-11-01,7.1
+263,Paraná,Sul,2008-11-01,5.1
+264,Santa Catarina,Sul,2008-11-01,5.4
+265,Rio Grande do Sul,Sul,2008-11-01,5.7
+266,Mato Grosso do Sul,Centro-Oeste,2008-11-01,4.8
+267,Mato Grosso,Centro-Oeste,2008-11-01,4.3
+268,Goiás,Centro-Oeste,2008-11-01,5.3
+269,Distrito Federal,Centro-Oeste,2008-11-01,6.2
+270,Rondônia,Norte,2008-12-01,3.6
+271,Acre,Norte,2008-12-01,4.0
+272,Amazonas,Norte,2008-12-01,4.3
+273,Roraima,Norte,2008-12-01,5.0
+274,Pará,Norte,2008-12-01,3.8
+275,Amapá,Norte,2008-12-01,4.4
+276,Tocantins,Norte,2008-12-01,4.4
+277,Maranhão,Nordeste,2008-12-01,4.7
+278,Piauí,Nordeste,2008-12-01,4.3
+279,Ceará,Nordeste,2008-12-01,5.1
+280,Rio Grande do Norte,Nordeste,2008-12-01,5.6
+281,Paraíba,Nordeste,2008-12-01,4.8
+282,Pernambuco,Nordeste,2008-12-01,5.5
+283,Alagoas,Nordeste,2008-12-01,5.1
+284,Sergipe,Nordeste,2008-12-01,4.7
+285,Bahia,Nordeste,2008-12-01,4.2
+286,Minas Gerais,Sudeste,2008-12-01,6.0
+287,Espírito Santo,Sudeste,2008-12-01,5.7
+288,Rio de Janeiro,Sudeste,2008-12-01,8.9
+289,São Paulo,Sudeste,2008-12-01,6.2
+290,Paraná,Sul,2008-12-01,5.3
+291,Santa Catarina,Sul,2008-12-01,5.5
+292,Rio Grande do Sul,Sul,2008-12-01,5.8
+293,Mato Grosso do Sul,Centro-Oeste,2008-12-01,4.5
+294,Mato Grosso,Centro-Oeste,2008-12-01,4.3
+295,Goiás,Centro-Oeste,2008-12-01,4.8
+296,Distrito Federal,Centro-Oeste,2008-12-01,6.1
+297,Rondônia,Norte,2009-01-01,3.8
+298,Acre,Norte,2009-01-01,4.4
+299,Amazonas,Norte,2009-01-01,4.8
+300,Roraima,Norte,2009-01-01,4.6
+301,Pará,Norte,2009-01-01,3.8
+302,Amapá,Norte,2009-01-01,5.2
+303,Tocantins,Norte,2009-01-01,4.6
+304,Maranhão,Nordeste,2009-01-01,4.8
+305,Piauí,Nordeste,2009-01-01,4.4
+306,Ceará,Nordeste,2009-01-01,5.3
+307,Rio Grande do Norte,Nordeste,2009-01-01,10.2
+308,Paraíba,Nordeste,2009-01-01,5.2
+309,Pernambuco,Nordeste,2009-01-01,24.3
+310,Alagoas,Nordeste,2009-01-01,5.5
+311,Sergipe,Nordeste,2009-01-01,5.1
+312,Bahia,Nordeste,2009-01-01,4.4
+313,Minas Gerais,Sudeste,2009-01-01,6.9
+314,Espírito Santo,Sudeste,2009-01-01,6.1
+315,Rio de Janeiro,Sudeste,2009-01-01,13.1
+316,São Paulo,Sudeste,2009-01-01,6.7
+317,Paraná,Sul,2009-01-01,5.2
+318,Santa Catarina,Sul,2009-01-01,5.8
+319,Rio Grande do Sul,Sul,2009-01-01,6.0
+320,Mato Grosso do Sul,Centro-Oeste,2009-01-01,4.9
+321,Mato Grosso,Centro-Oeste,2009-01-01,4.4
+322,Goiás,Centro-Oeste,2009-01-01,5.0
+323,Distrito Federal,Centro-Oeste,2009-01-01,6.7
+324,Rondônia,Norte,2009-02-01,3.8
+325,Acre,Norte,2009-02-01,4.5
+326,Amazonas,Norte,2009-02-01,4.8
+327,Roraima,Norte,2009-02-01,5.2
+328,Pará,Norte,2009-02-01,3.7
+329,Amapá,Norte,2009-02-01,5.2
+330,Tocantins,Norte,2009-02-01,4.8
+331,Maranhão,Nordeste,2009-02-01,4.7
+332,Piauí,Nordeste,2009-02-01,4.3
+333,Ceará,Nordeste,2009-02-01,4.9
+334,Rio Grande do Norte,Nordeste,2009-02-01,5.6
+335,Paraíba,Nordeste,2009-02-01,5.0
+336,Pernambuco,Nordeste,2009-02-01,5.8
+337,Alagoas,Nordeste,2009-02-01,5.2
+338,Sergipe,Nordeste,2009-02-01,5.2
+339,Bahia,Nordeste,2009-02-01,4.2
+340,Minas Gerais,Sudeste,2009-02-01,5.4
+341,Espírito Santo,Sudeste,2009-02-01,5.8
+342,Rio de Janeiro,Sudeste,2009-02-01,8.2
+343,São Paulo,Sudeste,2009-02-01,6.1
+344,Paraná,Sul,2009-02-01,4.9
+345,Santa Catarina,Sul,2009-02-01,5.4
+346,Rio Grande do Sul,Sul,2009-02-01,5.8
+347,Mato Grosso do Sul,Centro-Oeste,2009-02-01,4.7
+348,Mato Grosso,Centro-Oeste,2009-02-01,4.5
+349,Goiás,Centro-Oeste,2009-02-01,5.0
+350,Distrito Federal,Centro-Oeste,2009-02-01,6.3
+351,Rondônia,Norte,2009-03-01,3.8
+352,Acre,Norte,2009-03-01,4.5
+353,Amazonas,Norte,2009-03-01,4.6
+354,Roraima,Norte,2009-03-01,4.7
+355,Pará,Norte,2009-03-01,3.7
+356,Amapá,Norte,2009-03-01,4.8
+357,Tocantins,Norte,2009-03-01,4.6
+358,Maranhão,Nordeste,2009-03-01,4.5
+359,Piauí,Nordeste,2009-03-01,4.3
+360,Ceará,Nordeste,2009-03-01,5.0
+361,Rio Grande do Norte,Nordeste,2009-03-01,5.7
+362,Paraíba,Nordeste,2009-03-01,5.0
+363,Pernambuco,Nordeste,2009-03-01,5.2
+364,Alagoas,Nordeste,2009-03-01,5.6
+365,Sergipe,Nordeste,2009-03-01,4.9
+366,Bahia,Nordeste,2009-03-01,4.0
+367,Minas Gerais,Sudeste,2009-03-01,5.5
+368,Espírito Santo,Sudeste,2009-03-01,5.3
+369,Rio de Janeiro,Sudeste,2009-03-01,8.0
+370,São Paulo,Sudeste,2009-03-01,6.2
+371,Paraná,Sul,2009-03-01,5.0
+372,Santa Catarina,Sul,2009-03-01,5.3
+373,Rio Grande do Sul,Sul,2009-03-01,5.8
+374,Mato Grosso do Sul,Centro-Oeste,2009-03-01,4.7
+375,Mato Grosso,Centro-Oeste,2009-03-01,4.3
+376,Goiás,Centro-Oeste,2009-03-01,4.6
+377,Distrito Federal,Centro-Oeste,2009-03-01,6.2
+378,Rondônia,Norte,2009-04-01,4.0
+379,Acre,Norte,2009-04-01,4.5
+380,Amazonas,Norte,2009-04-01,4.9
+381,Roraima,Norte,2009-04-01,4.9
+382,Pará,Norte,2009-04-01,3.8
+383,Amapá,Norte,2009-04-01,4.8
+384,Tocantins,Norte,2009-04-01,4.6
+385,Maranhão,Nordeste,2009-04-01,4.8
+386,Piauí,Nordeste,2009-04-01,4.4
+387,Ceará,Nordeste,2009-04-01,5.1
+388,Rio Grande do Norte,Nordeste,2009-04-01,6.0
+389,Paraíba,Nordeste,2009-04-01,5.0
+390,Pernambuco,Nordeste,2009-04-01,5.7
+391,Alagoas,Nordeste,2009-04-01,5.4
+392,Sergipe,Nordeste,2009-04-01,4.9
+393,Bahia,Nordeste,2009-04-01,4.1
+394,Minas Gerais,Sudeste,2009-04-01,5.4
+395,Espírito Santo,Sudeste,2009-04-01,5.6
+396,Rio de Janeiro,Sudeste,2009-04-01,8.2
+397,São Paulo,Sudeste,2009-04-01,6.9
+398,Paraná,Sul,2009-04-01,5.0
+399,Santa Catarina,Sul,2009-04-01,5.4
+400,Rio Grande do Sul,Sul,2009-04-01,5.9
+401,Mato Grosso do Sul,Centro-Oeste,2009-04-01,4.7
+402,Mato Grosso,Centro-Oeste,2009-04-01,4.4
+403,Goiás,Centro-Oeste,2009-04-01,4.7
+404,Distrito Federal,Centro-Oeste,2009-04-01,6.4
+405,Rondônia,Norte,2009-05-01,3.8
+406,Acre,Norte,2009-05-01,4.3
+407,Amazonas,Norte,2009-05-01,4.8
+408,Roraima,Norte,2009-05-01,4.8
+409,Pará,Norte,2009-05-01,3.7
+410,Amapá,Norte,2009-05-01,4.6
+411,Tocantins,Norte,2009-05-01,4.5
+412,Maranhão,Nordeste,2009-05-01,4.7
+413,Piauí,Nordeste,2009-05-01,4.3
+414,Ceará,Nordeste,2009-05-01,5.2
+415,Rio Grande do Norte,Nordeste,2009-05-01,5.3
+416,Paraíba,Nordeste,2009-05-01,4.9
+417,Pernambuco,Nordeste,2009-05-01,5.4
+418,Alagoas,Nordeste,2009-05-01,5.5
+419,Sergipe,Nordeste,2009-05-01,4.7
+420,Bahia,Nordeste,2009-05-01,4.1
+421,Minas Gerais,Sudeste,2009-05-01,5.4
+422,Espírito Santo,Sudeste,2009-05-01,5.8
+423,Rio de Janeiro,Sudeste,2009-05-01,8.2
+424,São Paulo,Sudeste,2009-05-01,6.2
+425,Paraná,Sul,2009-05-01,5.1
+426,Santa Catarina,Sul,2009-05-01,5.2
+427,Rio Grande do Sul,Sul,2009-05-01,5.9
+428,Mato Grosso do Sul,Centro-Oeste,2009-05-01,4.8
+429,Mato Grosso,Centro-Oeste,2009-05-01,4.3
+430,Goiás,Centro-Oeste,2009-05-01,4.9
+431,Distrito Federal,Centro-Oeste,2009-05-01,6.2
+432,Rondônia,Norte,2009-06-01,3.9
+433,Acre,Norte,2009-06-01,4.4
+434,Amazonas,Norte,2009-06-01,4.7
+435,Roraima,Norte,2009-06-01,5.0
+436,Pará,Norte,2009-06-01,3.7
+437,Amapá,Norte,2009-06-01,4.9
+438,Tocantins,Norte,2009-06-01,4.6
+439,Maranhão,Nordeste,2009-06-01,4.7
+440,Piauí,Nordeste,2009-06-01,4.3
+441,Ceará,Nordeste,2009-06-01,5.2
+442,Rio Grande do Norte,Nordeste,2009-06-01,5.8
+443,Paraíba,Nordeste,2009-06-01,5.2
+444,Pernambuco,Nordeste,2009-06-01,5.5
+445,Alagoas,Nordeste,2009-06-01,5.8
+446,Sergipe,Nordeste,2009-06-01,5.0
+447,Bahia,Nordeste,2009-06-01,4.4
+448,Minas Gerais,Sudeste,2009-06-01,5.5
+449,Espírito Santo,Sudeste,2009-06-01,5.7
+450,Rio de Janeiro,Sudeste,2009-06-01,9.5
+451,São Paulo,Sudeste,2009-06-01,6.3
+452,Paraná,Sul,2009-06-01,5.1
+453,Santa Catarina,Sul,2009-06-01,5.4
+454,Rio Grande do Sul,Sul,2009-06-01,5.9
+455,Mato Grosso do Sul,Centro-Oeste,2009-06-01,4.8
+456,Mato Grosso,Centro-Oeste,2009-06-01,4.4
+457,Goiás,Centro-Oeste,2009-06-01,5.2
+458,Distrito Federal,Centro-Oeste,2009-06-01,6.4
+459,Rondônia,Norte,2009-07-01,3.7
+460,Acre,Norte,2009-07-01,4.1
+461,Amazonas,Norte,2009-07-01,4.8
+462,Roraima,Norte,2009-07-01,4.7
+463,Pará,Norte,2009-07-01,3.7
+464,Amapá,Norte,2009-07-01,4.6
+465,Tocantins,Norte,2009-07-01,4.8
+466,Maranhão,Nordeste,2009-07-01,4.5
+467,Piauí,Nordeste,2009-07-01,4.3
+468,Ceará,Nordeste,2009-07-01,5.1
+469,Rio Grande do Norte,Nordeste,2009-07-01,5.5
+470,Paraíba,Nordeste,2009-07-01,5.2
+471,Pernambuco,Nordeste,2009-07-01,5.6
+472,Alagoas,Nordeste,2009-07-01,5.3
+473,Sergipe,Nordeste,2009-07-01,5.2
+474,Bahia,Nordeste,2009-07-01,4.1
+475,Minas Gerais,Sudeste,2009-07-01,5.6
+476,Espírito Santo,Sudeste,2009-07-01,5.7
+477,Rio de Janeiro,Sudeste,2009-07-01,8.0
+478,São Paulo,Sudeste,2009-07-01,6.1
+479,Paraná,Sul,2009-07-01,5.0
+480,Santa Catarina,Sul,2009-07-01,5.6
+481,Rio Grande do Sul,Sul,2009-07-01,5.9
+482,Mato Grosso do Sul,Centro-Oeste,2009-07-01,4.8
+483,Mato Grosso,Centro-Oeste,2009-07-01,4.5
+484,Goiás,Centro-Oeste,2009-07-01,4.8
+485,Distrito Federal,Centro-Oeste,2009-07-01,6.5
+486,Rondônia,Norte,2009-08-01,3.7
+487,Acre,Norte,2009-08-01,4.1
+488,Amazonas,Norte,2009-08-01,4.8
+489,Roraima,Norte,2009-08-01,5.0
+490,Pará,Norte,2009-08-01,3.7
+491,Amapá,Norte,2009-08-01,4.4
+492,Tocantins,Norte,2009-08-01,4.8
+493,Maranhão,Nordeste,2009-08-01,4.5
+494,Piauí,Nordeste,2009-08-01,4.4
+495,Ceará,Nordeste,2009-08-01,5.2
+496,Rio Grande do Norte,Nordeste,2009-08-01,5.2
+497,Paraíba,Nordeste,2009-08-01,5.1
+498,Pernambuco,Nordeste,2009-08-01,5.5
+499,Alagoas,Nordeste,2009-08-01,6.3
+500,Sergipe,Nordeste,2009-08-01,4.9
+501,Bahia,Nordeste,2009-08-01,4.1
+502,Minas Gerais,Sudeste,2009-08-01,5.5
+503,Espírito Santo,Sudeste,2009-08-01,5.9
+504,Rio de Janeiro,Sudeste,2009-08-01,8.2
+505,São Paulo,Sudeste,2009-08-01,5.9
+506,Paraná,Sul,2009-08-01,4.9
+507,Santa Catarina,Sul,2009-08-01,5.2
+508,Rio Grande do Sul,Sul,2009-08-01,6.1
+509,Mato Grosso do Sul,Centro-Oeste,2009-08-01,4.8
+510,Mato Grosso,Centro-Oeste,2009-08-01,4.4
+511,Goiás,Centro-Oeste,2009-08-01,5.1
+512,Distrito Federal,Centro-Oeste,2009-08-01,6.5
+513,Rondônia,Norte,2009-09-01,3.7
+514,Acre,Norte,2009-09-01,5.7
+515,Amazonas,Norte,2009-09-01,4.6
+516,Roraima,Norte,2009-09-01,4.8
+517,Pará,Norte,2009-09-01,3.6
+518,Amapá,Norte,2009-09-01,4.6
+519,Tocantins,Norte,2009-09-01,4.5
+520,Maranhão,Nordeste,2009-09-01,4.3
+521,Piauí,Nordeste,2009-09-01,4.4
+522,Ceará,Nordeste,2009-09-01,5.0
+523,Rio Grande do Norte,Nordeste,2009-09-01,5.4
+524,Paraíba,Nordeste,2009-09-01,4.9
+525,Pernambuco,Nordeste,2009-09-01,5.4
+526,Alagoas,Nordeste,2009-09-01,6.0
+527,Sergipe,Nordeste,2009-09-01,5.0
+528,Bahia,Nordeste,2009-09-01,4.1
+529,Minas Gerais,Sudeste,2009-09-01,5.3
+530,Espírito Santo,Sudeste,2009-09-01,5.6
+531,Rio de Janeiro,Sudeste,2009-09-01,7.7
+532,São Paulo,Sudeste,2009-09-01,6.1
+533,Paraná,Sul,2009-09-01,4.9
+534,Santa Catarina,Sul,2009-09-01,5.2
+535,Rio Grande do Sul,Sul,2009-09-01,5.9
+536,Mato Grosso do Sul,Centro-Oeste,2009-09-01,4.6
+537,Mato Grosso,Centro-Oeste,2009-09-01,4.4
+538,Goiás,Centro-Oeste,2009-09-01,4.8
+539,Distrito Federal,Centro-Oeste,2009-09-01,6.3
+540,Rondônia,Norte,2009-10-01,3.6
+541,Acre,Norte,2009-10-01,4.3
+542,Amazonas,Norte,2009-10-01,4.8
+543,Roraima,Norte,2009-10-01,5.0
+544,Pará,Norte,2009-10-01,3.8
+545,Amapá,Norte,2009-10-01,4.6
+546,Tocantins,Norte,2009-10-01,4.5
+547,Maranhão,Nordeste,2009-10-01,4.4
+548,Piauí,Nordeste,2009-10-01,4.3
+549,Ceará,Nordeste,2009-10-01,5.0
+550,Rio Grande do Norte,Nordeste,2009-10-01,5.5
+551,Paraíba,Nordeste,2009-10-01,5.8
+552,Pernambuco,Nordeste,2009-10-01,5.3
+553,Alagoas,Nordeste,2009-10-01,5.3
+554,Sergipe,Nordeste,2009-10-01,5.0
+555,Bahia,Nordeste,2009-10-01,4.2
+556,Minas Gerais,Sudeste,2009-10-01,5.6
+557,Espírito Santo,Sudeste,2009-10-01,6.0
+558,Rio de Janeiro,Sudeste,2009-10-01,7.8
+559,São Paulo,Sudeste,2009-10-01,6.1
+560,Paraná,Sul,2009-10-01,5.0
+561,Santa Catarina,Sul,2009-10-01,5.4
+562,Rio Grande do Sul,Sul,2009-10-01,6.0
+563,Mato Grosso do Sul,Centro-Oeste,2009-10-01,4.7
+564,Mato Grosso,Centro-Oeste,2009-10-01,4.5
+565,Goiás,Centro-Oeste,2009-10-01,5.5
+566,Distrito Federal,Centro-Oeste,2009-10-01,6.6
+567,Rondônia,Norte,2009-11-01,3.6
+568,Acre,Norte,2009-11-01,4.4
+569,Amazonas,Norte,2009-11-01,4.7
+570,Roraima,Norte,2009-11-01,4.9
+571,Pará,Norte,2009-11-01,3.6
+572,Amapá,Norte,2009-11-01,4.6
+573,Tocantins,Norte,2009-11-01,4.5
+574,Maranhão,Nordeste,2009-11-01,4.4
+575,Piauí,Nordeste,2009-11-01,4.1
+576,Ceará,Nordeste,2009-11-01,5.0
+577,Rio Grande do Norte,Nordeste,2009-11-01,5.2
+578,Paraíba,Nordeste,2009-11-01,4.9
+579,Pernambuco,Nordeste,2009-11-01,5.2
+580,Alagoas,Nordeste,2009-11-01,5.5
+581,Sergipe,Nordeste,2009-11-01,5.0
+582,Bahia,Nordeste,2009-11-01,4.1
+583,Minas Gerais,Sudeste,2009-11-01,5.4
+584,Espírito Santo,Sudeste,2009-11-01,5.5
+585,Rio de Janeiro,Sudeste,2009-11-01,8.3
+586,São Paulo,Sudeste,2009-11-01,6.5
+587,Paraná,Sul,2009-11-01,5.0
+588,Santa Catarina,Sul,2009-11-01,5.2
+589,Rio Grande do Sul,Sul,2009-11-01,5.9
+590,Mato Grosso do Sul,Centro-Oeste,2009-11-01,4.5
+591,Mato Grosso,Centro-Oeste,2009-11-01,4.5
+592,Goiás,Centro-Oeste,2009-11-01,4.9
+593,Distrito Federal,Centro-Oeste,2009-11-01,6.5
+594,Rondônia,Norte,2009-12-01,3.4
+595,Acre,Norte,2009-12-01,4.2
+596,Amazonas,Norte,2009-12-01,4.4
+597,Roraima,Norte,2009-12-01,4.9
+598,Pará,Norte,2009-12-01,3.6
+599,Amapá,Norte,2009-12-01,4.4
+600,Tocantins,Norte,2009-12-01,4.4
+601,Maranhão,Nordeste,2009-12-01,4.4
+602,Piauí,Nordeste,2009-12-01,4.2
+603,Ceará,Nordeste,2009-12-01,5.0
+604,Rio Grande do Norte,Nordeste,2009-12-01,5.7
+605,Paraíba,Nordeste,2009-12-01,4.9
+606,Pernambuco,Nordeste,2009-12-01,5.5
+607,Alagoas,Nordeste,2009-12-01,5.5
+608,Sergipe,Nordeste,2009-12-01,5.0
+609,Bahia,Nordeste,2009-12-01,4.2
+610,Minas Gerais,Sudeste,2009-12-01,5.5
+611,Espírito Santo,Sudeste,2009-12-01,5.6
+612,Rio de Janeiro,Sudeste,2009-12-01,7.7
+613,São Paulo,Sudeste,2009-12-01,6.2
+614,Paraná,Sul,2009-12-01,5.2
+615,Santa Catarina,Sul,2009-12-01,5.2
+616,Rio Grande do Sul,Sul,2009-12-01,5.9
+617,Mato Grosso do Sul,Centro-Oeste,2009-12-01,4.5
+618,Mato Grosso,Centro-Oeste,2009-12-01,4.6
+619,Goiás,Centro-Oeste,2009-12-01,5.2
+620,Distrito Federal,Centro-Oeste,2009-12-01,6.3
+621,Rondônia,Norte,2010-01-01,3.7
+622,Acre,Norte,2010-01-01,4.8
+623,Amazonas,Norte,2010-01-01,4.6
+624,Roraima,Norte,2010-01-01,5.5
+625,Pará,Norte,2010-01-01,3.8
+626,Amapá,Norte,2010-01-01,5.1
+627,Tocantins,Norte,2010-01-01,4.6
+628,Maranhão,Nordeste,2010-01-01,4.5
+629,Piauí,Nordeste,2010-01-01,4.3
+630,Ceará,Nordeste,2010-01-01,5.1
+631,Rio Grande do Norte,Nordeste,2010-01-01,5.7
+632,Paraíba,Nordeste,2010-01-01,5.3
+633,Pernambuco,Nordeste,2010-01-01,28.7
+634,Alagoas,Nordeste,2010-01-01,5.8
+635,Sergipe,Nordeste,2010-01-01,5.7
+636,Bahia,Nordeste,2010-01-01,4.3
+637,Minas Gerais,Sudeste,2010-01-01,5.4
+638,Espírito Santo,Sudeste,2010-01-01,6.0
+639,Rio de Janeiro,Sudeste,2010-01-01,9.7
+640,São Paulo,Sudeste,2010-01-01,6.4
+641,Paraná,Sul,2010-01-01,5.3
+642,Santa Catarina,Sul,2010-01-01,5.4
+643,Rio Grande do Sul,Sul,2010-01-01,6.0
+644,Mato Grosso do Sul,Centro-Oeste,2010-01-01,4.8
+645,Mato Grosso,Centro-Oeste,2010-01-01,4.5
+646,Goiás,Centro-Oeste,2010-01-01,5.1
+647,Distrito Federal,Centro-Oeste,2010-01-01,6.8
+648,Rondônia,Norte,2010-02-01,4.0
+649,Acre,Norte,2010-02-01,4.4
+650,Amazonas,Norte,2010-02-01,4.5
+651,Roraima,Norte,2010-02-01,5.1
+652,Pará,Norte,2010-02-01,3.7
+653,Amapá,Norte,2010-02-01,5.3
+654,Tocantins,Norte,2010-02-01,4.4
+655,Maranhão,Nordeste,2010-02-01,4.5
+656,Piauí,Nordeste,2010-02-01,4.2
+657,Ceará,Nordeste,2010-02-01,4.9
+658,Rio Grande do Norte,Nordeste,2010-02-01,5.5
+659,Paraíba,Nordeste,2010-02-01,5.1
+660,Pernambuco,Nordeste,2010-02-01,5.8
+661,Alagoas,Nordeste,2010-02-01,5.2
+662,Sergipe,Nordeste,2010-02-01,5.3
+663,Bahia,Nordeste,2010-02-01,4.3
+664,Minas Gerais,Sudeste,2010-02-01,5.3
+665,Espírito Santo,Sudeste,2010-02-01,5.6
+666,Rio de Janeiro,Sudeste,2010-02-01,8.1
+667,São Paulo,Sudeste,2010-02-01,6.0
+668,Paraná,Sul,2010-02-01,4.9
+669,Santa Catarina,Sul,2010-02-01,5.4
+670,Rio Grande do Sul,Sul,2010-02-01,6.0
+671,Mato Grosso do Sul,Centro-Oeste,2010-02-01,4.7
+672,Mato Grosso,Centro-Oeste,2010-02-01,4.6
+673,Goiás,Centro-Oeste,2010-02-01,4.7
+674,Distrito Federal,Centro-Oeste,2010-02-01,6.8
+675,Rondônia,Norte,2010-03-01,3.9
+676,Acre,Norte,2010-03-01,4.2
+677,Amazonas,Norte,2010-03-01,4.5
+678,Roraima,Norte,2010-03-01,5.0
+679,Pará,Norte,2010-03-01,3.7
+680,Amapá,Norte,2010-03-01,5.0
+681,Tocantins,Norte,2010-03-01,4.5
+682,Maranhão,Nordeste,2010-03-01,4.5
+683,Piauí,Nordeste,2010-03-01,4.0
+684,Ceará,Nordeste,2010-03-01,4.8
+685,Rio Grande do Norte,Nordeste,2010-03-01,5.9
+686,Paraíba,Nordeste,2010-03-01,5.0
+687,Pernambuco,Nordeste,2010-03-01,5.5
+688,Alagoas,Nordeste,2010-03-01,5.0
+689,Sergipe,Nordeste,2010-03-01,5.1
+690,Bahia,Nordeste,2010-03-01,4.1
+691,Minas Gerais,Sudeste,2010-03-01,5.2
+692,Espírito Santo,Sudeste,2010-03-01,5.6
+693,Rio de Janeiro,Sudeste,2010-03-01,7.3
+694,São Paulo,Sudeste,2010-03-01,6.0
+695,Paraná,Sul,2010-03-01,5.0
+696,Santa Catarina,Sul,2010-03-01,5.2
+697,Rio Grande do Sul,Sul,2010-03-01,5.9
+698,Mato Grosso do Sul,Centro-Oeste,2010-03-01,4.6
+699,Mato Grosso,Centro-Oeste,2010-03-01,4.3
+700,Goiás,Centro-Oeste,2010-03-01,4.9
+701,Distrito Federal,Centro-Oeste,2010-03-01,6.5
+702,Rondônia,Norte,2010-04-01,3.9
+703,Acre,Norte,2010-04-01,4.3
+704,Amazonas,Norte,2010-04-01,4.8
+705,Roraima,Norte,2010-04-01,4.9
+706,Pará,Norte,2010-04-01,3.7
+707,Amapá,Norte,2010-04-01,5.1
+708,Tocantins,Norte,2010-04-01,4.4
+709,Maranhão,Nordeste,2010-04-01,4.4
+710,Piauí,Nordeste,2010-04-01,4.1
+711,Ceará,Nordeste,2010-04-01,5.0
+712,Rio Grande do Norte,Nordeste,2010-04-01,5.5
+713,Paraíba,Nordeste,2010-04-01,5.2
+714,Pernambuco,Nordeste,2010-04-01,5.9
+715,Alagoas,Nordeste,2010-04-01,5.0
+716,Sergipe,Nordeste,2010-04-01,5.0
+717,Bahia,Nordeste,2010-04-01,4.1
+718,Minas Gerais,Sudeste,2010-04-01,5.4
+719,Espírito Santo,Sudeste,2010-04-01,5.6
+720,Rio de Janeiro,Sudeste,2010-04-01,17.7
+721,São Paulo,Sudeste,2010-04-01,6.0
+722,Paraná,Sul,2010-04-01,5.1
+723,Santa Catarina,Sul,2010-04-01,5.3
+724,Rio Grande do Sul,Sul,2010-04-01,6.0
+725,Mato Grosso do Sul,Centro-Oeste,2010-04-01,4.7
+726,Mato Grosso,Centro-Oeste,2010-04-01,4.4
+727,Goiás,Centro-Oeste,2010-04-01,4.9
+728,Distrito Federal,Centro-Oeste,2010-04-01,6.6
+729,Rondônia,Norte,2010-05-01,4.1
+730,Acre,Norte,2010-05-01,4.4
+731,Amazonas,Norte,2010-05-01,4.7
+732,Roraima,Norte,2010-05-01,5.0
+733,Pará,Norte,2010-05-01,3.7
+734,Amapá,Norte,2010-05-01,4.9
+735,Tocantins,Norte,2010-05-01,4.4
+736,Maranhão,Nordeste,2010-05-01,4.5
+737,Piauí,Nordeste,2010-05-01,4.0
+738,Ceará,Nordeste,2010-05-01,5.0
+739,Rio Grande do Norte,Nordeste,2010-05-01,5.6
+740,Paraíba,Nordeste,2010-05-01,5.0
+741,Pernambuco,Nordeste,2010-05-01,7.3
+742,Alagoas,Nordeste,2010-05-01,5.2
+743,Sergipe,Nordeste,2010-05-01,5.3
+744,Bahia,Nordeste,2010-05-01,4.2
+745,Minas Gerais,Sudeste,2010-05-01,5.4
+746,Espírito Santo,Sudeste,2010-05-01,5.7
+747,Rio de Janeiro,Sudeste,2010-05-01,8.0
+748,São Paulo,Sudeste,2010-05-01,6.2
+749,Paraná,Sul,2010-05-01,5.0
+750,Santa Catarina,Sul,2010-05-01,5.2
+751,Rio Grande do Sul,Sul,2010-05-01,6.0
+752,Mato Grosso do Sul,Centro-Oeste,2010-05-01,4.9
+753,Mato Grosso,Centro-Oeste,2010-05-01,4.6
+754,Goiás,Centro-Oeste,2010-05-01,8.8
+755,Distrito Federal,Centro-Oeste,2010-05-01,6.6
+756,Rondônia,Norte,2010-06-01,4.1
+757,Acre,Norte,2010-06-01,4.5
+758,Amazonas,Norte,2010-06-01,4.8
+759,Roraima,Norte,2010-06-01,4.9
+760,Pará,Norte,2010-06-01,3.7
+761,Amapá,Norte,2010-06-01,4.6
+762,Tocantins,Norte,2010-06-01,4.4
+763,Maranhão,Nordeste,2010-06-01,4.3
+764,Piauí,Nordeste,2010-06-01,4.0
+765,Ceará,Nordeste,2010-06-01,5.0
+766,Rio Grande do Norte,Nordeste,2010-06-01,5.8
+767,Paraíba,Nordeste,2010-06-01,5.1
+768,Pernambuco,Nordeste,2010-06-01,5.6
+769,Alagoas,Nordeste,2010-06-01,5.0
+770,Sergipe,Nordeste,2010-06-01,5.2
+771,Bahia,Nordeste,2010-06-01,4.3
+772,Minas Gerais,Sudeste,2010-06-01,5.4
+773,Espírito Santo,Sudeste,2010-06-01,5.4
+774,Rio de Janeiro,Sudeste,2010-06-01,7.8
+775,São Paulo,Sudeste,2010-06-01,6.3
+776,Paraná,Sul,2010-06-01,5.0
+777,Santa Catarina,Sul,2010-06-01,5.5
+778,Rio Grande do Sul,Sul,2010-06-01,6.0
+779,Mato Grosso do Sul,Centro-Oeste,2010-06-01,4.8
+780,Mato Grosso,Centro-Oeste,2010-06-01,4.6
+781,Goiás,Centro-Oeste,2010-06-01,5.0
+782,Distrito Federal,Centro-Oeste,2010-06-01,6.9
+783,Rondônia,Norte,2010-07-01,4.0
+784,Acre,Norte,2010-07-01,4.5
+785,Amazonas,Norte,2010-07-01,4.8
+786,Roraima,Norte,2010-07-01,5.1
+787,Pará,Norte,2010-07-01,3.7
+788,Amapá,Norte,2010-07-01,4.7
+789,Tocantins,Norte,2010-07-01,4.6
+790,Maranhão,Nordeste,2010-07-01,4.5
+791,Piauí,Nordeste,2010-07-01,3.9
+792,Ceará,Nordeste,2010-07-01,5.0
+793,Rio Grande do Norte,Nordeste,2010-07-01,5.7
+794,Paraíba,Nordeste,2010-07-01,4.9
+795,Pernambuco,Nordeste,2010-07-01,5.3
+796,Alagoas,Nordeste,2010-07-01,5.1
+797,Sergipe,Nordeste,2010-07-01,5.3
+798,Bahia,Nordeste,2010-07-01,4.3
+799,Minas Gerais,Sudeste,2010-07-01,5.5
+800,Espírito Santo,Sudeste,2010-07-01,5.7
+801,Rio de Janeiro,Sudeste,2010-07-01,8.3
+802,São Paulo,Sudeste,2010-07-01,6.3
+803,Paraná,Sul,2010-07-01,5.1
+804,Santa Catarina,Sul,2010-07-01,5.3
+805,Rio Grande do Sul,Sul,2010-07-01,6.1
+806,Mato Grosso do Sul,Centro-Oeste,2010-07-01,4.9
+807,Mato Grosso,Centro-Oeste,2010-07-01,4.5
+808,Goiás,Centro-Oeste,2010-07-01,5.4
+809,Distrito Federal,Centro-Oeste,2010-07-01,7.1
+810,Rondônia,Norte,2010-08-01,3.8
+811,Acre,Norte,2010-08-01,4.4
+812,Amazonas,Norte,2010-08-01,4.8
+813,Roraima,Norte,2010-08-01,5.0
+814,Pará,Norte,2010-08-01,3.7
+815,Amapá,Norte,2010-08-01,4.2
+816,Tocantins,Norte,2010-08-01,4.3
+817,Maranhão,Nordeste,2010-08-01,4.5
+818,Piauí,Nordeste,2010-08-01,4.0
+819,Ceará,Nordeste,2010-08-01,5.1
+820,Rio Grande do Norte,Nordeste,2010-08-01,5.7
+821,Paraíba,Nordeste,2010-08-01,4.9
+822,Pernambuco,Nordeste,2010-08-01,6.0
+823,Alagoas,Nordeste,2010-08-01,5.3
+824,Sergipe,Nordeste,2010-08-01,5.6
+825,Bahia,Nordeste,2010-08-01,4.1
+826,Minas Gerais,Sudeste,2010-08-01,5.5
+827,Espírito Santo,Sudeste,2010-08-01,5.8
+828,Rio de Janeiro,Sudeste,2010-08-01,7.9
+829,São Paulo,Sudeste,2010-08-01,7.2
+830,Paraná,Sul,2010-08-01,5.1
+831,Santa Catarina,Sul,2010-08-01,5.3
+832,Rio Grande do Sul,Sul,2010-08-01,6.2
+833,Mato Grosso do Sul,Centro-Oeste,2010-08-01,4.6
+834,Mato Grosso,Centro-Oeste,2010-08-01,4.3
+835,Goiás,Centro-Oeste,2010-08-01,5.0
+836,Distrito Federal,Centro-Oeste,2010-08-01,6.5
+837,Rondônia,Norte,2010-09-01,4.1
+838,Acre,Norte,2010-09-01,4.2
+839,Amazonas,Norte,2010-09-01,4.8
+840,Roraima,Norte,2010-09-01,5.2
+841,Pará,Norte,2010-09-01,3.7
+842,Amapá,Norte,2010-09-01,4.1
+843,Tocantins,Norte,2010-09-01,4.2
+844,Maranhão,Nordeste,2010-09-01,4.2
+845,Piauí,Nordeste,2010-09-01,3.8
+846,Ceará,Nordeste,2010-09-01,5.0
+847,Rio Grande do Norte,Nordeste,2010-09-01,5.8
+848,Paraíba,Nordeste,2010-09-01,5.1
+849,Pernambuco,Nordeste,2010-09-01,6.1
+850,Alagoas,Nordeste,2010-09-01,5.2
+851,Sergipe,Nordeste,2010-09-01,5.3
+852,Bahia,Nordeste,2010-09-01,4.1
+853,Minas Gerais,Sudeste,2010-09-01,5.3
+854,Espírito Santo,Sudeste,2010-09-01,6.9
+855,Rio de Janeiro,Sudeste,2010-09-01,8.6
+856,São Paulo,Sudeste,2010-09-01,6.3
+857,Paraná,Sul,2010-09-01,5.0
+858,Santa Catarina,Sul,2010-09-01,5.4
+859,Rio Grande do Sul,Sul,2010-09-01,6.2
+860,Mato Grosso do Sul,Centro-Oeste,2010-09-01,4.6
+861,Mato Grosso,Centro-Oeste,2010-09-01,4.4
+862,Goiás,Centro-Oeste,2010-09-01,5.0
+863,Distrito Federal,Centro-Oeste,2010-09-01,6.6
+864,Rondônia,Norte,2010-10-01,4.1
+865,Acre,Norte,2010-10-01,4.2
+866,Amazonas,Norte,2010-10-01,4.7
+867,Roraima,Norte,2010-10-01,5.0
+868,Pará,Norte,2010-10-01,3.8
+869,Amapá,Norte,2010-10-01,4.7
+870,Tocantins,Norte,2010-10-01,4.5
+871,Maranhão,Nordeste,2010-10-01,4.3
+872,Piauí,Nordeste,2010-10-01,4.2
+873,Ceará,Nordeste,2010-10-01,5.2
+874,Rio Grande do Norte,Nordeste,2010-10-01,5.7
+875,Paraíba,Nordeste,2010-10-01,5.2
+876,Pernambuco,Nordeste,2010-10-01,5.7
+877,Alagoas,Nordeste,2010-10-01,5.4
+878,Sergipe,Nordeste,2010-10-01,5.6
+879,Bahia,Nordeste,2010-10-01,4.3
+880,Minas Gerais,Sudeste,2010-10-01,5.3
+881,Espírito Santo,Sudeste,2010-10-01,5.7
+882,Rio de Janeiro,Sudeste,2010-10-01,8.1
+883,São Paulo,Sudeste,2010-10-01,7.3
+884,Paraná,Sul,2010-10-01,5.1
+885,Santa Catarina,Sul,2010-10-01,5.3
+886,Rio Grande do Sul,Sul,2010-10-01,6.1
+887,Mato Grosso do Sul,Centro-Oeste,2010-10-01,5.0
+888,Mato Grosso,Centro-Oeste,2010-10-01,4.5
+889,Goiás,Centro-Oeste,2010-10-01,5.0
+890,Distrito Federal,Centro-Oeste,2010-10-01,6.6
+891,Rondônia,Norte,2010-11-01,4.1
+892,Acre,Norte,2010-11-01,4.4
+893,Amazonas,Norte,2010-11-01,4.8
+894,Roraima,Norte,2010-11-01,4.9
+895,Pará,Norte,2010-11-01,3.7
+896,Amapá,Norte,2010-11-01,4.6
+897,Tocantins,Norte,2010-11-01,4.5
+898,Maranhão,Nordeste,2010-11-01,4.2
+899,Piauí,Nordeste,2010-11-01,3.9
+900,Ceará,Nordeste,2010-11-01,5.1
+901,Rio Grande do Norte,Nordeste,2010-11-01,5.7
+902,Paraíba,Nordeste,2010-11-01,5.2
+903,Pernambuco,Nordeste,2010-11-01,5.3
+904,Alagoas,Nordeste,2010-11-01,5.3
+905,Sergipe,Nordeste,2010-11-01,5.2
+906,Bahia,Nordeste,2010-11-01,4.2
+907,Minas Gerais,Sudeste,2010-11-01,5.3
+908,Espírito Santo,Sudeste,2010-11-01,5.5
+909,Rio de Janeiro,Sudeste,2010-11-01,7.6
+910,São Paulo,Sudeste,2010-11-01,6.5
+911,Paraná,Sul,2010-11-01,5.0
+912,Santa Catarina,Sul,2010-11-01,5.3
+913,Rio Grande do Sul,Sul,2010-11-01,6.1
+914,Mato Grosso do Sul,Centro-Oeste,2010-11-01,4.8
+915,Mato Grosso,Centro-Oeste,2010-11-01,4.4
+916,Goiás,Centro-Oeste,2010-11-01,4.8
+917,Distrito Federal,Centro-Oeste,2010-11-01,7.0
+918,Rondônia,Norte,2010-12-01,3.9
+919,Acre,Norte,2010-12-01,4.3
+920,Amazonas,Norte,2010-12-01,4.5
+921,Roraima,Norte,2010-12-01,4.8
+922,Pará,Norte,2010-12-01,3.7
+923,Amapá,Norte,2010-12-01,4.6
+924,Tocantins,Norte,2010-12-01,4.3
+925,Maranhão,Nordeste,2010-12-01,4.2
+926,Piauí,Nordeste,2010-12-01,3.9
+927,Ceará,Nordeste,2010-12-01,5.2
+928,Rio Grande do Norte,Nordeste,2010-12-01,5.6
+929,Paraíba,Nordeste,2010-12-01,5.5
+930,Pernambuco,Nordeste,2010-12-01,6.2
+931,Alagoas,Nordeste,2010-12-01,5.3
+932,Sergipe,Nordeste,2010-12-01,5.7
+933,Bahia,Nordeste,2010-12-01,4.3
+934,Minas Gerais,Sudeste,2010-12-01,5.2
+935,Espírito Santo,Sudeste,2010-12-01,5.5
+936,Rio de Janeiro,Sudeste,2010-12-01,8.0
+937,São Paulo,Sudeste,2010-12-01,6.0
+938,Paraná,Sul,2010-12-01,5.0
+939,Santa Catarina,Sul,2010-12-01,5.1
+940,Rio Grande do Sul,Sul,2010-12-01,5.8
+941,Mato Grosso do Sul,Centro-Oeste,2010-12-01,4.5
+942,Mato Grosso,Centro-Oeste,2010-12-01,4.2
+943,Goiás,Centro-Oeste,2010-12-01,4.8
+944,Distrito Federal,Centro-Oeste,2010-12-01,6.7
+945,Rondônia,Norte,2011-01-01,4.3
+946,Acre,Norte,2011-01-01,4.6
+947,Amazonas,Norte,2011-01-01,4.8
+948,Roraima,Norte,2011-01-01,5.2
+949,Pará,Norte,2011-01-01,3.8
+950,Amapá,Norte,2011-01-01,5.0
+951,Tocantins,Norte,2011-01-01,4.5
+952,Maranhão,Nordeste,2011-01-01,4.4
+953,Piauí,Nordeste,2011-01-01,5.9
+954,Ceará,Nordeste,2011-01-01,5.1
+955,Rio Grande do Norte,Nordeste,2011-01-01,6.0
+956,Paraíba,Nordeste,2011-01-01,5.1
+957,Pernambuco,Nordeste,2011-01-01,8.0
+958,Alagoas,Nordeste,2011-01-01,5.4
+959,Sergipe,Nordeste,2011-01-01,5.5
+960,Bahia,Nordeste,2011-01-01,4.4
+961,Minas Gerais,Sudeste,2011-01-01,5.8
+962,Espírito Santo,Sudeste,2011-01-01,5.7
+963,Rio de Janeiro,Sudeste,2011-01-01,15.3
+964,São Paulo,Sudeste,2011-01-01,6.4
+965,Paraná,Sul,2011-01-01,5.1
+966,Santa Catarina,Sul,2011-01-01,5.4
+967,Rio Grande do Sul,Sul,2011-01-01,6.0
+968,Mato Grosso do Sul,Centro-Oeste,2011-01-01,4.6
+969,Mato Grosso,Centro-Oeste,2011-01-01,4.5
+970,Goiás,Centro-Oeste,2011-01-01,5.1
+971,Distrito Federal,Centro-Oeste,2011-01-01,7.0
+972,Rondônia,Norte,2011-02-01,4.3
+973,Acre,Norte,2011-02-01,4.5
+974,Amazonas,Norte,2011-02-01,4.8
+975,Roraima,Norte,2011-02-01,5.3
+976,Pará,Norte,2011-02-01,3.8
+977,Amapá,Norte,2011-02-01,4.8
+978,Tocantins,Norte,2011-02-01,4.4
+979,Maranhão,Nordeste,2011-02-01,4.4
+980,Piauí,Nordeste,2011-02-01,4.0
+981,Ceará,Nordeste,2011-02-01,5.2
+982,Rio Grande do Norte,Nordeste,2011-02-01,5.7
+983,Paraíba,Nordeste,2011-02-01,5.2
+984,Pernambuco,Nordeste,2011-02-01,5.3
+985,Alagoas,Nordeste,2011-02-01,5.4
+986,Sergipe,Nordeste,2011-02-01,5.3
+987,Bahia,Nordeste,2011-02-01,4.3
+988,Minas Gerais,Sudeste,2011-02-01,5.3
+989,Espírito Santo,Sudeste,2011-02-01,5.2
+990,Rio de Janeiro,Sudeste,2011-02-01,11.2
+991,São Paulo,Sudeste,2011-02-01,5.9
+992,Paraná,Sul,2011-02-01,5.1
+993,Santa Catarina,Sul,2011-02-01,5.4
+994,Rio Grande do Sul,Sul,2011-02-01,6.1
+995,Mato Grosso do Sul,Centro-Oeste,2011-02-01,4.7
+996,Mato Grosso,Centro-Oeste,2011-02-01,4.3
+997,Goiás,Centro-Oeste,2011-02-01,4.7
+998,Distrito Federal,Centro-Oeste,2011-02-01,6.5
+999,Rondônia,Norte,2011-03-01,4.2
+1000,Acre,Norte,2011-03-01,4.6
+1001,Amazonas,Norte,2011-03-01,4.9
+1002,Roraima,Norte,2011-03-01,5.4
+1003,Pará,Norte,2011-03-01,3.8
+1004,Amapá,Norte,2011-03-01,5.0
+1005,Tocantins,Norte,2011-03-01,4.4
+1006,Maranhão,Nordeste,2011-03-01,4.4
+1007,Piauí,Nordeste,2011-03-01,4.1
+1008,Ceará,Nordeste,2011-03-01,5.0
+1009,Rio Grande do Norte,Nordeste,2011-03-01,6.2
+1010,Paraíba,Nordeste,2011-03-01,5.1
+1011,Pernambuco,Nordeste,2011-03-01,5.4
+1012,Alagoas,Nordeste,2011-03-01,5.5
+1013,Sergipe,Nordeste,2011-03-01,5.1
+1014,Bahia,Nordeste,2011-03-01,4.2
+1015,Minas Gerais,Sudeste,2011-03-01,5.4
+1016,Espírito Santo,Sudeste,2011-03-01,5.4
+1017,Rio de Janeiro,Sudeste,2011-03-01,8.1
+1018,São Paulo,Sudeste,2011-03-01,5.8
+1019,Paraná,Sul,2011-03-01,5.1
+1020,Santa Catarina,Sul,2011-03-01,5.4
+1021,Rio Grande do Sul,Sul,2011-03-01,6.2
+1022,Mato Grosso do Sul,Centro-Oeste,2011-03-01,4.9
+1023,Mato Grosso,Centro-Oeste,2011-03-01,4.4
+1024,Goiás,Centro-Oeste,2011-03-01,4.8
+1025,Distrito Federal,Centro-Oeste,2011-03-01,6.6
+1026,Rondônia,Norte,2011-04-01,4.3
+1027,Acre,Norte,2011-04-01,4.7
+1028,Amazonas,Norte,2011-04-01,4.7
+1029,Roraima,Norte,2011-04-01,5.3
+1030,Pará,Norte,2011-04-01,3.8
+1031,Amapá,Norte,2011-04-01,5.2
+1032,Tocantins,Norte,2011-04-01,4.4
+1033,Maranhão,Nordeste,2011-04-01,4.7
+1034,Piauí,Nordeste,2011-04-01,4.3
+1035,Ceará,Nordeste,2011-04-01,5.0
+1036,Rio Grande do Norte,Nordeste,2011-04-01,5.8
+1037,Paraíba,Nordeste,2011-04-01,5.2
+1038,Pernambuco,Nordeste,2011-04-01,5.6
+1039,Alagoas,Nordeste,2011-04-01,4.9
+1040,Sergipe,Nordeste,2011-04-01,5.0
+1041,Bahia,Nordeste,2011-04-01,4.2
+1042,Minas Gerais,Sudeste,2011-04-01,5.3
+1043,Espírito Santo,Sudeste,2011-04-01,5.6
+1044,Rio de Janeiro,Sudeste,2011-04-01,7.7
+1045,São Paulo,Sudeste,2011-04-01,5.9
+1046,Paraná,Sul,2011-04-01,5.1
+1047,Santa Catarina,Sul,2011-04-01,5.2
+1048,Rio Grande do Sul,Sul,2011-04-01,6.2
+1049,Mato Grosso do Sul,Centro-Oeste,2011-04-01,4.8
+1050,Mato Grosso,Centro-Oeste,2011-04-01,4.3
+1051,Goiás,Centro-Oeste,2011-04-01,4.7
+1052,Distrito Federal,Centro-Oeste,2011-04-01,6.5
+1053,Rondônia,Norte,2011-05-01,4.3
+1054,Acre,Norte,2011-05-01,4.5
+1055,Amazonas,Norte,2011-05-01,4.7
+1056,Roraima,Norte,2011-05-01,4.6
+1057,Pará,Norte,2011-05-01,3.8
+1058,Amapá,Norte,2011-05-01,5.1
+1059,Tocantins,Norte,2011-05-01,4.4
+1060,Maranhão,Nordeste,2011-05-01,4.5
+1061,Piauí,Nordeste,2011-05-01,4.0
+1062,Ceará,Nordeste,2011-05-01,5.2
+1063,Rio Grande do Norte,Nordeste,2011-05-01,5.7
+1064,Paraíba,Nordeste,2011-05-01,5.5
+1065,Pernambuco,Nordeste,2011-05-01,5.5
+1066,Alagoas,Nordeste,2011-05-01,5.5
+1067,Sergipe,Nordeste,2011-05-01,4.9
+1068,Bahia,Nordeste,2011-05-01,4.2
+1069,Minas Gerais,Sudeste,2011-05-01,5.3
+1070,Espírito Santo,Sudeste,2011-05-01,5.3
+1071,Rio de Janeiro,Sudeste,2011-05-01,7.5
+1072,São Paulo,Sudeste,2011-05-01,5.8
+1073,Paraná,Sul,2011-05-01,5.1
+1074,Santa Catarina,Sul,2011-05-01,5.3
+1075,Rio Grande do Sul,Sul,2011-05-01,6.1
+1076,Mato Grosso do Sul,Centro-Oeste,2011-05-01,4.6
+1077,Mato Grosso,Centro-Oeste,2011-05-01,4.6
+1078,Goiás,Centro-Oeste,2011-05-01,5.1
+1079,Distrito Federal,Centro-Oeste,2011-05-01,6.4
+1080,Rondônia,Norte,2011-06-01,4.4
+1081,Acre,Norte,2011-06-01,4.6
+1082,Amazonas,Norte,2011-06-01,4.8
+1083,Roraima,Norte,2011-06-01,5.1
+1084,Pará,Norte,2011-06-01,3.7
+1085,Amapá,Norte,2011-06-01,5.1
+1086,Tocantins,Norte,2011-06-01,4.5
+1087,Maranhão,Nordeste,2011-06-01,4.4
+1088,Piauí,Nordeste,2011-06-01,4.0
+1089,Ceará,Nordeste,2011-06-01,5.3
+1090,Rio Grande do Norte,Nordeste,2011-06-01,6.0
+1091,Paraíba,Nordeste,2011-06-01,5.4
+1092,Pernambuco,Nordeste,2011-06-01,5.3
+1093,Alagoas,Nordeste,2011-06-01,5.4
+1094,Sergipe,Nordeste,2011-06-01,4.8
+1095,Bahia,Nordeste,2011-06-01,4.2
+1096,Minas Gerais,Sudeste,2011-06-01,5.4
+1097,Espírito Santo,Sudeste,2011-06-01,5.3
+1098,Rio de Janeiro,Sudeste,2011-06-01,7.7
+1099,São Paulo,Sudeste,2011-06-01,6.3
+1100,Paraná,Sul,2011-06-01,5.2
+1101,Santa Catarina,Sul,2011-06-01,5.5
+1102,Rio Grande do Sul,Sul,2011-06-01,6.2
+1103,Mato Grosso do Sul,Centro-Oeste,2011-06-01,4.8
+1104,Mato Grosso,Centro-Oeste,2011-06-01,4.7
+1105,Goiás,Centro-Oeste,2011-06-01,5.0
+1106,Distrito Federal,Centro-Oeste,2011-06-01,6.7
+1107,Rondônia,Norte,2011-07-01,4.3
+1108,Acre,Norte,2011-07-01,4.6
+1109,Amazonas,Norte,2011-07-01,4.7
+1110,Roraima,Norte,2011-07-01,5.1
+1111,Pará,Norte,2011-07-01,3.8
+1112,Amapá,Norte,2011-07-01,4.9
+1113,Tocantins,Norte,2011-07-01,4.6
+1114,Maranhão,Nordeste,2011-07-01,4.6
+1115,Piauí,Nordeste,2011-07-01,4.1
+1116,Ceará,Nordeste,2011-07-01,5.3
+1117,Rio Grande do Norte,Nordeste,2011-07-01,5.7
+1118,Paraíba,Nordeste,2011-07-01,5.4
+1119,Pernambuco,Nordeste,2011-07-01,6.2
+1120,Alagoas,Nordeste,2011-07-01,5.5
+1121,Sergipe,Nordeste,2011-07-01,5.3
+1122,Bahia,Nordeste,2011-07-01,4.3
+1123,Minas Gerais,Sudeste,2011-07-01,5.5
+1124,Espírito Santo,Sudeste,2011-07-01,5.5
+1125,Rio de Janeiro,Sudeste,2011-07-01,8.0
+1126,São Paulo,Sudeste,2011-07-01,6.1
+1127,Paraná,Sul,2011-07-01,5.2
+1128,Santa Catarina,Sul,2011-07-01,5.3
+1129,Rio Grande do Sul,Sul,2011-07-01,6.2
+1130,Mato Grosso do Sul,Centro-Oeste,2011-07-01,4.8
+1131,Mato Grosso,Centro-Oeste,2011-07-01,4.6
+1132,Goiás,Centro-Oeste,2011-07-01,5.0
+1133,Distrito Federal,Centro-Oeste,2011-07-01,6.8
+1134,Rondônia,Norte,2011-08-01,4.2
+1135,Acre,Norte,2011-08-01,4.9
+1136,Amazonas,Norte,2011-08-01,4.7
+1137,Roraima,Norte,2011-08-01,4.9
+1138,Pará,Norte,2011-08-01,3.7
+1139,Amapá,Norte,2011-08-01,5.1
+1140,Tocantins,Norte,2011-08-01,4.5
+1141,Maranhão,Nordeste,2011-08-01,4.6
+1142,Piauí,Nordeste,2011-08-01,4.0
+1143,Ceará,Nordeste,2011-08-01,5.2
+1144,Rio Grande do Norte,Nordeste,2011-08-01,5.6
+1145,Paraíba,Nordeste,2011-08-01,5.2
+1146,Pernambuco,Nordeste,2011-08-01,5.5
+1147,Alagoas,Nordeste,2011-08-01,5.9
+1148,Sergipe,Nordeste,2011-08-01,4.8
+1149,Bahia,Nordeste,2011-08-01,5.7
+1150,Minas Gerais,Sudeste,2011-08-01,5.4
+1151,Espírito Santo,Sudeste,2011-08-01,5.7
+1152,Rio de Janeiro,Sudeste,2011-08-01,7.9
+1153,São Paulo,Sudeste,2011-08-01,6.1
+1154,Paraná,Sul,2011-08-01,5.2
+1155,Santa Catarina,Sul,2011-08-01,5.5
+1156,Rio Grande do Sul,Sul,2011-08-01,6.1
+1157,Mato Grosso do Sul,Centro-Oeste,2011-08-01,4.7
+1158,Mato Grosso,Centro-Oeste,2011-08-01,4.5
+1159,Goiás,Centro-Oeste,2011-08-01,5.0
+1160,Distrito Federal,Centro-Oeste,2011-08-01,6.7
+1161,Rondônia,Norte,2011-09-01,4.0
+1162,Acre,Norte,2011-09-01,4.5
+1163,Amazonas,Norte,2011-09-01,4.8
+1164,Roraima,Norte,2011-09-01,4.7
+1165,Pará,Norte,2011-09-01,3.7
+1166,Amapá,Norte,2011-09-01,4.7
+1167,Tocantins,Norte,2011-09-01,4.6
+1168,Maranhão,Nordeste,2011-09-01,4.5
+1169,Piauí,Nordeste,2011-09-01,4.0
+1170,Ceará,Nordeste,2011-09-01,5.1
+1171,Rio Grande do Norte,Nordeste,2011-09-01,5.6
+1172,Paraíba,Nordeste,2011-09-01,5.4
+1173,Pernambuco,Nordeste,2011-09-01,5.6
+1174,Alagoas,Nordeste,2011-09-01,5.1
+1175,Sergipe,Nordeste,2011-09-01,5.4
+1176,Bahia,Nordeste,2011-09-01,4.5
+1177,Minas Gerais,Sudeste,2011-09-01,5.4
+1178,Espírito Santo,Sudeste,2011-09-01,5.5
+1179,Rio de Janeiro,Sudeste,2011-09-01,8.2
+1180,São Paulo,Sudeste,2011-09-01,6.2
+1181,Paraná,Sul,2011-09-01,5.2
+1182,Santa Catarina,Sul,2011-09-01,5.4
+1183,Rio Grande do Sul,Sul,2011-09-01,6.3
+1184,Mato Grosso do Sul,Centro-Oeste,2011-09-01,4.8
+1185,Mato Grosso,Centro-Oeste,2011-09-01,4.5
+1186,Goiás,Centro-Oeste,2011-09-01,5.1
+1187,Distrito Federal,Centro-Oeste,2011-09-01,7.1
+1188,Rondônia,Norte,2011-10-01,4.2
+1189,Acre,Norte,2011-10-01,4.9
+1190,Amazonas,Norte,2011-10-01,4.9
+1191,Roraima,Norte,2011-10-01,5.1
+1192,Pará,Norte,2011-10-01,3.8
+1193,Amapá,Norte,2011-10-01,4.9
+1194,Tocantins,Norte,2011-10-01,4.3
+1195,Maranhão,Nordeste,2011-10-01,4.3
+1196,Piauí,Nordeste,2011-10-01,4.0
+1197,Ceará,Nordeste,2011-10-01,5.2
+1198,Rio Grande do Norte,Nordeste,2011-10-01,5.5
+1199,Paraíba,Nordeste,2011-10-01,5.4
+1200,Pernambuco,Nordeste,2011-10-01,5.6
+1201,Alagoas,Nordeste,2011-10-01,5.6
+1202,Sergipe,Nordeste,2011-10-01,5.4
+1203,Bahia,Nordeste,2011-10-01,4.8
+1204,Minas Gerais,Sudeste,2011-10-01,5.6
+1205,Espírito Santo,Sudeste,2011-10-01,5.4
+1206,Rio de Janeiro,Sudeste,2011-10-01,8.5
+1207,São Paulo,Sudeste,2011-10-01,6.1
+1208,Paraná,Sul,2011-10-01,5.1
+1209,Santa Catarina,Sul,2011-10-01,5.4
+1210,Rio Grande do Sul,Sul,2011-10-01,6.3
+1211,Mato Grosso do Sul,Centro-Oeste,2011-10-01,4.8
+1212,Mato Grosso,Centro-Oeste,2011-10-01,4.9
+1213,Goiás,Centro-Oeste,2011-10-01,5.5
+1214,Distrito Federal,Centro-Oeste,2011-10-01,7.2
+1215,Rondônia,Norte,2011-11-01,4.1
+1216,Acre,Norte,2011-11-01,4.6
+1217,Amazonas,Norte,2011-11-01,4.8
+1218,Roraima,Norte,2011-11-01,4.9
+1219,Pará,Norte,2011-11-01,3.8
+1220,Amapá,Norte,2011-11-01,4.9
+1221,Tocantins,Norte,2011-11-01,4.1
+1222,Maranhão,Nordeste,2011-11-01,4.3
+1223,Piauí,Nordeste,2011-11-01,3.9
+1224,Ceará,Nordeste,2011-11-01,5.0
+1225,Rio Grande do Norte,Nordeste,2011-11-01,5.4
+1226,Paraíba,Nordeste,2011-11-01,5.3
+1227,Pernambuco,Nordeste,2011-11-01,5.7
+1228,Alagoas,Nordeste,2011-11-01,5.4
+1229,Sergipe,Nordeste,2011-11-01,5.1
+1230,Bahia,Nordeste,2011-11-01,4.3
+1231,Minas Gerais,Sudeste,2011-11-01,5.4
+1232,Espírito Santo,Sudeste,2011-11-01,5.3
+1233,Rio de Janeiro,Sudeste,2011-11-01,7.8
+1234,São Paulo,Sudeste,2011-11-01,6.1
+1235,Paraná,Sul,2011-11-01,5.1
+1236,Santa Catarina,Sul,2011-11-01,5.2
+1237,Rio Grande do Sul,Sul,2011-11-01,6.1
+1238,Mato Grosso do Sul,Centro-Oeste,2011-11-01,4.6
+1239,Mato Grosso,Centro-Oeste,2011-11-01,4.4
+1240,Goiás,Centro-Oeste,2011-11-01,5.1
+1241,Distrito Federal,Centro-Oeste,2011-11-01,7.0
+1242,Rondônia,Norte,2011-12-01,4.0
+1243,Acre,Norte,2011-12-01,4.5
+1244,Amazonas,Norte,2011-12-01,4.6
+1245,Roraima,Norte,2011-12-01,4.5
+1246,Pará,Norte,2011-12-01,3.7
+1247,Amapá,Norte,2011-12-01,4.8
+1248,Tocantins,Norte,2011-12-01,4.2
+1249,Maranhão,Nordeste,2011-12-01,4.3
+1250,Piauí,Nordeste,2011-12-01,4.0
+1251,Ceará,Nordeste,2011-12-01,5.1
+1252,Rio Grande do Norte,Nordeste,2011-12-01,5.7
+1253,Paraíba,Nordeste,2011-12-01,5.3
+1254,Pernambuco,Nordeste,2011-12-01,5.6
+1255,Alagoas,Nordeste,2011-12-01,5.5
+1256,Sergipe,Nordeste,2011-12-01,5.1
+1257,Bahia,Nordeste,2011-12-01,4.3
+1258,Minas Gerais,Sudeste,2011-12-01,5.3
+1259,Espírito Santo,Sudeste,2011-12-01,5.3
+1260,Rio de Janeiro,Sudeste,2011-12-01,7.8
+1261,São Paulo,Sudeste,2011-12-01,6.0
+1262,Paraná,Sul,2011-12-01,5.0
+1263,Santa Catarina,Sul,2011-12-01,5.0
+1264,Rio Grande do Sul,Sul,2011-12-01,5.9
+1265,Mato Grosso do Sul,Centro-Oeste,2011-12-01,4.5
+1266,Mato Grosso,Centro-Oeste,2011-12-01,4.3
+1267,Goiás,Centro-Oeste,2011-12-01,5.0
+1268,Distrito Federal,Centro-Oeste,2011-12-01,6.9
+1269,Rondônia,Norte,2012-01-01,4.5
+1270,Acre,Norte,2012-01-01,4.7
+1271,Amazonas,Norte,2012-01-01,5.0
+1272,Roraima,Norte,2012-01-01,4.4
+1273,Pará,Norte,2012-01-01,3.8
+1274,Amapá,Norte,2012-01-01,5.0
+1275,Tocantins,Norte,2012-01-01,4.5
+1276,Maranhão,Nordeste,2012-01-01,4.6
+1277,Piauí,Nordeste,2012-01-01,4.2
+1278,Ceará,Nordeste,2012-01-01,5.1
+1279,Rio Grande do Norte,Nordeste,2012-01-01,5.7
+1280,Paraíba,Nordeste,2012-01-01,5.8
+1281,Pernambuco,Nordeste,2012-01-01,7.0
+1282,Alagoas,Nordeste,2012-01-01,5.9
+1283,Sergipe,Nordeste,2012-01-01,5.6
+1284,Bahia,Nordeste,2012-01-01,4.5
+1285,Minas Gerais,Sudeste,2012-01-01,6.5
+1286,Espírito Santo,Sudeste,2012-01-01,5.3
+1287,Rio de Janeiro,Sudeste,2012-01-01,12.9
+1288,São Paulo,Sudeste,2012-01-01,6.1
+1289,Paraná,Sul,2012-01-01,5.2
+1290,Santa Catarina,Sul,2012-01-01,5.3
+1291,Rio Grande do Sul,Sul,2012-01-01,6.1
+1292,Mato Grosso do Sul,Centro-Oeste,2012-01-01,4.8
+1293,Mato Grosso,Centro-Oeste,2012-01-01,4.5
+1294,Goiás,Centro-Oeste,2012-01-01,5.3
+1295,Distrito Federal,Centro-Oeste,2012-01-01,7.4
+1296,Rondônia,Norte,2012-02-01,4.6
+1297,Acre,Norte,2012-02-01,5.1
+1298,Amazonas,Norte,2012-02-01,4.9
+1299,Roraima,Norte,2012-02-01,4.9
+1300,Pará,Norte,2012-02-01,3.8
+1301,Amapá,Norte,2012-02-01,4.9
+1302,Tocantins,Norte,2012-02-01,4.1
+1303,Maranhão,Nordeste,2012-02-01,4.4
+1304,Piauí,Nordeste,2012-02-01,4.1
+1305,Ceará,Nordeste,2012-02-01,5.2
+1306,Rio Grande do Norte,Nordeste,2012-02-01,5.6
+1307,Paraíba,Nordeste,2012-02-01,5.2
+1308,Pernambuco,Nordeste,2012-02-01,5.6
+1309,Alagoas,Nordeste,2012-02-01,5.3
+1310,Sergipe,Nordeste,2012-02-01,5.4
+1311,Bahia,Nordeste,2012-02-01,4.5
+1312,Minas Gerais,Sudeste,2012-02-01,5.5
+1313,Espírito Santo,Sudeste,2012-02-01,5.3
+1314,Rio de Janeiro,Sudeste,2012-02-01,7.7
+1315,São Paulo,Sudeste,2012-02-01,5.9
+1316,Paraná,Sul,2012-02-01,4.9
+1317,Santa Catarina,Sul,2012-02-01,5.2
+1318,Rio Grande do Sul,Sul,2012-02-01,6.1
+1319,Mato Grosso do Sul,Centro-Oeste,2012-02-01,4.8
+1320,Mato Grosso,Centro-Oeste,2012-02-01,4.4
+1321,Goiás,Centro-Oeste,2012-02-01,5.2
+1322,Distrito Federal,Centro-Oeste,2012-02-01,6.9
+1323,Rondônia,Norte,2012-03-01,4.6
+1324,Acre,Norte,2012-03-01,4.7
+1325,Amazonas,Norte,2012-03-01,5.1
+1326,Roraima,Norte,2012-03-01,4.8
+1327,Pará,Norte,2012-03-01,3.8
+1328,Amapá,Norte,2012-03-01,5.0
+1329,Tocantins,Norte,2012-03-01,4.3
+1330,Maranhão,Nordeste,2012-03-01,4.3
+1331,Piauí,Nordeste,2012-03-01,4.1
+1332,Ceará,Nordeste,2012-03-01,5.0
+1333,Rio Grande do Norte,Nordeste,2012-03-01,5.3
+1334,Paraíba,Nordeste,2012-03-01,5.2
+1335,Pernambuco,Nordeste,2012-03-01,5.2
+1336,Alagoas,Nordeste,2012-03-01,5.8
+1337,Sergipe,Nordeste,2012-03-01,5.2
+1338,Bahia,Nordeste,2012-03-01,4.3
+1339,Minas Gerais,Sudeste,2012-03-01,5.3
+1340,Espírito Santo,Sudeste,2012-03-01,5.1
+1341,Rio de Janeiro,Sudeste,2012-03-01,8.1
+1342,São Paulo,Sudeste,2012-03-01,5.7
+1343,Paraná,Sul,2012-03-01,4.9
+1344,Santa Catarina,Sul,2012-03-01,5.3
+1345,Rio Grande do Sul,Sul,2012-03-01,6.1
+1346,Mato Grosso do Sul,Centro-Oeste,2012-03-01,4.8
+1347,Mato Grosso,Centro-Oeste,2012-03-01,4.3
+1348,Goiás,Centro-Oeste,2012-03-01,5.1
+1349,Distrito Federal,Centro-Oeste,2012-03-01,6.8
+1350,Rondônia,Norte,2012-04-01,4.3
+1351,Acre,Norte,2012-04-01,4.6
+1352,Amazonas,Norte,2012-04-01,5.0
+1353,Roraima,Norte,2012-04-01,4.9
+1354,Pará,Norte,2012-04-01,3.8
+1355,Amapá,Norte,2012-04-01,5.4
+1356,Tocantins,Norte,2012-04-01,4.1
+1357,Maranhão,Nordeste,2012-04-01,4.3
+1358,Piauí,Nordeste,2012-04-01,4.1
+1359,Ceará,Nordeste,2012-04-01,6.2
+1360,Rio Grande do Norte,Nordeste,2012-04-01,5.6
+1361,Paraíba,Nordeste,2012-04-01,5.5
+1362,Pernambuco,Nordeste,2012-04-01,5.5
+1363,Alagoas,Nordeste,2012-04-01,5.8
+1364,Sergipe,Nordeste,2012-04-01,5.2
+1365,Bahia,Nordeste,2012-04-01,4.4
+1366,Minas Gerais,Sudeste,2012-04-01,5.3
+1367,Espírito Santo,Sudeste,2012-04-01,5.3
+1368,Rio de Janeiro,Sudeste,2012-04-01,7.8
+1369,São Paulo,Sudeste,2012-04-01,5.9
+1370,Paraná,Sul,2012-04-01,5.1
+1371,Santa Catarina,Sul,2012-04-01,5.3
+1372,Rio Grande do Sul,Sul,2012-04-01,6.1
+1373,Mato Grosso do Sul,Centro-Oeste,2012-04-01,4.8
+1374,Mato Grosso,Centro-Oeste,2012-04-01,4.4
+1375,Goiás,Centro-Oeste,2012-04-01,5.1
+1376,Distrito Federal,Centro-Oeste,2012-04-01,7.1
+1377,Rondônia,Norte,2012-05-01,4.1
+1378,Acre,Norte,2012-05-01,4.7
+1379,Amazonas,Norte,2012-05-01,5.2
+1380,Roraima,Norte,2012-05-01,4.8
+1381,Pará,Norte,2012-05-01,3.8
+1382,Amapá,Norte,2012-05-01,5.3
+1383,Tocantins,Norte,2012-05-01,4.2
+1384,Maranhão,Nordeste,2012-05-01,4.4
+1385,Piauí,Nordeste,2012-05-01,4.0
+1386,Ceará,Nordeste,2012-05-01,5.2
+1387,Rio Grande do Norte,Nordeste,2012-05-01,5.5
+1388,Paraíba,Nordeste,2012-05-01,5.7
+1389,Pernambuco,Nordeste,2012-05-01,5.2
+1390,Alagoas,Nordeste,2012-05-01,5.5
+1391,Sergipe,Nordeste,2012-05-01,5.0
+1392,Bahia,Nordeste,2012-05-01,4.4
+1393,Minas Gerais,Sudeste,2012-05-01,5.4
+1394,Espírito Santo,Sudeste,2012-05-01,5.3
+1395,Rio de Janeiro,Sudeste,2012-05-01,7.9
+1396,São Paulo,Sudeste,2012-05-01,5.8
+1397,Paraná,Sul,2012-05-01,5.0
+1398,Santa Catarina,Sul,2012-05-01,5.1
+1399,Rio Grande do Sul,Sul,2012-05-01,6.1
+1400,Mato Grosso do Sul,Centro-Oeste,2012-05-01,4.8
+1401,Mato Grosso,Centro-Oeste,2012-05-01,4.3
+1402,Goiás,Centro-Oeste,2012-05-01,5.0
+1403,Distrito Federal,Centro-Oeste,2012-05-01,7.0
+1404,Rondônia,Norte,2012-06-01,4.3
+1405,Acre,Norte,2012-06-01,4.7
+1406,Amazonas,Norte,2012-06-01,5.1
+1407,Roraima,Norte,2012-06-01,4.9
+1408,Pará,Norte,2012-06-01,3.8
+1409,Amapá,Norte,2012-06-01,5.4
+1410,Tocantins,Norte,2012-06-01,4.4
+1411,Maranhão,Nordeste,2012-06-01,4.3
+1412,Piauí,Nordeste,2012-06-01,4.1
+1413,Ceará,Nordeste,2012-06-01,5.2
+1414,Rio Grande do Norte,Nordeste,2012-06-01,6.2
+1415,Paraíba,Nordeste,2012-06-01,5.5
+1416,Pernambuco,Nordeste,2012-06-01,5.4
+1417,Alagoas,Nordeste,2012-06-01,5.3
+1418,Sergipe,Nordeste,2012-06-01,5.1
+1419,Bahia,Nordeste,2012-06-01,4.4
+1420,Minas Gerais,Sudeste,2012-06-01,5.5
+1421,Espírito Santo,Sudeste,2012-06-01,5.3
+1422,Rio de Janeiro,Sudeste,2012-06-01,7.9
+1423,São Paulo,Sudeste,2012-06-01,6.2
+1424,Paraná,Sul,2012-06-01,4.9
+1425,Santa Catarina,Sul,2012-06-01,5.2
+1426,Rio Grande do Sul,Sul,2012-06-01,6.2
+1427,Mato Grosso do Sul,Centro-Oeste,2012-06-01,5.0
+1428,Mato Grosso,Centro-Oeste,2012-06-01,4.4
+1429,Goiás,Centro-Oeste,2012-06-01,5.4
+1430,Distrito Federal,Centro-Oeste,2012-06-01,7.0
+1431,Rondônia,Norte,2012-07-01,4.0
+1432,Acre,Norte,2012-07-01,4.7
+1433,Amazonas,Norte,2012-07-01,5.1
+1434,Roraima,Norte,2012-07-01,5.0
+1435,Pará,Norte,2012-07-01,3.7
+1436,Amapá,Norte,2012-07-01,5.0
+1437,Tocantins,Norte,2012-07-01,4.5
+1438,Maranhão,Nordeste,2012-07-01,4.4
+1439,Piauí,Nordeste,2012-07-01,4.1
+1440,Ceará,Nordeste,2012-07-01,5.1
+1441,Rio Grande do Norte,Nordeste,2012-07-01,5.7
+1442,Paraíba,Nordeste,2012-07-01,5.4
+1443,Pernambuco,Nordeste,2012-07-01,5.7
+1444,Alagoas,Nordeste,2012-07-01,5.5
+1445,Sergipe,Nordeste,2012-07-01,4.9
+1446,Bahia,Nordeste,2012-07-01,4.4
+1447,Minas Gerais,Sudeste,2012-07-01,5.5
+1448,Espírito Santo,Sudeste,2012-07-01,5.5
+1449,Rio de Janeiro,Sudeste,2012-07-01,8.2
+1450,São Paulo,Sudeste,2012-07-01,6.0
+1451,Paraná,Sul,2012-07-01,5.0
+1452,Santa Catarina,Sul,2012-07-01,5.3
+1453,Rio Grande do Sul,Sul,2012-07-01,6.1
+1454,Mato Grosso do Sul,Centro-Oeste,2012-07-01,5.0
+1455,Mato Grosso,Centro-Oeste,2012-07-01,4.4
+1456,Goiás,Centro-Oeste,2012-07-01,5.2
+1457,Distrito Federal,Centro-Oeste,2012-07-01,7.0
+1458,Rondônia,Norte,2012-08-01,4.1
+1459,Acre,Norte,2012-08-01,4.4
+1460,Amazonas,Norte,2012-08-01,5.0
+1461,Roraima,Norte,2012-08-01,4.8
+1462,Pará,Norte,2012-08-01,3.8
+1463,Amapá,Norte,2012-08-01,5.1
+1464,Tocantins,Norte,2012-08-01,4.4
+1465,Maranhão,Nordeste,2012-08-01,4.4
+1466,Piauí,Nordeste,2012-08-01,4.1
+1467,Ceará,Nordeste,2012-08-01,5.2
+1468,Rio Grande do Norte,Nordeste,2012-08-01,5.7
+1469,Paraíba,Nordeste,2012-08-01,5.7
+1470,Pernambuco,Nordeste,2012-08-01,5.6
+1471,Alagoas,Nordeste,2012-08-01,5.5
+1472,Sergipe,Nordeste,2012-08-01,4.6
+1473,Bahia,Nordeste,2012-08-01,4.4
+1474,Minas Gerais,Sudeste,2012-08-01,5.6
+1475,Espírito Santo,Sudeste,2012-08-01,5.4
+1476,Rio de Janeiro,Sudeste,2012-08-01,8.0
+1477,São Paulo,Sudeste,2012-08-01,5.8
+1478,Paraná,Sul,2012-08-01,4.9
+1479,Santa Catarina,Sul,2012-08-01,5.3
+1480,Rio Grande do Sul,Sul,2012-08-01,6.2
+1481,Mato Grosso do Sul,Centro-Oeste,2012-08-01,5.0
+1482,Mato Grosso,Centro-Oeste,2012-08-01,4.4
+1483,Goiás,Centro-Oeste,2012-08-01,5.3
+1484,Distrito Federal,Centro-Oeste,2012-08-01,6.9
+1485,Rondônia,Norte,2012-09-01,4.2
+1486,Acre,Norte,2012-09-01,4.5
+1487,Amazonas,Norte,2012-09-01,4.9
+1488,Roraima,Norte,2012-09-01,4.6
+1489,Pará,Norte,2012-09-01,3.8
+1490,Amapá,Norte,2012-09-01,4.9
+1491,Tocantins,Norte,2012-09-01,4.2
+1492,Maranhão,Nordeste,2012-09-01,4.1
+1493,Piauí,Nordeste,2012-09-01,4.0
+1494,Ceará,Nordeste,2012-09-01,5.1
+1495,Rio Grande do Norte,Nordeste,2012-09-01,5.9
+1496,Paraíba,Nordeste,2012-09-01,5.7
+1497,Pernambuco,Nordeste,2012-09-01,5.5
+1498,Alagoas,Nordeste,2012-09-01,5.3
+1499,Sergipe,Nordeste,2012-09-01,5.0
+1500,Bahia,Nordeste,2012-09-01,4.3
+1501,Minas Gerais,Sudeste,2012-09-01,5.3
+1502,Espírito Santo,Sudeste,2012-09-01,5.6
+1503,Rio de Janeiro,Sudeste,2012-09-01,8.0
+1504,São Paulo,Sudeste,2012-09-01,5.9
+1505,Paraná,Sul,2012-09-01,4.9
+1506,Santa Catarina,Sul,2012-09-01,5.1
+1507,Rio Grande do Sul,Sul,2012-09-01,6.1
+1508,Mato Grosso do Sul,Centro-Oeste,2012-09-01,4.9
+1509,Mato Grosso,Centro-Oeste,2012-09-01,4.4
+1510,Goiás,Centro-Oeste,2012-09-01,4.9
+1511,Distrito Federal,Centro-Oeste,2012-09-01,6.5
+1512,Rondônia,Norte,2012-10-01,4.3
+1513,Acre,Norte,2012-10-01,4.7
+1514,Amazonas,Norte,2012-10-01,4.9
+1515,Roraima,Norte,2012-10-01,4.8
+1516,Pará,Norte,2012-10-01,3.8
+1517,Amapá,Norte,2012-10-01,4.9
+1518,Tocantins,Norte,2012-10-01,4.3
+1519,Maranhão,Nordeste,2012-10-01,4.3
+1520,Piauí,Nordeste,2012-10-01,4.3
+1521,Ceará,Nordeste,2012-10-01,5.4
+1522,Rio Grande do Norte,Nordeste,2012-10-01,5.7
+1523,Paraíba,Nordeste,2012-10-01,5.8
+1524,Pernambuco,Nordeste,2012-10-01,5.8
+1525,Alagoas,Nordeste,2012-10-01,5.7
+1526,Sergipe,Nordeste,2012-10-01,5.4
+1527,Bahia,Nordeste,2012-10-01,4.5
+1528,Minas Gerais,Sudeste,2012-10-01,5.4
+1529,Espírito Santo,Sudeste,2012-10-01,5.3
+1530,Rio de Janeiro,Sudeste,2012-10-01,8.0
+1531,São Paulo,Sudeste,2012-10-01,7.6
+1532,Paraná,Sul,2012-10-01,5.0
+1533,Santa Catarina,Sul,2012-10-01,5.3
+1534,Rio Grande do Sul,Sul,2012-10-01,6.0
+1535,Mato Grosso do Sul,Centro-Oeste,2012-10-01,4.9
+1536,Mato Grosso,Centro-Oeste,2012-10-01,4.7
+1537,Goiás,Centro-Oeste,2012-10-01,5.1
+1538,Distrito Federal,Centro-Oeste,2012-10-01,6.7
+1539,Rondônia,Norte,2012-11-01,4.6
+1540,Acre,Norte,2012-11-01,4.8
+1541,Amazonas,Norte,2012-11-01,4.9
+1542,Roraima,Norte,2012-11-01,4.7
+1543,Pará,Norte,2012-11-01,3.8
+1544,Amapá,Norte,2012-11-01,4.9
+1545,Tocantins,Norte,2012-11-01,4.1
+1546,Maranhão,Nordeste,2012-11-01,4.5
+1547,Piauí,Nordeste,2012-11-01,4.1
+1548,Ceará,Nordeste,2012-11-01,5.3
+1549,Rio Grande do Norte,Nordeste,2012-11-01,5.9
+1550,Paraíba,Nordeste,2012-11-01,5.8
+1551,Pernambuco,Nordeste,2012-11-01,5.5
+1552,Alagoas,Nordeste,2012-11-01,5.5
+1553,Sergipe,Nordeste,2012-11-01,4.8
+1554,Bahia,Nordeste,2012-11-01,5.0
+1555,Minas Gerais,Sudeste,2012-11-01,5.5
+1556,Espírito Santo,Sudeste,2012-11-01,5.3
+1557,Rio de Janeiro,Sudeste,2012-11-01,8.4
+1558,São Paulo,Sudeste,2012-11-01,6.0
+1559,Paraná,Sul,2012-11-01,5.0
+1560,Santa Catarina,Sul,2012-11-01,5.2
+1561,Rio Grande do Sul,Sul,2012-11-01,6.2
+1562,Mato Grosso do Sul,Centro-Oeste,2012-11-01,4.9
+1563,Mato Grosso,Centro-Oeste,2012-11-01,4.6
+1564,Goiás,Centro-Oeste,2012-11-01,5.4
+1565,Distrito Federal,Centro-Oeste,2012-11-01,6.7
+1566,Rondônia,Norte,2012-12-01,4.4
+1567,Acre,Norte,2012-12-01,4.6
+1568,Amazonas,Norte,2012-12-01,4.7
+1569,Roraima,Norte,2012-12-01,4.6
+1570,Pará,Norte,2012-12-01,3.8
+1571,Amapá,Norte,2012-12-01,4.8
+1572,Tocantins,Norte,2012-12-01,4.4
+1573,Maranhão,Nordeste,2012-12-01,4.6
+1574,Piauí,Nordeste,2012-12-01,4.0
+1575,Ceará,Nordeste,2012-12-01,5.3
+1576,Rio Grande do Norte,Nordeste,2012-12-01,6.1
+1577,Paraíba,Nordeste,2012-12-01,5.8
+1578,Pernambuco,Nordeste,2012-12-01,5.5
+1579,Alagoas,Nordeste,2012-12-01,5.5
+1580,Sergipe,Nordeste,2012-12-01,4.7
+1581,Bahia,Nordeste,2012-12-01,5.8
+1582,Minas Gerais,Sudeste,2012-12-01,5.5
+1583,Espírito Santo,Sudeste,2012-12-01,5.3
+1584,Rio de Janeiro,Sudeste,2012-12-01,8.0
+1585,São Paulo,Sudeste,2012-12-01,6.0
+1586,Paraná,Sul,2012-12-01,4.9
+1587,Santa Catarina,Sul,2012-12-01,5.2
+1588,Rio Grande do Sul,Sul,2012-12-01,6.1
+1589,Mato Grosso do Sul,Centro-Oeste,2012-12-01,4.7
+1590,Mato Grosso,Centro-Oeste,2012-12-01,4.4
+1591,Goiás,Centro-Oeste,2012-12-01,5.2
+1592,Distrito Federal,Centro-Oeste,2012-12-01,6.6
+1593,Rondônia,Norte,2013-01-01,4.7
+1594,Acre,Norte,2013-01-01,4.8
+1595,Amazonas,Norte,2013-01-01,5.0
+1596,Roraima,Norte,2013-01-01,4.9
+1597,Pará,Norte,2013-01-01,3.9
+1598,Amapá,Norte,2013-01-01,5.8
+1599,Tocantins,Norte,2013-01-01,4.3
+1600,Maranhão,Nordeste,2013-01-01,5.6
+1601,Piauí,Nordeste,2013-01-01,4.3
+1602,Ceará,Nordeste,2013-01-01,5.5
+1603,Rio Grande do Norte,Nordeste,2013-01-01,6.1
+1604,Paraíba,Nordeste,2013-01-01,5.9
+1605,Pernambuco,Nordeste,2013-01-01,5.9
+1606,Alagoas,Nordeste,2013-01-01,5.8
+1607,Sergipe,Nordeste,2013-01-01,5.3
+1608,Bahia,Nordeste,2013-01-01,4.8
+1609,Minas Gerais,Sudeste,2013-01-01,5.7
+1610,Espírito Santo,Sudeste,2013-01-01,5.7
+1611,Rio de Janeiro,Sudeste,2013-01-01,23.8
+1612,São Paulo,Sudeste,2013-01-01,6.4
+1613,Paraná,Sul,2013-01-01,5.1
+1614,Santa Catarina,Sul,2013-01-01,5.7
+1615,Rio Grande do Sul,Sul,2013-01-01,6.3
+1616,Mato Grosso do Sul,Centro-Oeste,2013-01-01,5.0
+1617,Mato Grosso,Centro-Oeste,2013-01-01,4.5
+1618,Goiás,Centro-Oeste,2013-01-01,5.2
+1619,Distrito Federal,Centro-Oeste,2013-01-01,6.8
+1620,Rondônia,Norte,2013-02-01,4.7
+1621,Acre,Norte,2013-02-01,5.0
+1622,Amazonas,Norte,2013-02-01,5.0
+1623,Roraima,Norte,2013-02-01,4.9
+1624,Pará,Norte,2013-02-01,3.8
+1625,Amapá,Norte,2013-02-01,5.7
+1626,Tocantins,Norte,2013-02-01,4.4
+1627,Maranhão,Nordeste,2013-02-01,4.6
+1628,Piauí,Nordeste,2013-02-01,4.5
+1629,Ceará,Nordeste,2013-02-01,5.4
+1630,Rio Grande do Norte,Nordeste,2013-02-01,5.9
+1631,Paraíba,Nordeste,2013-02-01,5.9
+1632,Pernambuco,Nordeste,2013-02-01,5.6
+1633,Alagoas,Nordeste,2013-02-01,5.7
+1634,Sergipe,Nordeste,2013-02-01,5.0
+1635,Bahia,Nordeste,2013-02-01,4.7
+1636,Minas Gerais,Sudeste,2013-02-01,5.5
+1637,Espírito Santo,Sudeste,2013-02-01,5.5
+1638,Rio de Janeiro,Sudeste,2013-02-01,8.6
+1639,São Paulo,Sudeste,2013-02-01,6.1
+1640,Paraná,Sul,2013-02-01,5.0
+1641,Santa Catarina,Sul,2013-02-01,5.2
+1642,Rio Grande do Sul,Sul,2013-02-01,6.4
+1643,Mato Grosso do Sul,Centro-Oeste,2013-02-01,4.8
+1644,Mato Grosso,Centro-Oeste,2013-02-01,4.4
+1645,Goiás,Centro-Oeste,2013-02-01,5.0
+1646,Distrito Federal,Centro-Oeste,2013-02-01,6.3
+1647,Rondônia,Norte,2013-03-01,4.5
+1648,Acre,Norte,2013-03-01,4.9
+1649,Amazonas,Norte,2013-03-01,4.9
+1650,Roraima,Norte,2013-03-01,4.7
+1651,Pará,Norte,2013-03-01,3.7
+1652,Amapá,Norte,2013-03-01,5.3
+1653,Tocantins,Norte,2013-03-01,4.2
+1654,Maranhão,Nordeste,2013-03-01,4.3
+1655,Piauí,Nordeste,2013-03-01,4.2
+1656,Ceará,Nordeste,2013-03-01,5.2
+1657,Rio Grande do Norte,Nordeste,2013-03-01,5.2
+1658,Paraíba,Nordeste,2013-03-01,5.4
+1659,Pernambuco,Nordeste,2013-03-01,5.6
+1660,Alagoas,Nordeste,2013-03-01,5.6
+1661,Sergipe,Nordeste,2013-03-01,4.6
+1662,Bahia,Nordeste,2013-03-01,4.6
+1663,Minas Gerais,Sudeste,2013-03-01,6.0
+1664,Espírito Santo,Sudeste,2013-03-01,5.4
+1665,Rio de Janeiro,Sudeste,2013-03-01,8.1
+1666,São Paulo,Sudeste,2013-03-01,5.9
+1667,Paraná,Sul,2013-03-01,4.9
+1668,Santa Catarina,Sul,2013-03-01,5.0
+1669,Rio Grande do Sul,Sul,2013-03-01,6.3
+1670,Mato Grosso do Sul,Centro-Oeste,2013-03-01,4.8
+1671,Mato Grosso,Centro-Oeste,2013-03-01,4.3
+1672,Goiás,Centro-Oeste,2013-03-01,4.9
+1673,Distrito Federal,Centro-Oeste,2013-03-01,6.1
+1674,Rondônia,Norte,2013-04-01,4.4
+1675,Acre,Norte,2013-04-01,4.8
+1676,Amazonas,Norte,2013-04-01,5.0
+1677,Roraima,Norte,2013-04-01,4.8
+1678,Pará,Norte,2013-04-01,3.8
+1679,Amapá,Norte,2013-04-01,5.5
+1680,Tocantins,Norte,2013-04-01,4.1
+1681,Maranhão,Nordeste,2013-04-01,4.3
+1682,Piauí,Nordeste,2013-04-01,4.3
+1683,Ceará,Nordeste,2013-04-01,5.2
+1684,Rio Grande do Norte,Nordeste,2013-04-01,5.5
+1685,Paraíba,Nordeste,2013-04-01,5.4
+1686,Pernambuco,Nordeste,2013-04-01,5.6
+1687,Alagoas,Nordeste,2013-04-01,5.7
+1688,Sergipe,Nordeste,2013-04-01,4.6
+1689,Bahia,Nordeste,2013-04-01,4.8
+1690,Minas Gerais,Sudeste,2013-04-01,5.3
+1691,Espírito Santo,Sudeste,2013-04-01,5.3
+1692,Rio de Janeiro,Sudeste,2013-04-01,8.7
+1693,São Paulo,Sudeste,2013-04-01,5.6
+1694,Paraná,Sul,2013-04-01,4.9
+1695,Santa Catarina,Sul,2013-04-01,5.2
+1696,Rio Grande do Sul,Sul,2013-04-01,6.2
+1697,Mato Grosso do Sul,Centro-Oeste,2013-04-01,4.9
+1698,Mato Grosso,Centro-Oeste,2013-04-01,4.3
+1699,Goiás,Centro-Oeste,2013-04-01,4.9
+1700,Distrito Federal,Centro-Oeste,2013-04-01,6.4
+1701,Rondônia,Norte,2013-05-01,4.6
+1702,Acre,Norte,2013-05-01,4.6
+1703,Amazonas,Norte,2013-05-01,5.1
+1704,Roraima,Norte,2013-05-01,4.8
+1705,Pará,Norte,2013-05-01,3.9
+1706,Amapá,Norte,2013-05-01,5.7
+1707,Tocantins,Norte,2013-05-01,3.8
+1708,Maranhão,Nordeste,2013-05-01,4.4
+1709,Piauí,Nordeste,2013-05-01,4.2
+1710,Ceará,Nordeste,2013-05-01,5.2
+1711,Rio Grande do Norte,Nordeste,2013-05-01,5.1
+1712,Paraíba,Nordeste,2013-05-01,5.5
+1713,Pernambuco,Nordeste,2013-05-01,5.4
+1714,Alagoas,Nordeste,2013-05-01,5.3
+1715,Sergipe,Nordeste,2013-05-01,4.6
+1716,Bahia,Nordeste,2013-05-01,4.7
+1717,Minas Gerais,Sudeste,2013-05-01,5.4
+1718,Espírito Santo,Sudeste,2013-05-01,5.3
+1719,Rio de Janeiro,Sudeste,2013-05-01,8.9
+1720,São Paulo,Sudeste,2013-05-01,5.8
+1721,Paraná,Sul,2013-05-01,4.9
+1722,Santa Catarina,Sul,2013-05-01,5.3
+1723,Rio Grande do Sul,Sul,2013-05-01,6.3
+1724,Mato Grosso do Sul,Centro-Oeste,2013-05-01,4.8
+1725,Mato Grosso,Centro-Oeste,2013-05-01,4.5
+1726,Goiás,Centro-Oeste,2013-05-01,4.8
+1727,Distrito Federal,Centro-Oeste,2013-05-01,6.6
+1728,Rondônia,Norte,2013-06-01,4.5
+1729,Acre,Norte,2013-06-01,4.7
+1730,Amazonas,Norte,2013-06-01,4.9
+1731,Roraima,Norte,2013-06-01,4.8
+1732,Pará,Norte,2013-06-01,3.8
+1733,Amapá,Norte,2013-06-01,5.4
+1734,Tocantins,Norte,2013-06-01,3.9
+1735,Maranhão,Nordeste,2013-06-01,4.4
+1736,Piauí,Nordeste,2013-06-01,4.3
+1737,Ceará,Nordeste,2013-06-01,5.4
+1738,Rio Grande do Norte,Nordeste,2013-06-01,5.5
+1739,Paraíba,Nordeste,2013-06-01,5.3
+1740,Pernambuco,Nordeste,2013-06-01,5.6
+1741,Alagoas,Nordeste,2013-06-01,5.2
+1742,Sergipe,Nordeste,2013-06-01,4.7
+1743,Bahia,Nordeste,2013-06-01,4.5
+1744,Minas Gerais,Sudeste,2013-06-01,5.3
+1745,Espírito Santo,Sudeste,2013-06-01,5.4
+1746,Rio de Janeiro,Sudeste,2013-06-01,8.2
+1747,São Paulo,Sudeste,2013-06-01,5.8
+1748,Paraná,Sul,2013-06-01,4.8
+1749,Santa Catarina,Sul,2013-06-01,5.2
+1750,Rio Grande do Sul,Sul,2013-06-01,6.3
+1751,Mato Grosso do Sul,Centro-Oeste,2013-06-01,4.8
+1752,Mato Grosso,Centro-Oeste,2013-06-01,4.5
+1753,Goiás,Centro-Oeste,2013-06-01,4.7
+1754,Distrito Federal,Centro-Oeste,2013-06-01,6.3
+1755,Rondônia,Norte,2013-07-01,4.5
+1756,Acre,Norte,2013-07-01,4.9
+1757,Amazonas,Norte,2013-07-01,4.9
+1758,Roraima,Norte,2013-07-01,4.9
+1759,Pará,Norte,2013-07-01,3.9
+1760,Amapá,Norte,2013-07-01,5.3
+1761,Tocantins,Norte,2013-07-01,4.0
+1762,Maranhão,Nordeste,2013-07-01,4.4
+1763,Piauí,Nordeste,2013-07-01,4.4
+1764,Ceará,Nordeste,2013-07-01,5.2
+1765,Rio Grande do Norte,Nordeste,2013-07-01,5.4
+1766,Paraíba,Nordeste,2013-07-01,5.6
+1767,Pernambuco,Nordeste,2013-07-01,5.6
+1768,Alagoas,Nordeste,2013-07-01,5.4
+1769,Sergipe,Nordeste,2013-07-01,4.6
+1770,Bahia,Nordeste,2013-07-01,4.7
+1771,Minas Gerais,Sudeste,2013-07-01,5.5
+1772,Espírito Santo,Sudeste,2013-07-01,5.4
+1773,Rio de Janeiro,Sudeste,2013-07-01,8.2
+1774,São Paulo,Sudeste,2013-07-01,5.9
+1775,Paraná,Sul,2013-07-01,4.9
+1776,Santa Catarina,Sul,2013-07-01,5.2
+1777,Rio Grande do Sul,Sul,2013-07-01,6.3
+1778,Mato Grosso do Sul,Centro-Oeste,2013-07-01,4.8
+1779,Mato Grosso,Centro-Oeste,2013-07-01,4.5
+1780,Goiás,Centro-Oeste,2013-07-01,5.2
+1781,Distrito Federal,Centro-Oeste,2013-07-01,6.5
+1782,Rondônia,Norte,2013-08-01,4.6
+1783,Acre,Norte,2013-08-01,4.6
+1784,Amazonas,Norte,2013-08-01,4.8
+1785,Roraima,Norte,2013-08-01,4.7
+1786,Pará,Norte,2013-08-01,3.8
+1787,Amapá,Norte,2013-08-01,5.2
+1788,Tocantins,Norte,2013-08-01,3.8
+1789,Maranhão,Nordeste,2013-08-01,4.3
+1790,Piauí,Nordeste,2013-08-01,4.4
+1791,Ceará,Nordeste,2013-08-01,5.3
+1792,Rio Grande do Norte,Nordeste,2013-08-01,5.7
+1793,Paraíba,Nordeste,2013-08-01,5.6
+1794,Pernambuco,Nordeste,2013-08-01,5.5
+1795,Alagoas,Nordeste,2013-08-01,5.3
+1796,Sergipe,Nordeste,2013-08-01,4.7
+1797,Bahia,Nordeste,2013-08-01,4.8
+1798,Minas Gerais,Sudeste,2013-08-01,5.5
+1799,Espírito Santo,Sudeste,2013-08-01,5.4
+1800,Rio de Janeiro,Sudeste,2013-08-01,8.7
+1801,São Paulo,Sudeste,2013-08-01,5.7
+1802,Paraná,Sul,2013-08-01,5.0
+1803,Santa Catarina,Sul,2013-08-01,5.1
+1804,Rio Grande do Sul,Sul,2013-08-01,6.3
+1805,Mato Grosso do Sul,Centro-Oeste,2013-08-01,5.0
+1806,Mato Grosso,Centro-Oeste,2013-08-01,4.4
+1807,Goiás,Centro-Oeste,2013-08-01,4.9
+1808,Distrito Federal,Centro-Oeste,2013-08-01,6.3
+1809,Rondônia,Norte,2013-09-01,4.6
+1810,Acre,Norte,2013-09-01,4.5
+1811,Amazonas,Norte,2013-09-01,4.8
+1812,Roraima,Norte,2013-09-01,4.6
+1813,Pará,Norte,2013-09-01,3.6
+1814,Amapá,Norte,2013-09-01,5.0
+1815,Tocantins,Norte,2013-09-01,3.8
+1816,Maranhão,Nordeste,2013-09-01,4.2
+1817,Piauí,Nordeste,2013-09-01,4.2
+1818,Ceará,Nordeste,2013-09-01,5.2
+1819,Rio Grande do Norte,Nordeste,2013-09-01,5.5
+1820,Paraíba,Nordeste,2013-09-01,5.5
+1821,Pernambuco,Nordeste,2013-09-01,5.4
+1822,Alagoas,Nordeste,2013-09-01,5.3
+1823,Sergipe,Nordeste,2013-09-01,4.4
+1824,Bahia,Nordeste,2013-09-01,4.5
+1825,Minas Gerais,Sudeste,2013-09-01,5.3
+1826,Espírito Santo,Sudeste,2013-09-01,5.2
+1827,Rio de Janeiro,Sudeste,2013-09-01,8.1
+1828,São Paulo,Sudeste,2013-09-01,5.8
+1829,Paraná,Sul,2013-09-01,4.9
+1830,Santa Catarina,Sul,2013-09-01,5.0
+1831,Rio Grande do Sul,Sul,2013-09-01,6.2
+1832,Mato Grosso do Sul,Centro-Oeste,2013-09-01,4.8
+1833,Mato Grosso,Centro-Oeste,2013-09-01,4.3
+1834,Goiás,Centro-Oeste,2013-09-01,5.0
+1835,Distrito Federal,Centro-Oeste,2013-09-01,6.1
+1836,Rondônia,Norte,2013-10-01,4.6
+1837,Acre,Norte,2013-10-01,4.8
+1838,Amazonas,Norte,2013-10-01,4.9
+1839,Roraima,Norte,2013-10-01,5.0
+1840,Pará,Norte,2013-10-01,3.7
+1841,Amapá,Norte,2013-10-01,5.1
+1842,Tocantins,Norte,2013-10-01,3.7
+1843,Maranhão,Nordeste,2013-10-01,4.4
+1844,Piauí,Nordeste,2013-10-01,4.3
+1845,Ceará,Nordeste,2013-10-01,5.3
+1846,Rio Grande do Norte,Nordeste,2013-10-01,5.5
+1847,Paraíba,Nordeste,2013-10-01,5.3
+1848,Pernambuco,Nordeste,2013-10-01,5.6
+1849,Alagoas,Nordeste,2013-10-01,5.5
+1850,Sergipe,Nordeste,2013-10-01,4.6
+1851,Bahia,Nordeste,2013-10-01,4.5
+1852,Minas Gerais,Sudeste,2013-10-01,5.3
+1853,Espírito Santo,Sudeste,2013-10-01,5.2
+1854,Rio de Janeiro,Sudeste,2013-10-01,8.3
+1855,São Paulo,Sudeste,2013-10-01,7.5
+1856,Paraná,Sul,2013-10-01,4.9
+1857,Santa Catarina,Sul,2013-10-01,5.1
+1858,Rio Grande do Sul,Sul,2013-10-01,6.3
+1859,Mato Grosso do Sul,Centro-Oeste,2013-10-01,4.8
+1860,Mato Grosso,Centro-Oeste,2013-10-01,4.7
+1861,Goiás,Centro-Oeste,2013-10-01,4.9
+1862,Distrito Federal,Centro-Oeste,2013-10-01,6.5
+1863,Rondônia,Norte,2013-11-01,4.6
+1864,Acre,Norte,2013-11-01,4.6
+1865,Amazonas,Norte,2013-11-01,4.8
+1866,Roraima,Norte,2013-11-01,5.0
+1867,Pará,Norte,2013-11-01,3.7
+1868,Amapá,Norte,2013-11-01,5.0
+1869,Tocantins,Norte,2013-11-01,3.9
+1870,Maranhão,Nordeste,2013-11-01,4.3
+1871,Piauí,Nordeste,2013-11-01,4.4
+1872,Ceará,Nordeste,2013-11-01,5.3
+1873,Rio Grande do Norte,Nordeste,2013-11-01,5.6
+1874,Paraíba,Nordeste,2013-11-01,5.6
+1875,Pernambuco,Nordeste,2013-11-01,5.6
+1876,Alagoas,Nordeste,2013-11-01,5.2
+1877,Sergipe,Nordeste,2013-11-01,4.5
+1878,Bahia,Nordeste,2013-11-01,4.5
+1879,Minas Gerais,Sudeste,2013-11-01,5.2
+1880,Espírito Santo,Sudeste,2013-11-01,5.5
+1881,Rio de Janeiro,Sudeste,2013-11-01,7.7
+1882,São Paulo,Sudeste,2013-11-01,6.0
+1883,Paraná,Sul,2013-11-01,4.9
+1884,Santa Catarina,Sul,2013-11-01,5.0
+1885,Rio Grande do Sul,Sul,2013-11-01,6.2
+1886,Mato Grosso do Sul,Centro-Oeste,2013-11-01,4.6
+1887,Mato Grosso,Centro-Oeste,2013-11-01,4.5
+1888,Goiás,Centro-Oeste,2013-11-01,4.8
+1889,Distrito Federal,Centro-Oeste,2013-11-01,6.8
+1890,Rondônia,Norte,2013-12-01,4.4
+1891,Acre,Norte,2013-12-01,4.4
+1892,Amazonas,Norte,2013-12-01,4.7
+1893,Roraima,Norte,2013-12-01,4.9
+1894,Pará,Norte,2013-12-01,3.7
+1895,Amapá,Norte,2013-12-01,4.5
+1896,Tocantins,Norte,2013-12-01,4.0
+1897,Maranhão,Nordeste,2013-12-01,4.4
+1898,Piauí,Nordeste,2013-12-01,4.1
+1899,Ceará,Nordeste,2013-12-01,5.4
+1900,Rio Grande do Norte,Nordeste,2013-12-01,5.7
+1901,Paraíba,Nordeste,2013-12-01,5.7
+1902,Pernambuco,Nordeste,2013-12-01,5.6
+1903,Alagoas,Nordeste,2013-12-01,4.9
+1904,Sergipe,Nordeste,2013-12-01,4.4
+1905,Bahia,Nordeste,2013-12-01,4.6
+1906,Minas Gerais,Sudeste,2013-12-01,5.2
+1907,Espírito Santo,Sudeste,2013-12-01,5.5
+1908,Rio de Janeiro,Sudeste,2013-12-01,7.9
+1909,São Paulo,Sudeste,2013-12-01,5.9
+1910,Paraná,Sul,2013-12-01,4.8
+1911,Santa Catarina,Sul,2013-12-01,4.8
+1912,Rio Grande do Sul,Sul,2013-12-01,6.1
+1913,Mato Grosso do Sul,Centro-Oeste,2013-12-01,4.6
+1914,Mato Grosso,Centro-Oeste,2013-12-01,4.3
+1915,Goiás,Centro-Oeste,2013-12-01,4.6
+1916,Distrito Federal,Centro-Oeste,2013-12-01,6.8
+1917,Rondônia,Norte,2014-01-01,4.5
+1918,Acre,Norte,2014-01-01,5.3
+1919,Amazonas,Norte,2014-01-01,5.2
+1920,Roraima,Norte,2014-01-01,4.9
+1921,Pará,Norte,2014-01-01,3.9
+1922,Amapá,Norte,2014-01-01,5.1
+1923,Tocantins,Norte,2014-01-01,3.9
+1924,Maranhão,Nordeste,2014-01-01,4.6
+1925,Piauí,Nordeste,2014-01-01,4.7
+1926,Ceará,Nordeste,2014-01-01,5.5
+1927,Rio Grande do Norte,Nordeste,2014-01-01,5.8
+1928,Paraíba,Nordeste,2014-01-01,5.8
+1929,Pernambuco,Nordeste,2014-01-01,5.9
+1930,Alagoas,Nordeste,2014-01-01,17.4
+1931,Sergipe,Nordeste,2014-01-01,4.8
+1932,Bahia,Nordeste,2014-01-01,4.8
+1933,Minas Gerais,Sudeste,2014-01-01,5.5
+1934,Espírito Santo,Sudeste,2014-01-01,5.4
+1935,Rio de Janeiro,Sudeste,2014-01-01,10.4
+1936,São Paulo,Sudeste,2014-01-01,6.8
+1937,Paraná,Sul,2014-01-01,5.1
+1938,Santa Catarina,Sul,2014-01-01,5.2
+1939,Rio Grande do Sul,Sul,2014-01-01,6.2
+1940,Mato Grosso do Sul,Centro-Oeste,2014-01-01,4.9
+1941,Mato Grosso,Centro-Oeste,2014-01-01,4.6
+1942,Goiás,Centro-Oeste,2014-01-01,4.7
+1943,Distrito Federal,Centro-Oeste,2014-01-01,6.8
+1944,Rondônia,Norte,2014-02-01,4.5
+1945,Acre,Norte,2014-02-01,5.0
+1946,Amazonas,Norte,2014-02-01,5.2
+1947,Roraima,Norte,2014-02-01,5.1
+1948,Pará,Norte,2014-02-01,3.8
+1949,Amapá,Norte,2014-02-01,5.5
+1950,Tocantins,Norte,2014-02-01,4.0
+1951,Maranhão,Nordeste,2014-02-01,4.7
+1952,Piauí,Nordeste,2014-02-01,4.3
+1953,Ceará,Nordeste,2014-02-01,5.4
+1954,Rio Grande do Norte,Nordeste,2014-02-01,6.4
+1955,Paraíba,Nordeste,2014-02-01,5.4
+1956,Pernambuco,Nordeste,2014-02-01,5.6
+1957,Alagoas,Nordeste,2014-02-01,5.7
+1958,Sergipe,Nordeste,2014-02-01,4.3
+1959,Bahia,Nordeste,2014-02-01,4.6
+1960,Minas Gerais,Sudeste,2014-02-01,5.1
+1961,Espírito Santo,Sudeste,2014-02-01,5.3
+1962,Rio de Janeiro,Sudeste,2014-02-01,8.1
+1963,São Paulo,Sudeste,2014-02-01,5.9
+1964,Paraná,Sul,2014-02-01,4.9
+1965,Santa Catarina,Sul,2014-02-01,5.0
+1966,Rio Grande do Sul,Sul,2014-02-01,6.1
+1967,Mato Grosso do Sul,Centro-Oeste,2014-02-01,4.7
+1968,Mato Grosso,Centro-Oeste,2014-02-01,4.4
+1969,Goiás,Centro-Oeste,2014-02-01,4.7
+1970,Distrito Federal,Centro-Oeste,2014-02-01,6.4
+1971,Rondônia,Norte,2014-03-01,4.4
+1972,Acre,Norte,2014-03-01,4.7
+1973,Amazonas,Norte,2014-03-01,5.2
+1974,Roraima,Norte,2014-03-01,5.2
+1975,Pará,Norte,2014-03-01,3.8
+1976,Amapá,Norte,2014-03-01,5.1
+1977,Tocantins,Norte,2014-03-01,3.9
+1978,Maranhão,Nordeste,2014-03-01,4.6
+1979,Piauí,Nordeste,2014-03-01,4.4
+1980,Ceará,Nordeste,2014-03-01,5.5
+1981,Rio Grande do Norte,Nordeste,2014-03-01,5.8
+1982,Paraíba,Nordeste,2014-03-01,5.4
+1983,Pernambuco,Nordeste,2014-03-01,5.6
+1984,Alagoas,Nordeste,2014-03-01,5.8
+1985,Sergipe,Nordeste,2014-03-01,4.5
+1986,Bahia,Nordeste,2014-03-01,4.6
+1987,Minas Gerais,Sudeste,2014-03-01,5.3
+1988,Espírito Santo,Sudeste,2014-03-01,5.3
+1989,Rio de Janeiro,Sudeste,2014-03-01,8.5
+1990,São Paulo,Sudeste,2014-03-01,5.6
+1991,Paraná,Sul,2014-03-01,4.9
+1992,Santa Catarina,Sul,2014-03-01,5.2
+1993,Rio Grande do Sul,Sul,2014-03-01,6.2
+1994,Mato Grosso do Sul,Centro-Oeste,2014-03-01,4.8
+1995,Mato Grosso,Centro-Oeste,2014-03-01,4.4
+1996,Goiás,Centro-Oeste,2014-03-01,4.5
+1997,Distrito Federal,Centro-Oeste,2014-03-01,6.5
+1998,Rondônia,Norte,2014-04-01,4.3
+1999,Acre,Norte,2014-04-01,4.7
+2000,Amazonas,Norte,2014-04-01,5.3
+2001,Roraima,Norte,2014-04-01,5.1
+2002,Pará,Norte,2014-04-01,3.9
+2003,Amapá,Norte,2014-04-01,5.3
+2004,Tocantins,Norte,2014-04-01,4.1
+2005,Maranhão,Nordeste,2014-04-01,4.5
+2006,Piauí,Nordeste,2014-04-01,4.5
+2007,Ceará,Nordeste,2014-04-01,5.5
+2008,Rio Grande do Norte,Nordeste,2014-04-01,6.0
+2009,Paraíba,Nordeste,2014-04-01,5.6
+2010,Pernambuco,Nordeste,2014-04-01,5.6
+2011,Alagoas,Nordeste,2014-04-01,5.8
+2012,Sergipe,Nordeste,2014-04-01,4.3
+2013,Bahia,Nordeste,2014-04-01,4.7
+2014,Minas Gerais,Sudeste,2014-04-01,5.1
+2015,Espírito Santo,Sudeste,2014-04-01,5.1
+2016,Rio de Janeiro,Sudeste,2014-04-01,7.8
+2017,São Paulo,Sudeste,2014-04-01,5.6
+2018,Paraná,Sul,2014-04-01,4.9
+2019,Santa Catarina,Sul,2014-04-01,5.1
+2020,Rio Grande do Sul,Sul,2014-04-01,6.3
+2021,Mato Grosso do Sul,Centro-Oeste,2014-04-01,4.7
+2022,Mato Grosso,Centro-Oeste,2014-04-01,4.5
+2023,Goiás,Centro-Oeste,2014-04-01,4.6
+2024,Distrito Federal,Centro-Oeste,2014-04-01,6.5
+2025,Rondônia,Norte,2014-05-01,4.4
+2026,Acre,Norte,2014-05-01,4.5
+2027,Amazonas,Norte,2014-05-01,4.9
+2028,Roraima,Norte,2014-05-01,4.9
+2029,Pará,Norte,2014-05-01,3.9
+2030,Amapá,Norte,2014-05-01,5.1
+2031,Tocantins,Norte,2014-05-01,4.2
+2032,Maranhão,Nordeste,2014-05-01,4.4
+2033,Piauí,Nordeste,2014-05-01,4.5
+2034,Ceará,Nordeste,2014-05-01,5.4
+2035,Rio Grande do Norte,Nordeste,2014-05-01,5.9
+2036,Paraíba,Nordeste,2014-05-01,5.3
+2037,Pernambuco,Nordeste,2014-05-01,5.5
+2038,Alagoas,Nordeste,2014-05-01,5.7
+2039,Sergipe,Nordeste,2014-05-01,4.4
+2040,Bahia,Nordeste,2014-05-01,4.4
+2041,Minas Gerais,Sudeste,2014-05-01,5.1
+2042,Espírito Santo,Sudeste,2014-05-01,5.3
+2043,Rio de Janeiro,Sudeste,2014-05-01,7.7
+2044,São Paulo,Sudeste,2014-05-01,5.7
+2045,Paraná,Sul,2014-05-01,4.8
+2046,Santa Catarina,Sul,2014-05-01,5.0
+2047,Rio Grande do Sul,Sul,2014-05-01,6.2
+2048,Mato Grosso do Sul,Centro-Oeste,2014-05-01,4.9
+2049,Mato Grosso,Centro-Oeste,2014-05-01,4.5
+2050,Goiás,Centro-Oeste,2014-05-01,4.6
+2051,Distrito Federal,Centro-Oeste,2014-05-01,6.5
+2052,Rondônia,Norte,2014-06-01,4.4
+2053,Acre,Norte,2014-06-01,4.7
+2054,Amazonas,Norte,2014-06-01,5.1
+2055,Roraima,Norte,2014-06-01,5.2
+2056,Pará,Norte,2014-06-01,4.0
+2057,Amapá,Norte,2014-06-01,5.7
+2058,Tocantins,Norte,2014-06-01,4.2
+2059,Maranhão,Nordeste,2014-06-01,4.5
+2060,Piauí,Nordeste,2014-06-01,4.5
+2061,Ceará,Nordeste,2014-06-01,5.5
+2062,Rio Grande do Norte,Nordeste,2014-06-01,5.8
+2063,Paraíba,Nordeste,2014-06-01,5.4
+2064,Pernambuco,Nordeste,2014-06-01,5.6
+2065,Alagoas,Nordeste,2014-06-01,5.8
+2066,Sergipe,Nordeste,2014-06-01,4.5
+2067,Bahia,Nordeste,2014-06-01,4.6
+2068,Minas Gerais,Sudeste,2014-06-01,5.3
+2069,Espírito Santo,Sudeste,2014-06-01,5.3
+2070,Rio de Janeiro,Sudeste,2014-06-01,8.5
+2071,São Paulo,Sudeste,2014-06-01,5.8
+2072,Paraná,Sul,2014-06-01,4.9
+2073,Santa Catarina,Sul,2014-06-01,5.0
+2074,Rio Grande do Sul,Sul,2014-06-01,6.3
+2075,Mato Grosso do Sul,Centro-Oeste,2014-06-01,5.0
+2076,Mato Grosso,Centro-Oeste,2014-06-01,4.4
+2077,Goiás,Centro-Oeste,2014-06-01,4.7
+2078,Distrito Federal,Centro-Oeste,2014-06-01,6.6
+2079,Rondônia,Norte,2014-07-01,4.4
+2080,Acre,Norte,2014-07-01,4.5
+2081,Amazonas,Norte,2014-07-01,5.1
+2082,Roraima,Norte,2014-07-01,5.0
+2083,Pará,Norte,2014-07-01,4.0
+2084,Amapá,Norte,2014-07-01,5.4
+2085,Tocantins,Norte,2014-07-01,4.3
+2086,Maranhão,Nordeste,2014-07-01,4.5
+2087,Piauí,Nordeste,2014-07-01,4.7
+2088,Ceará,Nordeste,2014-07-01,5.5
+2089,Rio Grande do Norte,Nordeste,2014-07-01,6.0
+2090,Paraíba,Nordeste,2014-07-01,5.5
+2091,Pernambuco,Nordeste,2014-07-01,5.6
+2092,Alagoas,Nordeste,2014-07-01,5.5
+2093,Sergipe,Nordeste,2014-07-01,4.8
+2094,Bahia,Nordeste,2014-07-01,4.5
+2095,Minas Gerais,Sudeste,2014-07-01,5.3
+2096,Espírito Santo,Sudeste,2014-07-01,5.2
+2097,Rio de Janeiro,Sudeste,2014-07-01,7.5
+2098,São Paulo,Sudeste,2014-07-01,6.4
+2099,Paraná,Sul,2014-07-01,4.9
+2100,Santa Catarina,Sul,2014-07-01,5.0
+2101,Rio Grande do Sul,Sul,2014-07-01,6.3
+2102,Mato Grosso do Sul,Centro-Oeste,2014-07-01,4.8
+2103,Mato Grosso,Centro-Oeste,2014-07-01,4.3
+2104,Goiás,Centro-Oeste,2014-07-01,4.7
+2105,Distrito Federal,Centro-Oeste,2014-07-01,6.6
+2106,Rondônia,Norte,2014-08-01,4.4
+2107,Acre,Norte,2014-08-01,5.0
+2108,Amazonas,Norte,2014-08-01,5.0
+2109,Roraima,Norte,2014-08-01,4.8
+2110,Pará,Norte,2014-08-01,3.9
+2111,Amapá,Norte,2014-08-01,5.2
+2112,Tocantins,Norte,2014-08-01,4.3
+2113,Maranhão,Nordeste,2014-08-01,4.4
+2114,Piauí,Nordeste,2014-08-01,4.6
+2115,Ceará,Nordeste,2014-08-01,5.5
+2116,Rio Grande do Norte,Nordeste,2014-08-01,6.1
+2117,Paraíba,Nordeste,2014-08-01,5.4
+2118,Pernambuco,Nordeste,2014-08-01,5.5
+2119,Alagoas,Nordeste,2014-08-01,5.5
+2120,Sergipe,Nordeste,2014-08-01,4.8
+2121,Bahia,Nordeste,2014-08-01,4.5
+2122,Minas Gerais,Sudeste,2014-08-01,5.3
+2123,Espírito Santo,Sudeste,2014-08-01,5.4
+2124,Rio de Janeiro,Sudeste,2014-08-01,7.3
+2125,São Paulo,Sudeste,2014-08-01,6.6
+2126,Paraná,Sul,2014-08-01,4.7
+2127,Santa Catarina,Sul,2014-08-01,5.1
+2128,Rio Grande do Sul,Sul,2014-08-01,6.2
+2129,Mato Grosso do Sul,Centro-Oeste,2014-08-01,5.0
+2130,Mato Grosso,Centro-Oeste,2014-08-01,4.3
+2131,Goiás,Centro-Oeste,2014-08-01,4.5
+2132,Distrito Federal,Centro-Oeste,2014-08-01,6.3
+2133,Rondônia,Norte,2014-09-01,4.3
+2134,Acre,Norte,2014-09-01,4.6
+2135,Amazonas,Norte,2014-09-01,4.8
+2136,Roraima,Norte,2014-09-01,5.2
+2137,Pará,Norte,2014-09-01,3.9
+2138,Amapá,Norte,2014-09-01,5.1
+2139,Tocantins,Norte,2014-09-01,4.0
+2140,Maranhão,Nordeste,2014-09-01,4.3
+2141,Piauí,Nordeste,2014-09-01,4.2
+2142,Ceará,Nordeste,2014-09-01,5.4
+2143,Rio Grande do Norte,Nordeste,2014-09-01,5.6
+2144,Paraíba,Nordeste,2014-09-01,5.2
+2145,Pernambuco,Nordeste,2014-09-01,5.5
+2146,Alagoas,Nordeste,2014-09-01,5.6
+2147,Sergipe,Nordeste,2014-09-01,4.6
+2148,Bahia,Nordeste,2014-09-01,4.4
+2149,Minas Gerais,Sudeste,2014-09-01,5.1
+2150,Espírito Santo,Sudeste,2014-09-01,5.4
+2151,Rio de Janeiro,Sudeste,2014-09-01,7.5
+2152,São Paulo,Sudeste,2014-09-01,6.5
+2153,Paraná,Sul,2014-09-01,4.7
+2154,Santa Catarina,Sul,2014-09-01,4.9
+2155,Rio Grande do Sul,Sul,2014-09-01,6.1
+2156,Mato Grosso do Sul,Centro-Oeste,2014-09-01,4.8
+2157,Mato Grosso,Centro-Oeste,2014-09-01,4.3
+2158,Goiás,Centro-Oeste,2014-09-01,4.6
+2159,Distrito Federal,Centro-Oeste,2014-09-01,6.3
+2160,Rondônia,Norte,2014-10-01,4.3
+2161,Acre,Norte,2014-10-01,4.5
+2162,Amazonas,Norte,2014-10-01,5.0
+2163,Roraima,Norte,2014-10-01,5.1
+2164,Pará,Norte,2014-10-01,3.8
+2165,Amapá,Norte,2014-10-01,4.9
+2166,Tocantins,Norte,2014-10-01,4.3
+2167,Maranhão,Nordeste,2014-10-01,4.7
+2168,Piauí,Nordeste,2014-10-01,4.6
+2169,Ceará,Nordeste,2014-10-01,5.6
+2170,Rio Grande do Norte,Nordeste,2014-10-01,5.7
+2171,Paraíba,Nordeste,2014-10-01,5.3
+2172,Pernambuco,Nordeste,2014-10-01,5.5
+2173,Alagoas,Nordeste,2014-10-01,5.5
+2174,Sergipe,Nordeste,2014-10-01,4.2
+2175,Bahia,Nordeste,2014-10-01,4.4
+2176,Minas Gerais,Sudeste,2014-10-01,5.3
+2177,Espírito Santo,Sudeste,2014-10-01,5.2
+2178,Rio de Janeiro,Sudeste,2014-10-01,7.5
+2179,São Paulo,Sudeste,2014-10-01,5.6
+2180,Paraná,Sul,2014-10-01,4.9
+2181,Santa Catarina,Sul,2014-10-01,4.9
+2182,Rio Grande do Sul,Sul,2014-10-01,6.1
+2183,Mato Grosso do Sul,Centro-Oeste,2014-10-01,4.7
+2184,Mato Grosso,Centro-Oeste,2014-10-01,4.6
+2185,Goiás,Centro-Oeste,2014-10-01,4.6
+2186,Distrito Federal,Centro-Oeste,2014-10-01,6.5
+2187,Rondônia,Norte,2014-11-01,4.2
+2188,Acre,Norte,2014-11-01,4.8
+2189,Amazonas,Norte,2014-11-01,5.1
+2190,Roraima,Norte,2014-11-01,5.8
+2191,Pará,Norte,2014-11-01,3.9
+2192,Amapá,Norte,2014-11-01,5.0
+2193,Tocantins,Norte,2014-11-01,4.1
+2194,Maranhão,Nordeste,2014-11-01,4.7
+2195,Piauí,Nordeste,2014-11-01,4.3
+2196,Ceará,Nordeste,2014-11-01,5.5
+2197,Rio Grande do Norte,Nordeste,2014-11-01,6.0
+2198,Paraíba,Nordeste,2014-11-01,5.5
+2199,Pernambuco,Nordeste,2014-11-01,5.5
+2200,Alagoas,Nordeste,2014-11-01,5.8
+2201,Sergipe,Nordeste,2014-11-01,4.4
+2202,Bahia,Nordeste,2014-11-01,4.4
+2203,Minas Gerais,Sudeste,2014-11-01,5.1
+2204,Espírito Santo,Sudeste,2014-11-01,5.2
+2205,Rio de Janeiro,Sudeste,2014-11-01,7.7
+2206,São Paulo,Sudeste,2014-11-01,5.5
+2207,Paraná,Sul,2014-11-01,4.7
+2208,Santa Catarina,Sul,2014-11-01,4.9
+2209,Rio Grande do Sul,Sul,2014-11-01,6.1
+2210,Mato Grosso do Sul,Centro-Oeste,2014-11-01,4.8
+2211,Mato Grosso,Centro-Oeste,2014-11-01,4.6
+2212,Goiás,Centro-Oeste,2014-11-01,4.7
+2213,Distrito Federal,Centro-Oeste,2014-11-01,6.6
+2214,Rondônia,Norte,2014-12-01,4.3
+2215,Acre,Norte,2014-12-01,4.5
+2216,Amazonas,Norte,2014-12-01,5.0
+2217,Roraima,Norte,2014-12-01,5.7
+2218,Pará,Norte,2014-12-01,4.0
+2219,Amapá,Norte,2014-12-01,4.4
+2220,Tocantins,Norte,2014-12-01,4.4
+2221,Maranhão,Nordeste,2014-12-01,4.6
+2222,Piauí,Nordeste,2014-12-01,4.8
+2223,Ceará,Nordeste,2014-12-01,6.4
+2224,Rio Grande do Norte,Nordeste,2014-12-01,6.0
+2225,Paraíba,Nordeste,2014-12-01,5.6
+2226,Pernambuco,Nordeste,2014-12-01,5.6
+2227,Alagoas,Nordeste,2014-12-01,5.8
+2228,Sergipe,Nordeste,2014-12-01,4.5
+2229,Bahia,Nordeste,2014-12-01,4.6
+2230,Minas Gerais,Sudeste,2014-12-01,5.2
+2231,Espírito Santo,Sudeste,2014-12-01,5.6
+2232,Rio de Janeiro,Sudeste,2014-12-01,9.1
+2233,São Paulo,Sudeste,2014-12-01,5.7
+2234,Paraná,Sul,2014-12-01,4.8
+2235,Santa Catarina,Sul,2014-12-01,5.0
+2236,Rio Grande do Sul,Sul,2014-12-01,6.1
+2237,Mato Grosso do Sul,Centro-Oeste,2014-12-01,4.7
+2238,Mato Grosso,Centro-Oeste,2014-12-01,4.4
+2239,Goiás,Centro-Oeste,2014-12-01,5.2
+2240,Distrito Federal,Centro-Oeste,2014-12-01,6.6
+2241,Rondônia,Norte,2015-01-01,4.7
+2242,Acre,Norte,2015-01-01,5.5
+2243,Amazonas,Norte,2015-01-01,5.2
+2244,Roraima,Norte,2015-01-01,5.4
+2245,Pará,Norte,2015-01-01,4.0
+2246,Amapá,Norte,2015-01-01,5.5
+2247,Tocantins,Norte,2015-01-01,4.4
+2248,Maranhão,Nordeste,2015-01-01,5.4
+2249,Piauí,Nordeste,2015-01-01,4.8
+2250,Ceará,Nordeste,2015-01-01,5.8
+2251,Rio Grande do Norte,Nordeste,2015-01-01,5.9
+2252,Paraíba,Nordeste,2015-01-01,5.8
+2253,Pernambuco,Nordeste,2015-01-01,5.9
+2254,Alagoas,Nordeste,2015-01-01,5.9
+2255,Sergipe,Nordeste,2015-01-01,5.2
+2256,Bahia,Nordeste,2015-01-01,4.7
+2257,Minas Gerais,Sudeste,2015-01-01,5.3
+2258,Espírito Santo,Sudeste,2015-01-01,5.3
+2259,Rio de Janeiro,Sudeste,2015-01-01,7.9
+2260,São Paulo,Sudeste,2015-01-01,6.1
+2261,Paraná,Sul,2015-01-01,5.1
+2262,Santa Catarina,Sul,2015-01-01,5.2
+2263,Rio Grande do Sul,Sul,2015-01-01,6.2
+2264,Mato Grosso do Sul,Centro-Oeste,2015-01-01,4.9
+2265,Mato Grosso,Centro-Oeste,2015-01-01,4.7
+2266,Goiás,Centro-Oeste,2015-01-01,4.9
+2267,Distrito Federal,Centro-Oeste,2015-01-01,6.9
+2268,Rondônia,Norte,2015-02-01,4.7
+2269,Acre,Norte,2015-02-01,4.9
+2270,Amazonas,Norte,2015-02-01,5.1
+2271,Roraima,Norte,2015-02-01,5.6
+2272,Pará,Norte,2015-02-01,4.0
+2273,Amapá,Norte,2015-02-01,5.8
+2274,Tocantins,Norte,2015-02-01,4.5
+2275,Maranhão,Nordeste,2015-02-01,4.4
+2276,Piauí,Nordeste,2015-02-01,4.7
+2277,Ceará,Nordeste,2015-02-01,5.7
+2278,Rio Grande do Norte,Nordeste,2015-02-01,6.2
+2279,Paraíba,Nordeste,2015-02-01,5.4
+2280,Pernambuco,Nordeste,2015-02-01,5.8
+2281,Alagoas,Nordeste,2015-02-01,5.4
+2282,Sergipe,Nordeste,2015-02-01,5.0
+2283,Bahia,Nordeste,2015-02-01,4.7
+2284,Minas Gerais,Sudeste,2015-02-01,5.2
+2285,Espírito Santo,Sudeste,2015-02-01,5.3
+2286,Rio de Janeiro,Sudeste,2015-02-01,7.5
+2287,São Paulo,Sudeste,2015-02-01,5.5
+2288,Paraná,Sul,2015-02-01,4.9
+2289,Santa Catarina,Sul,2015-02-01,4.9
+2290,Rio Grande do Sul,Sul,2015-02-01,6.1
+2291,Mato Grosso do Sul,Centro-Oeste,2015-02-01,4.8
+2292,Mato Grosso,Centro-Oeste,2015-02-01,4.5
+2293,Goiás,Centro-Oeste,2015-02-01,4.6
+2294,Distrito Federal,Centro-Oeste,2015-02-01,6.7
+2295,Rondônia,Norte,2015-03-01,4.5
+2296,Acre,Norte,2015-03-01,4.9
+2297,Amazonas,Norte,2015-03-01,5.1
+2298,Roraima,Norte,2015-03-01,5.5
+2299,Pará,Norte,2015-03-01,3.9
+2300,Amapá,Norte,2015-03-01,5.2
+2301,Tocantins,Norte,2015-03-01,4.6
+2302,Maranhão,Nordeste,2015-03-01,4.4
+2303,Piauí,Nordeste,2015-03-01,4.4
+2304,Ceará,Nordeste,2015-03-01,5.6
+2305,Rio Grande do Norte,Nordeste,2015-03-01,5.6
+2306,Paraíba,Nordeste,2015-03-01,5.4
+2307,Pernambuco,Nordeste,2015-03-01,5.4
+2308,Alagoas,Nordeste,2015-03-01,5.7
+2309,Sergipe,Nordeste,2015-03-01,4.5
+2310,Bahia,Nordeste,2015-03-01,4.4
+2311,Minas Gerais,Sudeste,2015-03-01,5.0
+2312,Espírito Santo,Sudeste,2015-03-01,5.1
+2313,Rio de Janeiro,Sudeste,2015-03-01,7.2
+2314,São Paulo,Sudeste,2015-03-01,5.4
+2315,Paraná,Sul,2015-03-01,4.8
+2316,Santa Catarina,Sul,2015-03-01,4.8
+2317,Rio Grande do Sul,Sul,2015-03-01,5.9
+2318,Mato Grosso do Sul,Centro-Oeste,2015-03-01,4.8
+2319,Mato Grosso,Centro-Oeste,2015-03-01,4.6
+2320,Goiás,Centro-Oeste,2015-03-01,4.9
+2321,Distrito Federal,Centro-Oeste,2015-03-01,6.6
+2322,Rondônia,Norte,2015-04-01,4.7
+2323,Acre,Norte,2015-04-01,5.0
+2324,Amazonas,Norte,2015-04-01,5.3
+2325,Roraima,Norte,2015-04-01,5.1
+2326,Pará,Norte,2015-04-01,3.9
+2327,Amapá,Norte,2015-04-01,5.3
+2328,Tocantins,Norte,2015-04-01,4.5
+2329,Maranhão,Nordeste,2015-04-01,4.6
+2330,Piauí,Nordeste,2015-04-01,4.6
+2331,Ceará,Nordeste,2015-04-01,5.6
+2332,Rio Grande do Norte,Nordeste,2015-04-01,5.6
+2333,Paraíba,Nordeste,2015-04-01,5.5
+2334,Pernambuco,Nordeste,2015-04-01,5.5
+2335,Alagoas,Nordeste,2015-04-01,5.8
+2336,Sergipe,Nordeste,2015-04-01,4.7
+2337,Bahia,Nordeste,2015-04-01,4.6
+2338,Minas Gerais,Sudeste,2015-04-01,5.3
+2339,Espírito Santo,Sudeste,2015-04-01,5.1
+2340,Rio de Janeiro,Sudeste,2015-04-01,7.3
+2341,São Paulo,Sudeste,2015-04-01,5.5
+2342,Paraná,Sul,2015-04-01,4.8
+2343,Santa Catarina,Sul,2015-04-01,4.9
+2344,Rio Grande do Sul,Sul,2015-04-01,6.1
+2345,Mato Grosso do Sul,Centro-Oeste,2015-04-01,4.8
+2346,Mato Grosso,Centro-Oeste,2015-04-01,4.5
+2347,Goiás,Centro-Oeste,2015-04-01,4.9
+2348,Distrito Federal,Centro-Oeste,2015-04-01,6.5
+2349,Rondônia,Norte,2015-05-01,4.7
+2350,Acre,Norte,2015-05-01,4.9
+2351,Amazonas,Norte,2015-05-01,5.0
+2352,Roraima,Norte,2015-05-01,5.1
+2353,Pará,Norte,2015-05-01,4.0
+2354,Amapá,Norte,2015-05-01,5.4
+2355,Tocantins,Norte,2015-05-01,4.5
+2356,Maranhão,Nordeste,2015-05-01,4.8
+2357,Piauí,Nordeste,2015-05-01,4.3
+2358,Ceará,Nordeste,2015-05-01,5.6
+2359,Rio Grande do Norte,Nordeste,2015-05-01,6.0
+2360,Paraíba,Nordeste,2015-05-01,5.5
+2361,Pernambuco,Nordeste,2015-05-01,5.5
+2362,Alagoas,Nordeste,2015-05-01,4.9
+2363,Sergipe,Nordeste,2015-05-01,4.9
+2364,Bahia,Nordeste,2015-05-01,4.5
+2365,Minas Gerais,Sudeste,2015-05-01,5.1
+2366,Espírito Santo,Sudeste,2015-05-01,5.0
+2367,Rio de Janeiro,Sudeste,2015-05-01,7.7
+2368,São Paulo,Sudeste,2015-05-01,5.5
+2369,Paraná,Sul,2015-05-01,4.8
+2370,Santa Catarina,Sul,2015-05-01,4.9
+2371,Rio Grande do Sul,Sul,2015-05-01,6.1
+2372,Mato Grosso do Sul,Centro-Oeste,2015-05-01,4.7
+2373,Mato Grosso,Centro-Oeste,2015-05-01,4.5
+2374,Goiás,Centro-Oeste,2015-05-01,4.6
+2375,Distrito Federal,Centro-Oeste,2015-05-01,6.5
+2376,Rondônia,Norte,2015-06-01,4.9
+2377,Acre,Norte,2015-06-01,4.8
+2378,Amazonas,Norte,2015-06-01,5.1
+2379,Roraima,Norte,2015-06-01,5.3
+2380,Pará,Norte,2015-06-01,3.9
+2381,Amapá,Norte,2015-06-01,5.4
+2382,Tocantins,Norte,2015-06-01,4.7
+2383,Maranhão,Nordeste,2015-06-01,4.5
+2384,Piauí,Nordeste,2015-06-01,4.5
+2385,Ceará,Nordeste,2015-06-01,5.6
+2386,Rio Grande do Norte,Nordeste,2015-06-01,5.7
+2387,Paraíba,Nordeste,2015-06-01,5.3
+2388,Pernambuco,Nordeste,2015-06-01,5.4
+2389,Alagoas,Nordeste,2015-06-01,5.3
+2390,Sergipe,Nordeste,2015-06-01,4.9
+2391,Bahia,Nordeste,2015-06-01,4.6
+2392,Minas Gerais,Sudeste,2015-06-01,5.2
+2393,Espírito Santo,Sudeste,2015-06-01,5.0
+2394,Rio de Janeiro,Sudeste,2015-06-01,8.0
+2395,São Paulo,Sudeste,2015-06-01,6.0
+2396,Paraná,Sul,2015-06-01,4.7
+2397,Santa Catarina,Sul,2015-06-01,5.0
+2398,Rio Grande do Sul,Sul,2015-06-01,6.1
+2399,Mato Grosso do Sul,Centro-Oeste,2015-06-01,4.7
+2400,Mato Grosso,Centro-Oeste,2015-06-01,4.6
+2401,Goiás,Centro-Oeste,2015-06-01,4.9
+2402,Distrito Federal,Centro-Oeste,2015-06-01,6.5
+2403,Rondônia,Norte,2015-07-01,4.7
+2404,Acre,Norte,2015-07-01,4.8
+2405,Amazonas,Norte,2015-07-01,5.2
+2406,Roraima,Norte,2015-07-01,5.5
+2407,Pará,Norte,2015-07-01,4.0
+2408,Amapá,Norte,2015-07-01,5.2
+2409,Tocantins,Norte,2015-07-01,4.6
+2410,Maranhão,Nordeste,2015-07-01,4.6
+2411,Piauí,Nordeste,2015-07-01,4.5
+2412,Ceará,Nordeste,2015-07-01,5.7
+2413,Rio Grande do Norte,Nordeste,2015-07-01,5.8
+2414,Paraíba,Nordeste,2015-07-01,5.5
+2415,Pernambuco,Nordeste,2015-07-01,5.6
+2416,Alagoas,Nordeste,2015-07-01,5.4
+2417,Sergipe,Nordeste,2015-07-01,5.0
+2418,Bahia,Nordeste,2015-07-01,4.7
+2419,Minas Gerais,Sudeste,2015-07-01,5.2
+2420,Espírito Santo,Sudeste,2015-07-01,4.9
+2421,Rio de Janeiro,Sudeste,2015-07-01,8.5
+2422,São Paulo,Sudeste,2015-07-01,5.6
+2423,Paraná,Sul,2015-07-01,4.8
+2424,Santa Catarina,Sul,2015-07-01,4.8
+2425,Rio Grande do Sul,Sul,2015-07-01,6.2
+2426,Mato Grosso do Sul,Centro-Oeste,2015-07-01,4.8
+2427,Mato Grosso,Centro-Oeste,2015-07-01,4.6
+2428,Goiás,Centro-Oeste,2015-07-01,4.9
+2429,Distrito Federal,Centro-Oeste,2015-07-01,6.6
+2430,Rondônia,Norte,2015-08-01,4.7
+2431,Acre,Norte,2015-08-01,5.0
+2432,Amazonas,Norte,2015-08-01,5.1
+2433,Roraima,Norte,2015-08-01,5.2
+2434,Pará,Norte,2015-08-01,3.8
+2435,Amapá,Norte,2015-08-01,5.1
+2436,Tocantins,Norte,2015-08-01,4.8
+2437,Maranhão,Nordeste,2015-08-01,4.5
+2438,Piauí,Nordeste,2015-08-01,4.5
+2439,Ceará,Nordeste,2015-08-01,6.1
+2440,Rio Grande do Norte,Nordeste,2015-08-01,5.9
+2441,Paraíba,Nordeste,2015-08-01,5.5
+2442,Pernambuco,Nordeste,2015-08-01,5.6
+2443,Alagoas,Nordeste,2015-08-01,5.2
+2444,Sergipe,Nordeste,2015-08-01,5.1
+2445,Bahia,Nordeste,2015-08-01,4.6
+2446,Minas Gerais,Sudeste,2015-08-01,5.2
+2447,Espírito Santo,Sudeste,2015-08-01,5.0
+2448,Rio de Janeiro,Sudeste,2015-08-01,7.6
+2449,São Paulo,Sudeste,2015-08-01,5.6
+2450,Paraná,Sul,2015-08-01,4.6
+2451,Santa Catarina,Sul,2015-08-01,4.7
+2452,Rio Grande do Sul,Sul,2015-08-01,6.1
+2453,Mato Grosso do Sul,Centro-Oeste,2015-08-01,4.7
+2454,Mato Grosso,Centro-Oeste,2015-08-01,4.6
+2455,Goiás,Centro-Oeste,2015-08-01,4.7
+2456,Distrito Federal,Centro-Oeste,2015-08-01,6.8
+2457,Rondônia,Norte,2015-09-01,4.7
+2458,Acre,Norte,2015-09-01,4.6
+2459,Amazonas,Norte,2015-09-01,5.1
+2460,Roraima,Norte,2015-09-01,5.1
+2461,Pará,Norte,2015-09-01,3.8
+2462,Amapá,Norte,2015-09-01,4.9
+2463,Tocantins,Norte,2015-09-01,4.7
+2464,Maranhão,Nordeste,2015-09-01,4.5
+2465,Piauí,Nordeste,2015-09-01,4.3
+2466,Ceará,Nordeste,2015-09-01,5.7
+2467,Rio Grande do Norte,Nordeste,2015-09-01,6.0
+2468,Paraíba,Nordeste,2015-09-01,5.4
+2469,Pernambuco,Nordeste,2015-09-01,5.5
+2470,Alagoas,Nordeste,2015-09-01,5.1
+2471,Sergipe,Nordeste,2015-09-01,5.1
+2472,Bahia,Nordeste,2015-09-01,4.5
+2473,Minas Gerais,Sudeste,2015-09-01,5.0
+2474,Espírito Santo,Sudeste,2015-09-01,5.1
+2475,Rio de Janeiro,Sudeste,2015-09-01,8.0
+2476,São Paulo,Sudeste,2015-09-01,5.5
+2477,Paraná,Sul,2015-09-01,4.7
+2478,Santa Catarina,Sul,2015-09-01,4.6
+2479,Rio Grande do Sul,Sul,2015-09-01,6.2
+2480,Mato Grosso do Sul,Centro-Oeste,2015-09-01,4.7
+2481,Mato Grosso,Centro-Oeste,2015-09-01,4.4
+2482,Goiás,Centro-Oeste,2015-09-01,4.9
+2483,Distrito Federal,Centro-Oeste,2015-09-01,6.9
+2484,Rondônia,Norte,2015-10-01,5.0
+2485,Acre,Norte,2015-10-01,4.9
+2486,Amazonas,Norte,2015-10-01,5.2
+2487,Roraima,Norte,2015-10-01,5.2
+2488,Pará,Norte,2015-10-01,3.9
+2489,Amapá,Norte,2015-10-01,4.9
+2490,Tocantins,Norte,2015-10-01,4.7
+2491,Maranhão,Nordeste,2015-10-01,4.5
+2492,Piauí,Nordeste,2015-10-01,4.4
+2493,Ceará,Nordeste,2015-10-01,5.9
+2494,Rio Grande do Norte,Nordeste,2015-10-01,5.6
+2495,Paraíba,Nordeste,2015-10-01,5.6
+2496,Pernambuco,Nordeste,2015-10-01,5.7
+2497,Alagoas,Nordeste,2015-10-01,5.1
+2498,Sergipe,Nordeste,2015-10-01,5.2
+2499,Bahia,Nordeste,2015-10-01,4.5
+2500,Minas Gerais,Sudeste,2015-10-01,5.1
+2501,Espírito Santo,Sudeste,2015-10-01,5.2
+2502,Rio de Janeiro,Sudeste,2015-10-01,7.7
+2503,São Paulo,Sudeste,2015-10-01,5.6
+2504,Paraná,Sul,2015-10-01,4.8
+2505,Santa Catarina,Sul,2015-10-01,4.8
+2506,Rio Grande do Sul,Sul,2015-10-01,6.3
+2507,Mato Grosso do Sul,Centro-Oeste,2015-10-01,4.7
+2508,Mato Grosso,Centro-Oeste,2015-10-01,4.9
+2509,Goiás,Centro-Oeste,2015-10-01,4.7
+2510,Distrito Federal,Centro-Oeste,2015-10-01,6.8
+2511,Rondônia,Norte,2015-11-01,4.8
+2512,Acre,Norte,2015-11-01,5.2
+2513,Amazonas,Norte,2015-11-01,5.1
+2514,Roraima,Norte,2015-11-01,5.5
+2515,Pará,Norte,2015-11-01,3.9
+2516,Amapá,Norte,2015-11-01,5.1
+2517,Tocantins,Norte,2015-11-01,4.6
+2518,Maranhão,Nordeste,2015-11-01,4.6
+2519,Piauí,Nordeste,2015-11-01,4.4
+2520,Ceará,Nordeste,2015-11-01,5.8
+2521,Rio Grande do Norte,Nordeste,2015-11-01,5.7
+2522,Paraíba,Nordeste,2015-11-01,5.3
+2523,Pernambuco,Nordeste,2015-11-01,5.7
+2524,Alagoas,Nordeste,2015-11-01,5.2
+2525,Sergipe,Nordeste,2015-11-01,5.7
+2526,Bahia,Nordeste,2015-11-01,5.5
+2527,Minas Gerais,Sudeste,2015-11-01,5.1
+2528,Espírito Santo,Sudeste,2015-11-01,5.1
+2529,Rio de Janeiro,Sudeste,2015-11-01,7.3
+2530,São Paulo,Sudeste,2015-11-01,5.4
+2531,Paraná,Sul,2015-11-01,4.7
+2532,Santa Catarina,Sul,2015-11-01,4.7
+2533,Rio Grande do Sul,Sul,2015-11-01,6.1
+2534,Mato Grosso do Sul,Centro-Oeste,2015-11-01,4.7
+2535,Mato Grosso,Centro-Oeste,2015-11-01,4.6
+2536,Goiás,Centro-Oeste,2015-11-01,4.8
+2537,Distrito Federal,Centro-Oeste,2015-11-01,6.5
+2538,Rondônia,Norte,2015-12-01,4.8
+2539,Acre,Norte,2015-12-01,4.8
+2540,Amazonas,Norte,2015-12-01,5.0
+2541,Roraima,Norte,2015-12-01,5.6
+2542,Pará,Norte,2015-12-01,3.9
+2543,Amapá,Norte,2015-12-01,5.1
+2544,Tocantins,Norte,2015-12-01,4.9
+2545,Maranhão,Nordeste,2015-12-01,4.6
+2546,Piauí,Nordeste,2015-12-01,4.5
+2547,Ceará,Nordeste,2015-12-01,5.7
+2548,Rio Grande do Norte,Nordeste,2015-12-01,6.0
+2549,Paraíba,Nordeste,2015-12-01,5.6
+2550,Pernambuco,Nordeste,2015-12-01,5.8
+2551,Alagoas,Nordeste,2015-12-01,5.2
+2552,Sergipe,Nordeste,2015-12-01,5.3
+2553,Bahia,Nordeste,2015-12-01,4.6
+2554,Minas Gerais,Sudeste,2015-12-01,5.2
+2555,Espírito Santo,Sudeste,2015-12-01,5.1
+2556,Rio de Janeiro,Sudeste,2015-12-01,7.2
+2557,São Paulo,Sudeste,2015-12-01,5.6
+2558,Paraná,Sul,2015-12-01,4.7
+2559,Santa Catarina,Sul,2015-12-01,4.6
+2560,Rio Grande do Sul,Sul,2015-12-01,6.0
+2561,Mato Grosso do Sul,Centro-Oeste,2015-12-01,4.6
+2562,Mato Grosso,Centro-Oeste,2015-12-01,4.4
+2563,Goiás,Centro-Oeste,2015-12-01,5.1
+2564,Distrito Federal,Centro-Oeste,2015-12-01,6.4
+2565,Rondônia,Norte,2016-01-01,5.0
+2566,Acre,Norte,2016-01-01,5.1
+2567,Amazonas,Norte,2016-01-01,5.1
+2568,Roraima,Norte,2016-01-01,5.8
+2569,Pará,Norte,2016-01-01,4.0
+2570,Amapá,Norte,2016-01-01,5.7
+2571,Tocantins,Norte,2016-01-01,5.4
+2572,Maranhão,Nordeste,2016-01-01,4.9
+2573,Piauí,Nordeste,2016-01-01,4.7
+2574,Ceará,Nordeste,2016-01-01,5.7
+2575,Rio Grande do Norte,Nordeste,2016-01-01,6.3
+2576,Paraíba,Nordeste,2016-01-01,5.9
+2577,Pernambuco,Nordeste,2016-01-01,6.0
+2578,Alagoas,Nordeste,2016-01-01,5.5
+2579,Sergipe,Nordeste,2016-01-01,5.5
+2580,Bahia,Nordeste,2016-01-01,4.8
+2581,Minas Gerais,Sudeste,2016-01-01,5.3
+2582,Espírito Santo,Sudeste,2016-01-01,5.3
+2583,Rio de Janeiro,Sudeste,2016-01-01,8.2
+2584,São Paulo,Sudeste,2016-01-01,5.9
+2585,Paraná,Sul,2016-01-01,4.8
+2586,Santa Catarina,Sul,2016-01-01,5.1
+2587,Rio Grande do Sul,Sul,2016-01-01,6.1
+2588,Mato Grosso do Sul,Centro-Oeste,2016-01-01,4.9
+2589,Mato Grosso,Centro-Oeste,2016-01-01,4.7
+2590,Goiás,Centro-Oeste,2016-01-01,5.1
+2591,Distrito Federal,Centro-Oeste,2016-01-01,6.8
+2592,Rondônia,Norte,2016-02-01,4.8
+2593,Acre,Norte,2016-02-01,5.1
+2594,Amazonas,Norte,2016-02-01,5.2
+2595,Roraima,Norte,2016-02-01,5.4
+2596,Pará,Norte,2016-02-01,3.9
+2597,Amapá,Norte,2016-02-01,5.7
+2598,Tocantins,Norte,2016-02-01,5.2
+2599,Maranhão,Nordeste,2016-02-01,4.7
+2600,Piauí,Nordeste,2016-02-01,4.4
+2601,Ceará,Nordeste,2016-02-01,5.6
+2602,Rio Grande do Norte,Nordeste,2016-02-01,5.8
+2603,Paraíba,Nordeste,2016-02-01,5.6
+2604,Pernambuco,Nordeste,2016-02-01,5.8
+2605,Alagoas,Nordeste,2016-02-01,5.3
+2606,Sergipe,Nordeste,2016-02-01,5.7
+2607,Bahia,Nordeste,2016-02-01,4.6
+2608,Minas Gerais,Sudeste,2016-02-01,5.2
+2609,Espírito Santo,Sudeste,2016-02-01,5.1
+2610,Rio de Janeiro,Sudeste,2016-02-01,7.5
+2611,São Paulo,Sudeste,2016-02-01,5.4
+2612,Paraná,Sul,2016-02-01,4.6
+2613,Santa Catarina,Sul,2016-02-01,4.8
+2614,Rio Grande do Sul,Sul,2016-02-01,6.1
+2615,Mato Grosso do Sul,Centro-Oeste,2016-02-01,5.1
+2616,Mato Grosso,Centro-Oeste,2016-02-01,4.6
+2617,Goiás,Centro-Oeste,2016-02-01,4.7
+2618,Distrito Federal,Centro-Oeste,2016-02-01,6.4
+2619,Rondônia,Norte,2016-03-01,4.7
+2620,Acre,Norte,2016-03-01,5.2
+2621,Amazonas,Norte,2016-03-01,5.2
+2622,Roraima,Norte,2016-03-01,5.7
+2623,Pará,Norte,2016-03-01,4.0
+2624,Amapá,Norte,2016-03-01,5.4
+2625,Tocantins,Norte,2016-03-01,5.0
+2626,Maranhão,Nordeste,2016-03-01,4.6
+2627,Piauí,Nordeste,2016-03-01,4.6
+2628,Ceará,Nordeste,2016-03-01,5.6
+2629,Rio Grande do Norte,Nordeste,2016-03-01,5.7
+2630,Paraíba,Nordeste,2016-03-01,5.5
+2631,Pernambuco,Nordeste,2016-03-01,5.6
+2632,Alagoas,Nordeste,2016-03-01,5.0
+2633,Sergipe,Nordeste,2016-03-01,5.3
+2634,Bahia,Nordeste,2016-03-01,4.6
+2635,Minas Gerais,Sudeste,2016-03-01,5.0
+2636,Espírito Santo,Sudeste,2016-03-01,5.2
+2637,Rio de Janeiro,Sudeste,2016-03-01,8.1
+2638,São Paulo,Sudeste,2016-03-01,5.3
+2639,Paraná,Sul,2016-03-01,4.6
+2640,Santa Catarina,Sul,2016-03-01,5.0
+2641,Rio Grande do Sul,Sul,2016-03-01,6.0
+2642,Mato Grosso do Sul,Centro-Oeste,2016-03-01,4.9
+2643,Mato Grosso,Centro-Oeste,2016-03-01,4.4
+2644,Goiás,Centro-Oeste,2016-03-01,4.6
+2645,Distrito Federal,Centro-Oeste,2016-03-01,6.2
+2646,Rondônia,Norte,2016-04-01,4.7
+2647,Acre,Norte,2016-04-01,5.4
+2648,Amazonas,Norte,2016-04-01,5.3
+2649,Roraima,Norte,2016-04-01,5.6
+2650,Pará,Norte,2016-04-01,3.9
+2651,Amapá,Norte,2016-04-01,5.4
+2652,Tocantins,Norte,2016-04-01,5.0
+2653,Maranhão,Nordeste,2016-04-01,4.7
+2654,Piauí,Nordeste,2016-04-01,4.6
+2655,Ceará,Nordeste,2016-04-01,5.5
+2656,Rio Grande do Norte,Nordeste,2016-04-01,6.1
+2657,Paraíba,Nordeste,2016-04-01,5.4
+2658,Pernambuco,Nordeste,2016-04-01,5.6
+2659,Alagoas,Nordeste,2016-04-01,4.8
+2660,Sergipe,Nordeste,2016-04-01,5.3
+2661,Bahia,Nordeste,2016-04-01,4.6
+2662,Minas Gerais,Sudeste,2016-04-01,5.2
+2663,Espírito Santo,Sudeste,2016-04-01,5.2
+2664,Rio de Janeiro,Sudeste,2016-04-01,7.3
+2665,São Paulo,Sudeste,2016-04-01,5.5
+2666,Paraná,Sul,2016-04-01,4.6
+2667,Santa Catarina,Sul,2016-04-01,4.6
+2668,Rio Grande do Sul,Sul,2016-04-01,6.1
+2669,Mato Grosso do Sul,Centro-Oeste,2016-04-01,4.8
+2670,Mato Grosso,Centro-Oeste,2016-04-01,4.4
+2671,Goiás,Centro-Oeste,2016-04-01,4.6
+2672,Distrito Federal,Centro-Oeste,2016-04-01,6.3
+2673,Rondônia,Norte,2016-05-01,4.8
+2674,Acre,Norte,2016-05-01,5.6
+2675,Amazonas,Norte,2016-05-01,5.3
+2676,Roraima,Norte,2016-05-01,6.0
+2677,Pará,Norte,2016-05-01,4.0
+2678,Amapá,Norte,2016-05-01,5.8
+2679,Tocantins,Norte,2016-05-01,5.1
+2680,Maranhão,Nordeste,2016-05-01,4.8
+2681,Piauí,Nordeste,2016-05-01,4.4
+2682,Ceará,Nordeste,2016-05-01,5.5
+2683,Rio Grande do Norte,Nordeste,2016-05-01,6.1
+2684,Paraíba,Nordeste,2016-05-01,5.6
+2685,Pernambuco,Nordeste,2016-05-01,5.6
+2686,Alagoas,Nordeste,2016-05-01,5.0
+2687,Sergipe,Nordeste,2016-05-01,5.1
+2688,Bahia,Nordeste,2016-05-01,4.6
+2689,Minas Gerais,Sudeste,2016-05-01,5.2
+2690,Espírito Santo,Sudeste,2016-05-01,5.1
+2691,Rio de Janeiro,Sudeste,2016-05-01,7.2
+2692,São Paulo,Sudeste,2016-05-01,5.4
+2693,Paraná,Sul,2016-05-01,4.6
+2694,Santa Catarina,Sul,2016-05-01,4.8
+2695,Rio Grande do Sul,Sul,2016-05-01,6.1
+2696,Mato Grosso do Sul,Centro-Oeste,2016-05-01,4.8
+2697,Mato Grosso,Centro-Oeste,2016-05-01,4.5
+2698,Goiás,Centro-Oeste,2016-05-01,4.6
+2699,Distrito Federal,Centro-Oeste,2016-05-01,6.4
+2700,Rondônia,Norte,2016-06-01,4.9
+2701,Acre,Norte,2016-06-01,5.2
+2702,Amazonas,Norte,2016-06-01,5.2
+2703,Roraima,Norte,2016-06-01,5.7
+2704,Pará,Norte,2016-06-01,4.0
+2705,Amapá,Norte,2016-06-01,5.4
+2706,Tocantins,Norte,2016-06-01,5.2
+2707,Maranhão,Nordeste,2016-06-01,4.8
+2708,Piauí,Nordeste,2016-06-01,4.4
+2709,Ceará,Nordeste,2016-06-01,5.7
+2710,Rio Grande do Norte,Nordeste,2016-06-01,5.8
+2711,Paraíba,Nordeste,2016-06-01,5.6
+2712,Pernambuco,Nordeste,2016-06-01,5.6
+2713,Alagoas,Nordeste,2016-06-01,4.9
+2714,Sergipe,Nordeste,2016-06-01,5.4
+2715,Bahia,Nordeste,2016-06-01,4.8
+2716,Minas Gerais,Sudeste,2016-06-01,5.2
+2717,Espírito Santo,Sudeste,2016-06-01,5.1
+2718,Rio de Janeiro,Sudeste,2016-06-01,7.2
+2719,São Paulo,Sudeste,2016-06-01,5.4
+2720,Paraná,Sul,2016-06-01,4.6
+2721,Santa Catarina,Sul,2016-06-01,5.3
+2722,Rio Grande do Sul,Sul,2016-06-01,6.1
+2723,Mato Grosso do Sul,Centro-Oeste,2016-06-01,4.8
+2724,Mato Grosso,Centro-Oeste,2016-06-01,4.6
+2725,Goiás,Centro-Oeste,2016-06-01,4.7
+2726,Distrito Federal,Centro-Oeste,2016-06-01,6.1
+2727,Rondônia,Norte,2016-07-01,4.7
+2728,Acre,Norte,2016-07-01,5.1
+2729,Amazonas,Norte,2016-07-01,5.4
+2730,Roraima,Norte,2016-07-01,5.6
+2731,Pará,Norte,2016-07-01,4.0
+2732,Amapá,Norte,2016-07-01,5.7
+2733,Tocantins,Norte,2016-07-01,5.2
+2734,Maranhão,Nordeste,2016-07-01,4.9
+2735,Piauí,Nordeste,2016-07-01,4.4
+2736,Ceará,Nordeste,2016-07-01,5.6
+2737,Rio Grande do Norte,Nordeste,2016-07-01,6.0
+2738,Paraíba,Nordeste,2016-07-01,5.6
+2739,Pernambuco,Nordeste,2016-07-01,5.4
+2740,Alagoas,Nordeste,2016-07-01,4.9
+2741,Sergipe,Nordeste,2016-07-01,5.3
+2742,Bahia,Nordeste,2016-07-01,4.7
+2743,Minas Gerais,Sudeste,2016-07-01,5.2
+2744,Espírito Santo,Sudeste,2016-07-01,5.3
+2745,Rio de Janeiro,Sudeste,2016-07-01,11.6
+2746,São Paulo,Sudeste,2016-07-01,5.3
+2747,Paraná,Sul,2016-07-01,4.7
+2748,Santa Catarina,Sul,2016-07-01,9.4
+2749,Rio Grande do Sul,Sul,2016-07-01,6.2
+2750,Mato Grosso do Sul,Centro-Oeste,2016-07-01,4.9
+2751,Mato Grosso,Centro-Oeste,2016-07-01,4.6
+2752,Goiás,Centro-Oeste,2016-07-01,4.8
+2753,Distrito Federal,Centro-Oeste,2016-07-01,6.3
+2754,Rondônia,Norte,2016-08-01,4.6
+2755,Acre,Norte,2016-08-01,5.2
+2756,Amazonas,Norte,2016-08-01,5.2
+2757,Roraima,Norte,2016-08-01,5.1
+2758,Pará,Norte,2016-08-01,4.0
+2759,Amapá,Norte,2016-08-01,5.2
+2760,Tocantins,Norte,2016-08-01,5.5
+2761,Maranhão,Nordeste,2016-08-01,4.9
+2762,Piauí,Nordeste,2016-08-01,4.4
+2763,Ceará,Nordeste,2016-08-01,5.6
+2764,Rio Grande do Norte,Nordeste,2016-08-01,6.2
+2765,Paraíba,Nordeste,2016-08-01,5.7
+2766,Pernambuco,Nordeste,2016-08-01,5.4
+2767,Alagoas,Nordeste,2016-08-01,4.9
+2768,Sergipe,Nordeste,2016-08-01,4.5
+2769,Bahia,Nordeste,2016-08-01,4.6
+2770,Minas Gerais,Sudeste,2016-08-01,5.3
+2771,Espírito Santo,Sudeste,2016-08-01,4.9
+2772,Rio de Janeiro,Sudeste,2016-08-01,8.8
+2773,São Paulo,Sudeste,2016-08-01,5.3
+2774,Paraná,Sul,2016-08-01,4.5
+2775,Santa Catarina,Sul,2016-08-01,4.7
+2776,Rio Grande do Sul,Sul,2016-08-01,6.1
+2777,Mato Grosso do Sul,Centro-Oeste,2016-08-01,4.8
+2778,Mato Grosso,Centro-Oeste,2016-08-01,4.6
+2779,Goiás,Centro-Oeste,2016-08-01,4.8
+2780,Distrito Federal,Centro-Oeste,2016-08-01,6.2
+2781,Rondônia,Norte,2016-09-01,4.6
+2782,Acre,Norte,2016-09-01,5.1
+2783,Amazonas,Norte,2016-09-01,5.1
+2784,Roraima,Norte,2016-09-01,5.6
+2785,Pará,Norte,2016-09-01,4.1
+2786,Amapá,Norte,2016-09-01,5.3
+2787,Tocantins,Norte,2016-09-01,5.3
+2788,Maranhão,Nordeste,2016-09-01,4.9
+2789,Piauí,Nordeste,2016-09-01,4.4
+2790,Ceará,Nordeste,2016-09-01,5.4
+2791,Rio Grande do Norte,Nordeste,2016-09-01,6.3
+2792,Paraíba,Nordeste,2016-09-01,5.6
+2793,Pernambuco,Nordeste,2016-09-01,5.4
+2794,Alagoas,Nordeste,2016-09-01,4.9
+2795,Sergipe,Nordeste,2016-09-01,5.6
+2796,Bahia,Nordeste,2016-09-01,4.8
+2797,Minas Gerais,Sudeste,2016-09-01,5.2
+2798,Espírito Santo,Sudeste,2016-09-01,5.2
+2799,Rio de Janeiro,Sudeste,2016-09-01,7.5
+2800,São Paulo,Sudeste,2016-09-01,5.3
+2801,Paraná,Sul,2016-09-01,4.7
+2802,Santa Catarina,Sul,2016-09-01,4.8
+2803,Rio Grande do Sul,Sul,2016-09-01,6.2
+2804,Mato Grosso do Sul,Centro-Oeste,2016-09-01,4.6
+2805,Mato Grosso,Centro-Oeste,2016-09-01,4.6
+2806,Goiás,Centro-Oeste,2016-09-01,4.5
+2807,Distrito Federal,Centro-Oeste,2016-09-01,6.1
+2808,Rondônia,Norte,2016-10-01,4.8
+2809,Acre,Norte,2016-10-01,5.2
+2810,Amazonas,Norte,2016-10-01,5.4
+2811,Roraima,Norte,2016-10-01,5.7
+2812,Pará,Norte,2016-10-01,4.2
+2813,Amapá,Norte,2016-10-01,5.3
+2814,Tocantins,Norte,2016-10-01,5.3
+2815,Maranhão,Nordeste,2016-10-01,4.9
+2816,Piauí,Nordeste,2016-10-01,4.5
+2817,Ceará,Nordeste,2016-10-01,5.6
+2818,Rio Grande do Norte,Nordeste,2016-10-01,6.1
+2819,Paraíba,Nordeste,2016-10-01,5.4
+2820,Pernambuco,Nordeste,2016-10-01,5.6
+2821,Alagoas,Nordeste,2016-10-01,5.2
+2822,Sergipe,Nordeste,2016-10-01,5.2
+2823,Bahia,Nordeste,2016-10-01,4.8
+2824,Minas Gerais,Sudeste,2016-10-01,5.3
+2825,Espírito Santo,Sudeste,2016-10-01,5.2
+2826,Rio de Janeiro,Sudeste,2016-10-01,8.1
+2827,São Paulo,Sudeste,2016-10-01,5.4
+2828,Paraná,Sul,2016-10-01,4.5
+2829,Santa Catarina,Sul,2016-10-01,4.7
+2830,Rio Grande do Sul,Sul,2016-10-01,6.2
+2831,Mato Grosso do Sul,Centro-Oeste,2016-10-01,4.7
+2832,Mato Grosso,Centro-Oeste,2016-10-01,4.7
+2833,Goiás,Centro-Oeste,2016-10-01,4.9
+2834,Distrito Federal,Centro-Oeste,2016-10-01,6.3
+2835,Rondônia,Norte,2016-11-01,4.6
+2836,Acre,Norte,2016-11-01,5.5
+2837,Amazonas,Norte,2016-11-01,5.2
+2838,Roraima,Norte,2016-11-01,5.3
+2839,Pará,Norte,2016-11-01,4.1
+2840,Amapá,Norte,2016-11-01,5.0
+2841,Tocantins,Norte,2016-11-01,5.0
+2842,Maranhão,Nordeste,2016-11-01,4.9
+2843,Piauí,Nordeste,2016-11-01,4.6
+2844,Ceará,Nordeste,2016-11-01,5.6
+2845,Rio Grande do Norte,Nordeste,2016-11-01,5.9
+2846,Paraíba,Nordeste,2016-11-01,5.6
+2847,Pernambuco,Nordeste,2016-11-01,5.7
+2848,Alagoas,Nordeste,2016-11-01,4.9
+2849,Sergipe,Nordeste,2016-11-01,5.4
+2850,Bahia,Nordeste,2016-11-01,4.9
+2851,Minas Gerais,Sudeste,2016-11-01,5.2
+2852,Espírito Santo,Sudeste,2016-11-01,5.2
+2853,Rio de Janeiro,Sudeste,2016-11-01,7.8
+2854,São Paulo,Sudeste,2016-11-01,5.4
+2855,Paraná,Sul,2016-11-01,4.6
+2856,Santa Catarina,Sul,2016-11-01,4.7
+2857,Rio Grande do Sul,Sul,2016-11-01,6.1
+2858,Mato Grosso do Sul,Centro-Oeste,2016-11-01,4.8
+2859,Mato Grosso,Centro-Oeste,2016-11-01,4.8
+2860,Goiás,Centro-Oeste,2016-11-01,5.0
+2861,Distrito Federal,Centro-Oeste,2016-11-01,6.3
+2862,Rondônia,Norte,2016-12-01,4.6
+2863,Acre,Norte,2016-12-01,5.0
+2864,Amazonas,Norte,2016-12-01,5.4
+2865,Roraima,Norte,2016-12-01,5.7
+2866,Pará,Norte,2016-12-01,4.1
+2867,Amapá,Norte,2016-12-01,4.8
+2868,Tocantins,Norte,2016-12-01,5.3
+2869,Maranhão,Nordeste,2016-12-01,4.9
+2870,Piauí,Nordeste,2016-12-01,4.6
+2871,Ceará,Nordeste,2016-12-01,5.6
+2872,Rio Grande do Norte,Nordeste,2016-12-01,5.9
+2873,Paraíba,Nordeste,2016-12-01,5.6
+2874,Pernambuco,Nordeste,2016-12-01,5.7
+2875,Alagoas,Nordeste,2016-12-01,5.2
+2876,Sergipe,Nordeste,2016-12-01,5.3
+2877,Bahia,Nordeste,2016-12-01,5.0
+2878,Minas Gerais,Sudeste,2016-12-01,5.2
+2879,Espírito Santo,Sudeste,2016-12-01,5.1
+2880,Rio de Janeiro,Sudeste,2016-12-01,8.7
+2881,São Paulo,Sudeste,2016-12-01,5.3
+2882,Paraná,Sul,2016-12-01,4.6
+2883,Santa Catarina,Sul,2016-12-01,4.5
+2884,Rio Grande do Sul,Sul,2016-12-01,5.9
+2885,Mato Grosso do Sul,Centro-Oeste,2016-12-01,4.6
+2886,Mato Grosso,Centro-Oeste,2016-12-01,4.6
+2887,Goiás,Centro-Oeste,2016-12-01,4.8
+2888,Distrito Federal,Centro-Oeste,2016-12-01,6.1
+2889,Rondônia,Norte,2017-01-01,4.9
+2890,Acre,Norte,2017-01-01,5.3
+2891,Amazonas,Norte,2017-01-01,5.3
+2892,Roraima,Norte,2017-01-01,5.5
+2893,Pará,Norte,2017-01-01,4.3
+2894,Amapá,Norte,2017-01-01,5.2
+2895,Tocantins,Norte,2017-01-01,5.3
+2896,Maranhão,Nordeste,2017-01-01,4.9
+2897,Piauí,Nordeste,2017-01-01,4.7
+2898,Ceará,Nordeste,2017-01-01,5.7
+2899,Rio Grande do Norte,Nordeste,2017-01-01,6.1
+2900,Paraíba,Nordeste,2017-01-01,5.8
+2901,Pernambuco,Nordeste,2017-01-01,5.7
+2902,Alagoas,Nordeste,2017-01-01,5.3
+2903,Sergipe,Nordeste,2017-01-01,5.6
+2904,Bahia,Nordeste,2017-01-01,5.1
+2905,Minas Gerais,Sudeste,2017-01-01,5.3
+2906,Espírito Santo,Sudeste,2017-01-01,5.3
+2907,Rio de Janeiro,Sudeste,2017-01-01,8.7
+2908,São Paulo,Sudeste,2017-01-01,5.6
+2909,Paraná,Sul,2017-01-01,4.7
+2910,Santa Catarina,Sul,2017-01-01,4.9
+2911,Rio Grande do Sul,Sul,2017-01-01,6.1
+2912,Mato Grosso do Sul,Centro-Oeste,2017-01-01,5.0
+2913,Mato Grosso,Centro-Oeste,2017-01-01,4.8
+2914,Goiás,Centro-Oeste,2017-01-01,4.8
+2915,Distrito Federal,Centro-Oeste,2017-01-01,6.2
+2916,Rondônia,Norte,2017-02-01,5.0
+2917,Acre,Norte,2017-02-01,5.7
+2918,Amazonas,Norte,2017-02-01,5.3
+2919,Roraima,Norte,2017-02-01,5.3
+2920,Pará,Norte,2017-02-01,4.1
+2921,Amapá,Norte,2017-02-01,5.8
+2922,Tocantins,Norte,2017-02-01,5.1
+2923,Maranhão,Nordeste,2017-02-01,4.8
+2924,Piauí,Nordeste,2017-02-01,4.7
+2925,Ceará,Nordeste,2017-02-01,5.7
+2926,Rio Grande do Norte,Nordeste,2017-02-01,6.0
+2927,Paraíba,Nordeste,2017-02-01,5.9
+2928,Pernambuco,Nordeste,2017-02-01,5.6
+2929,Alagoas,Nordeste,2017-02-01,5.1
+2930,Sergipe,Nordeste,2017-02-01,5.5
+2931,Bahia,Nordeste,2017-02-01,5.0
+2932,Minas Gerais,Sudeste,2017-02-01,5.2
+2933,Espírito Santo,Sudeste,2017-02-01,5.1
+2934,Rio de Janeiro,Sudeste,2017-02-01,8.2
+2935,São Paulo,Sudeste,2017-02-01,5.2
+2936,Paraná,Sul,2017-02-01,4.5
+2937,Santa Catarina,Sul,2017-02-01,4.8
+2938,Rio Grande do Sul,Sul,2017-02-01,6.1
+2939,Mato Grosso do Sul,Centro-Oeste,2017-02-01,4.9
+2940,Mato Grosso,Centro-Oeste,2017-02-01,4.6
+2941,Goiás,Centro-Oeste,2017-02-01,4.5
+2942,Distrito Federal,Centro-Oeste,2017-02-01,6.0
+2943,Rondônia,Norte,2017-03-01,4.6
+2944,Acre,Norte,2017-03-01,5.2
+2945,Amazonas,Norte,2017-03-01,5.1
+2946,Roraima,Norte,2017-03-01,5.2
+2947,Pará,Norte,2017-03-01,4.1
+2948,Amapá,Norte,2017-03-01,5.2
+2949,Tocantins,Norte,2017-03-01,5.2
+2950,Maranhão,Nordeste,2017-03-01,4.8
+2951,Piauí,Nordeste,2017-03-01,4.6
+2952,Ceará,Nordeste,2017-03-01,5.7
+2953,Rio Grande do Norte,Nordeste,2017-03-01,5.6
+2954,Paraíba,Nordeste,2017-03-01,5.6
+2955,Pernambuco,Nordeste,2017-03-01,5.4
+2956,Alagoas,Nordeste,2017-03-01,4.9
+2957,Sergipe,Nordeste,2017-03-01,5.3
+2958,Bahia,Nordeste,2017-03-01,4.8
+2959,Minas Gerais,Sudeste,2017-03-01,5.3
+2960,Espírito Santo,Sudeste,2017-03-01,4.9
+2961,Rio de Janeiro,Sudeste,2017-03-01,7.3
+2962,São Paulo,Sudeste,2017-03-01,5.1
+2963,Paraná,Sul,2017-03-01,4.5
+2964,Santa Catarina,Sul,2017-03-01,4.7
+2965,Rio Grande do Sul,Sul,2017-03-01,6.0
+2966,Mato Grosso do Sul,Centro-Oeste,2017-03-01,4.9
+2967,Mato Grosso,Centro-Oeste,2017-03-01,4.6
+2968,Goiás,Centro-Oeste,2017-03-01,4.6
+2969,Distrito Federal,Centro-Oeste,2017-03-01,5.7
+2970,Rondônia,Norte,2017-04-01,4.7
+2971,Acre,Norte,2017-04-01,4.9
+2972,Amazonas,Norte,2017-04-01,5.2
+2973,Roraima,Norte,2017-04-01,5.2
+2974,Pará,Norte,2017-04-01,4.1
+2975,Amapá,Norte,2017-04-01,5.4
+2976,Tocantins,Norte,2017-04-01,5.2
+2977,Maranhão,Nordeste,2017-04-01,4.7
+2978,Piauí,Nordeste,2017-04-01,4.7
+2979,Ceará,Nordeste,2017-04-01,5.8
+2980,Rio Grande do Norte,Nordeste,2017-04-01,6.0
+2981,Paraíba,Nordeste,2017-04-01,5.7
+2982,Pernambuco,Nordeste,2017-04-01,5.4
+2983,Alagoas,Nordeste,2017-04-01,4.9
+2984,Sergipe,Nordeste,2017-04-01,5.2
+2985,Bahia,Nordeste,2017-04-01,4.8
+2986,Minas Gerais,Sudeste,2017-04-01,5.1
+2987,Espírito Santo,Sudeste,2017-04-01,5.1
+2988,Rio de Janeiro,Sudeste,2017-04-01,7.3
+2989,São Paulo,Sudeste,2017-04-01,5.2
+2990,Paraná,Sul,2017-04-01,4.6
+2991,Santa Catarina,Sul,2017-04-01,4.7
+2992,Rio Grande do Sul,Sul,2017-04-01,6.1
+2993,Mato Grosso do Sul,Centro-Oeste,2017-04-01,4.8
+2994,Mato Grosso,Centro-Oeste,2017-04-01,4.6
+2995,Goiás,Centro-Oeste,2017-04-01,4.4
+2996,Distrito Federal,Centro-Oeste,2017-04-01,6.2
+2997,Rondônia,Norte,2017-05-01,4.6
+2998,Acre,Norte,2017-05-01,5.0
+2999,Amazonas,Norte,2017-05-01,5.3
+3000,Roraima,Norte,2017-05-01,4.9
+3001,Pará,Norte,2017-05-01,4.1
+3002,Amapá,Norte,2017-05-01,5.4
+3003,Tocantins,Norte,2017-05-01,5.2
+3004,Maranhão,Nordeste,2017-05-01,4.7
+3005,Piauí,Nordeste,2017-05-01,4.8
+3006,Ceará,Nordeste,2017-05-01,5.6
+3007,Rio Grande do Norte,Nordeste,2017-05-01,5.8
+3008,Paraíba,Nordeste,2017-05-01,5.5
+3009,Pernambuco,Nordeste,2017-05-01,5.4
+3010,Alagoas,Nordeste,2017-05-01,5.0
+3011,Sergipe,Nordeste,2017-05-01,5.1
+3012,Bahia,Nordeste,2017-05-01,4.6
+3013,Minas Gerais,Sudeste,2017-05-01,5.1
+3014,Espírito Santo,Sudeste,2017-05-01,4.9
+3015,Rio de Janeiro,Sudeste,2017-05-01,7.2
+3016,São Paulo,Sudeste,2017-05-01,5.1
+3017,Paraná,Sul,2017-05-01,4.4
+3018,Santa Catarina,Sul,2017-05-01,4.7
+3019,Rio Grande do Sul,Sul,2017-05-01,6.0
+3020,Mato Grosso do Sul,Centro-Oeste,2017-05-01,4.7
+3021,Mato Grosso,Centro-Oeste,2017-05-01,4.4
+3022,Goiás,Centro-Oeste,2017-05-01,4.3
+3023,Distrito Federal,Centro-Oeste,2017-05-01,6.1
+3024,Rondônia,Norte,2017-06-01,4.6
+3025,Acre,Norte,2017-06-01,5.1
+3026,Amazonas,Norte,2017-06-01,5.3
+3027,Roraima,Norte,2017-06-01,5.1
+3028,Pará,Norte,2017-06-01,4.1
+3029,Amapá,Norte,2017-06-01,5.5
+3030,Tocantins,Norte,2017-06-01,5.2
+3031,Maranhão,Nordeste,2017-06-01,4.6
+3032,Piauí,Nordeste,2017-06-01,4.9
+3033,Ceará,Nordeste,2017-06-01,5.7
+3034,Rio Grande do Norte,Nordeste,2017-06-01,5.9
+3035,Paraíba,Nordeste,2017-06-01,5.7
+3036,Pernambuco,Nordeste,2017-06-01,5.4
+3037,Alagoas,Nordeste,2017-06-01,4.7
+3038,Sergipe,Nordeste,2017-06-01,5.6
+3039,Bahia,Nordeste,2017-06-01,4.6
+3040,Minas Gerais,Sudeste,2017-06-01,5.2
+3041,Espírito Santo,Sudeste,2017-06-01,4.9
+3042,Rio de Janeiro,Sudeste,2017-06-01,7.0
+3043,São Paulo,Sudeste,2017-06-01,5.3
+3044,Paraná,Sul,2017-06-01,4.6
+3045,Santa Catarina,Sul,2017-06-01,4.7
+3046,Rio Grande do Sul,Sul,2017-06-01,6.1
+3047,Mato Grosso do Sul,Centro-Oeste,2017-06-01,4.8
+3048,Mato Grosso,Centro-Oeste,2017-06-01,4.5
+3049,Goiás,Centro-Oeste,2017-06-01,4.5
+3050,Distrito Federal,Centro-Oeste,2017-06-01,6.0
+3051,Rondônia,Norte,2017-07-01,4.8
+3052,Acre,Norte,2017-07-01,5.0
+3053,Amazonas,Norte,2017-07-01,5.2
+3054,Roraima,Norte,2017-07-01,5.0
+3055,Pará,Norte,2017-07-01,4.2
+3056,Amapá,Norte,2017-07-01,5.8
+3057,Tocantins,Norte,2017-07-01,5.3
+3058,Maranhão,Nordeste,2017-07-01,4.6
+3059,Piauí,Nordeste,2017-07-01,4.8
+3060,Ceará,Nordeste,2017-07-01,5.8
+3061,Rio Grande do Norte,Nordeste,2017-07-01,5.9
+3062,Paraíba,Nordeste,2017-07-01,5.7
+3063,Pernambuco,Nordeste,2017-07-01,5.4
+3064,Alagoas,Nordeste,2017-07-01,4.9
+3065,Sergipe,Nordeste,2017-07-01,5.5
+3066,Bahia,Nordeste,2017-07-01,4.7
+3067,Minas Gerais,Sudeste,2017-07-01,5.2
+3068,Espírito Santo,Sudeste,2017-07-01,5.0
+3069,Rio de Janeiro,Sudeste,2017-07-01,7.1
+3070,São Paulo,Sudeste,2017-07-01,5.2
+3071,Paraná,Sul,2017-07-01,4.5
+3072,Santa Catarina,Sul,2017-07-01,4.7
+3073,Rio Grande do Sul,Sul,2017-07-01,6.0
+3074,Mato Grosso do Sul,Centro-Oeste,2017-07-01,4.7
+3075,Mato Grosso,Centro-Oeste,2017-07-01,4.6
+3076,Goiás,Centro-Oeste,2017-07-01,4.5
+3077,Distrito Federal,Centro-Oeste,2017-07-01,6.3
+3078,Rondônia,Norte,2017-08-01,4.5
+3079,Acre,Norte,2017-08-01,5.2
+3080,Amazonas,Norte,2017-08-01,5.2
+3081,Roraima,Norte,2017-08-01,5.1
+3082,Pará,Norte,2017-08-01,4.1
+3083,Amapá,Norte,2017-08-01,4.8
+3084,Tocantins,Norte,2017-08-01,5.1
+3085,Maranhão,Nordeste,2017-08-01,4.7
+3086,Piauí,Nordeste,2017-08-01,4.8
+3087,Ceará,Nordeste,2017-08-01,5.6
+3088,Rio Grande do Norte,Nordeste,2017-08-01,5.8
+3089,Paraíba,Nordeste,2017-08-01,5.6
+3090,Pernambuco,Nordeste,2017-08-01,5.3
+3091,Alagoas,Nordeste,2017-08-01,4.9
+3092,Sergipe,Nordeste,2017-08-01,5.6
+3093,Bahia,Nordeste,2017-08-01,4.7
+3094,Minas Gerais,Sudeste,2017-08-01,5.1
+3095,Espírito Santo,Sudeste,2017-08-01,4.8
+3096,Rio de Janeiro,Sudeste,2017-08-01,7.1
+3097,São Paulo,Sudeste,2017-08-01,5.9
+3098,Paraná,Sul,2017-08-01,4.4
+3099,Santa Catarina,Sul,2017-08-01,4.7
+3100,Rio Grande do Sul,Sul,2017-08-01,6.1
+3101,Mato Grosso do Sul,Centro-Oeste,2017-08-01,4.7
+3102,Mato Grosso,Centro-Oeste,2017-08-01,4.5
+3103,Goiás,Centro-Oeste,2017-08-01,4.4
+3104,Distrito Federal,Centro-Oeste,2017-08-01,6.2
+3105,Rondônia,Norte,2017-09-01,4.6
+3106,Acre,Norte,2017-09-01,5.2
+3107,Amazonas,Norte,2017-09-01,5.2
+3108,Roraima,Norte,2017-09-01,5.0
+3109,Pará,Norte,2017-09-01,4.1
+3110,Amapá,Norte,2017-09-01,5.0
+3111,Tocantins,Norte,2017-09-01,5.0
+3112,Maranhão,Nordeste,2017-09-01,4.6
+3113,Piauí,Nordeste,2017-09-01,4.6
+3114,Ceará,Nordeste,2017-09-01,5.7
+3115,Rio Grande do Norte,Nordeste,2017-09-01,5.7
+3116,Paraíba,Nordeste,2017-09-01,5.7
+3117,Pernambuco,Nordeste,2017-09-01,5.6
+3118,Alagoas,Nordeste,2017-09-01,4.9
+3119,Sergipe,Nordeste,2017-09-01,5.6
+3120,Bahia,Nordeste,2017-09-01,4.7
+3121,Minas Gerais,Sudeste,2017-09-01,5.1
+3122,Espírito Santo,Sudeste,2017-09-01,5.0
+3123,Rio de Janeiro,Sudeste,2017-09-01,7.2
+3124,São Paulo,Sudeste,2017-09-01,5.1
+3125,Paraná,Sul,2017-09-01,4.5
+3126,Santa Catarina,Sul,2017-09-01,4.7
+3127,Rio Grande do Sul,Sul,2017-09-01,6.2
+3128,Mato Grosso do Sul,Centro-Oeste,2017-09-01,4.5
+3129,Mato Grosso,Centro-Oeste,2017-09-01,4.5
+3130,Goiás,Centro-Oeste,2017-09-01,4.5
+3131,Distrito Federal,Centro-Oeste,2017-09-01,6.3
+3132,Rondônia,Norte,2017-10-01,4.7
+3133,Acre,Norte,2017-10-01,5.0
+3134,Amazonas,Norte,2017-10-01,5.1
+3135,Roraima,Norte,2017-10-01,4.9
+3136,Pará,Norte,2017-10-01,4.0
+3137,Amapá,Norte,2017-10-01,5.0
+3138,Tocantins,Norte,2017-10-01,4.9
+3139,Maranhão,Nordeste,2017-10-01,4.6
+3140,Piauí,Nordeste,2017-10-01,4.8
+3141,Ceará,Nordeste,2017-10-01,5.7
+3142,Rio Grande do Norte,Nordeste,2017-10-01,5.8
+3143,Paraíba,Nordeste,2017-10-01,5.6
+3144,Pernambuco,Nordeste,2017-10-01,5.5
+3145,Alagoas,Nordeste,2017-10-01,5.0
+3146,Sergipe,Nordeste,2017-10-01,5.9
+3147,Bahia,Nordeste,2017-10-01,4.8
+3148,Minas Gerais,Sudeste,2017-10-01,5.1
+3149,Espírito Santo,Sudeste,2017-10-01,5.0
+3150,Rio de Janeiro,Sudeste,2017-10-01,7.3
+3151,São Paulo,Sudeste,2017-10-01,5.4
+3152,Paraná,Sul,2017-10-01,4.5
+3153,Santa Catarina,Sul,2017-10-01,4.6
+3154,Rio Grande do Sul,Sul,2017-10-01,6.1
+3155,Mato Grosso do Sul,Centro-Oeste,2017-10-01,4.7
+3156,Mato Grosso,Centro-Oeste,2017-10-01,4.8
+3157,Goiás,Centro-Oeste,2017-10-01,4.5
+3158,Distrito Federal,Centro-Oeste,2017-10-01,6.2
+3159,Rondônia,Norte,2017-11-01,4.5
+3160,Acre,Norte,2017-11-01,4.8
+3161,Amazonas,Norte,2017-11-01,5.2
+3162,Roraima,Norte,2017-11-01,5.1
+3163,Pará,Norte,2017-11-01,4.1
+3164,Amapá,Norte,2017-11-01,4.8
+3165,Tocantins,Norte,2017-11-01,5.1
+3166,Maranhão,Nordeste,2017-11-01,4.4
+3167,Piauí,Nordeste,2017-11-01,4.7
+3168,Ceará,Nordeste,2017-11-01,5.6
+3169,Rio Grande do Norte,Nordeste,2017-11-01,5.9
+3170,Paraíba,Nordeste,2017-11-01,5.8
+3171,Pernambuco,Nordeste,2017-11-01,5.3
+3172,Alagoas,Nordeste,2017-11-01,5.1
+3173,Sergipe,Nordeste,2017-11-01,5.8
+3174,Bahia,Nordeste,2017-11-01,4.8
+3175,Minas Gerais,Sudeste,2017-11-01,5.0
+3176,Espírito Santo,Sudeste,2017-11-01,4.8
+3177,Rio de Janeiro,Sudeste,2017-11-01,7.0
+3178,São Paulo,Sudeste,2017-11-01,5.2
+3179,Paraná,Sul,2017-11-01,4.4
+3180,Santa Catarina,Sul,2017-11-01,4.6
+3181,Rio Grande do Sul,Sul,2017-11-01,6.0
+3182,Mato Grosso do Sul,Centro-Oeste,2017-11-01,4.7
+3183,Mato Grosso,Centro-Oeste,2017-11-01,4.7
+3184,Goiás,Centro-Oeste,2017-11-01,4.6
+3185,Distrito Federal,Centro-Oeste,2017-11-01,6.4
+3186,Rondônia,Norte,2017-12-01,4.6
+3187,Acre,Norte,2017-12-01,4.6
+3188,Amazonas,Norte,2017-12-01,5.1
+3189,Roraima,Norte,2017-12-01,5.0
+3190,Pará,Norte,2017-12-01,4.0
+3191,Amapá,Norte,2017-12-01,4.5
+3192,Tocantins,Norte,2017-12-01,5.1
+3193,Maranhão,Nordeste,2017-12-01,4.4
+3194,Piauí,Nordeste,2017-12-01,4.5
+3195,Ceará,Nordeste,2017-12-01,5.7
+3196,Rio Grande do Norte,Nordeste,2017-12-01,5.7
+3197,Paraíba,Nordeste,2017-12-01,6.0
+3198,Pernambuco,Nordeste,2017-12-01,5.4
+3199,Alagoas,Nordeste,2017-12-01,5.1
+3200,Sergipe,Nordeste,2017-12-01,5.5
+3201,Bahia,Nordeste,2017-12-01,4.6
+3202,Minas Gerais,Sudeste,2017-12-01,5.0
+3203,Espírito Santo,Sudeste,2017-12-01,5.0
+3204,Rio de Janeiro,Sudeste,2017-12-01,6.9
+3205,São Paulo,Sudeste,2017-12-01,5.2
+3206,Paraná,Sul,2017-12-01,4.3
+3207,Santa Catarina,Sul,2017-12-01,4.3
+3208,Rio Grande do Sul,Sul,2017-12-01,5.9
+3209,Mato Grosso do Sul,Centro-Oeste,2017-12-01,4.6
+3210,Mato Grosso,Centro-Oeste,2017-12-01,4.5
+3211,Goiás,Centro-Oeste,2017-12-01,4.7
+3212,Distrito Federal,Centro-Oeste,2017-12-01,6.1
+3213,Rondônia,Norte,2018-01-01,4.7
+3214,Acre,Norte,2018-01-01,4.8
+3215,Amazonas,Norte,2018-01-01,5.1
+3216,Roraima,Norte,2018-01-01,5.1
+3217,Pará,Norte,2018-01-01,4.2
+3218,Amapá,Norte,2018-01-01,5.6
+3219,Tocantins,Norte,2018-01-01,5.4
+3220,Maranhão,Nordeste,2018-01-01,4.7
+3221,Piauí,Nordeste,2018-01-01,4.8
+3222,Ceará,Nordeste,2018-01-01,5.7
+3223,Rio Grande do Norte,Nordeste,2018-01-01,6.0
+3224,Paraíba,Nordeste,2018-01-01,6.0
+3225,Pernambuco,Nordeste,2018-01-01,5.7
+3226,Alagoas,Nordeste,2018-01-01,5.3
+3227,Sergipe,Nordeste,2018-01-01,6.0
+3228,Bahia,Nordeste,2018-01-01,5.1
+3229,Minas Gerais,Sudeste,2018-01-01,5.1
+3230,Espírito Santo,Sudeste,2018-01-01,5.1
+3231,Rio de Janeiro,Sudeste,2018-01-01,7.1
+3232,São Paulo,Sudeste,2018-01-01,5.3
+3233,Paraná,Sul,2018-01-01,4.5
+3234,Santa Catarina,Sul,2018-01-01,4.8
+3235,Rio Grande do Sul,Sul,2018-01-01,6.1
+3236,Mato Grosso do Sul,Centro-Oeste,2018-01-01,4.8
+3237,Mato Grosso,Centro-Oeste,2018-01-01,4.7
+3238,Goiás,Centro-Oeste,2018-01-01,4.7
+3239,Distrito Federal,Centro-Oeste,2018-01-01,6.5
+3240,Rondônia,Norte,2018-02-01,4.7
+3241,Acre,Norte,2018-02-01,4.9
+3242,Amazonas,Norte,2018-02-01,5.3
+3243,Roraima,Norte,2018-02-01,5.1
+3244,Pará,Norte,2018-02-01,4.1
+3245,Amapá,Norte,2018-02-01,5.4
+3246,Tocantins,Norte,2018-02-01,5.2
+3247,Maranhão,Nordeste,2018-02-01,4.7
+3248,Piauí,Nordeste,2018-02-01,4.9
+3249,Ceará,Nordeste,2018-02-01,5.7
+3250,Rio Grande do Norte,Nordeste,2018-02-01,5.7
+3251,Paraíba,Nordeste,2018-02-01,6.0
+3252,Pernambuco,Nordeste,2018-02-01,5.5
+3253,Alagoas,Nordeste,2018-02-01,5.0
+3254,Sergipe,Nordeste,2018-02-01,6.0
+3255,Bahia,Nordeste,2018-02-01,5.1
+3256,Minas Gerais,Sudeste,2018-02-01,5.1
+3257,Espírito Santo,Sudeste,2018-02-01,5.1
+3258,Rio de Janeiro,Sudeste,2018-02-01,7.1
+3259,São Paulo,Sudeste,2018-02-01,5.1
+3260,Paraná,Sul,2018-02-01,4.5
+3261,Santa Catarina,Sul,2018-02-01,4.6
+3262,Rio Grande do Sul,Sul,2018-02-01,6.1
+3263,Mato Grosso do Sul,Centro-Oeste,2018-02-01,5.0
+3264,Mato Grosso,Centro-Oeste,2018-02-01,4.5
+3265,Goiás,Centro-Oeste,2018-02-01,4.6
+3266,Distrito Federal,Centro-Oeste,2018-02-01,6.2
+3267,Rondônia,Norte,2018-03-01,4.7
+3268,Acre,Norte,2018-03-01,4.9
+3269,Amazonas,Norte,2018-03-01,5.2
+3270,Roraima,Norte,2018-03-01,5.4
+3271,Pará,Norte,2018-03-01,4.1
+3272,Amapá,Norte,2018-03-01,5.5
+3273,Tocantins,Norte,2018-03-01,5.2
+3274,Maranhão,Nordeste,2018-03-01,4.7
+3275,Piauí,Nordeste,2018-03-01,4.8
+3276,Ceará,Nordeste,2018-03-01,5.5
+3277,Rio Grande do Norte,Nordeste,2018-03-01,5.7
+3278,Paraíba,Nordeste,2018-03-01,5.5
+3279,Pernambuco,Nordeste,2018-03-01,5.3
+3280,Alagoas,Nordeste,2018-03-01,4.9
+3281,Sergipe,Nordeste,2018-03-01,5.6
+3282,Bahia,Nordeste,2018-03-01,4.6
+3283,Minas Gerais,Sudeste,2018-03-01,5.1
+3284,Espírito Santo,Sudeste,2018-03-01,4.8
+3285,Rio de Janeiro,Sudeste,2018-03-01,6.8
+3286,São Paulo,Sudeste,2018-03-01,5.0
+3287,Paraná,Sul,2018-03-01,4.4
+3288,Santa Catarina,Sul,2018-03-01,4.7
+3289,Rio Grande do Sul,Sul,2018-03-01,6.0
+3290,Mato Grosso do Sul,Centro-Oeste,2018-03-01,4.6
+3291,Mato Grosso,Centro-Oeste,2018-03-01,4.5
+3292,Goiás,Centro-Oeste,2018-03-01,4.5
+3293,Distrito Federal,Centro-Oeste,2018-03-01,5.8
+3294,Rondônia,Norte,2018-04-01,4.4
+3295,Acre,Norte,2018-04-01,4.8
+3296,Amazonas,Norte,2018-04-01,5.2
+3297,Roraima,Norte,2018-04-01,5.3
+3298,Pará,Norte,2018-04-01,4.1
+3299,Amapá,Norte,2018-04-01,5.2
+3300,Tocantins,Norte,2018-04-01,5.3
+3301,Maranhão,Nordeste,2018-04-01,4.4
+3302,Piauí,Nordeste,2018-04-01,4.9
+3303,Ceará,Nordeste,2018-04-01,5.6
+3304,Rio Grande do Norte,Nordeste,2018-04-01,5.6
+3305,Paraíba,Nordeste,2018-04-01,5.5
+3306,Pernambuco,Nordeste,2018-04-01,5.2
+3307,Alagoas,Nordeste,2018-04-01,4.8
+3308,Sergipe,Nordeste,2018-04-01,5.6
+3309,Bahia,Nordeste,2018-04-01,4.6
+3310,Minas Gerais,Sudeste,2018-04-01,5.0
+3311,Espírito Santo,Sudeste,2018-04-01,4.9
+3312,Rio de Janeiro,Sudeste,2018-04-01,6.7
+3313,São Paulo,Sudeste,2018-04-01,5.1
+3314,Paraná,Sul,2018-04-01,4.4
+3315,Santa Catarina,Sul,2018-04-01,4.6
+3316,Rio Grande do Sul,Sul,2018-04-01,6.0
+3317,Mato Grosso do Sul,Centro-Oeste,2018-04-01,4.7
+3318,Mato Grosso,Centro-Oeste,2018-04-01,4.4
+3319,Goiás,Centro-Oeste,2018-04-01,4.6
+3320,Distrito Federal,Centro-Oeste,2018-04-01,6.1
+3321,Rondônia,Norte,2018-05-01,4.7
+3322,Acre,Norte,2018-05-01,5.0
+3323,Amazonas,Norte,2018-05-01,5.2
+3324,Roraima,Norte,2018-05-01,5.3
+3325,Pará,Norte,2018-05-01,4.1
+3326,Amapá,Norte,2018-05-01,5.6
+3327,Tocantins,Norte,2018-05-01,5.4
+3328,Maranhão,Nordeste,2018-05-01,4.4
+3329,Piauí,Nordeste,2018-05-01,4.7
+3330,Ceará,Nordeste,2018-05-01,5.5
+3331,Rio Grande do Norte,Nordeste,2018-05-01,5.5
+3332,Paraíba,Nordeste,2018-05-01,5.4
+3333,Pernambuco,Nordeste,2018-05-01,5.3
+3334,Alagoas,Nordeste,2018-05-01,5.0
+3335,Sergipe,Nordeste,2018-05-01,5.4
+3336,Bahia,Nordeste,2018-05-01,4.6
+3337,Minas Gerais,Sudeste,2018-05-01,5.1
+3338,Espírito Santo,Sudeste,2018-05-01,4.9
+3339,Rio de Janeiro,Sudeste,2018-05-01,7.0
+3340,São Paulo,Sudeste,2018-05-01,5.1
+3341,Paraná,Sul,2018-05-01,4.5
+3342,Santa Catarina,Sul,2018-05-01,4.7
+3343,Rio Grande do Sul,Sul,2018-05-01,6.2
+3344,Mato Grosso do Sul,Centro-Oeste,2018-05-01,4.8
+3345,Mato Grosso,Centro-Oeste,2018-05-01,4.5
+3346,Goiás,Centro-Oeste,2018-05-01,4.7
+3347,Distrito Federal,Centro-Oeste,2018-05-01,5.8
+3348,Rondônia,Norte,2018-06-01,4.6
+3349,Acre,Norte,2018-06-01,5.0
+3350,Amazonas,Norte,2018-06-01,5.4
+3351,Roraima,Norte,2018-06-01,5.1
+3352,Pará,Norte,2018-06-01,4.2
+3353,Amapá,Norte,2018-06-01,5.7
+3354,Tocantins,Norte,2018-06-01,5.5
+3355,Maranhão,Nordeste,2018-06-01,4.4
+3356,Piauí,Nordeste,2018-06-01,4.7
+3357,Ceará,Nordeste,2018-06-01,5.5
+3358,Rio Grande do Norte,Nordeste,2018-06-01,5.8
+3359,Paraíba,Nordeste,2018-06-01,5.8
+3360,Pernambuco,Nordeste,2018-06-01,5.4
+3361,Alagoas,Nordeste,2018-06-01,4.9
+3362,Sergipe,Nordeste,2018-06-01,5.5
+3363,Bahia,Nordeste,2018-06-01,4.6
+3364,Minas Gerais,Sudeste,2018-06-01,5.1
+3365,Espírito Santo,Sudeste,2018-06-01,4.9
+3366,Rio de Janeiro,Sudeste,2018-06-01,6.8
+3367,São Paulo,Sudeste,2018-06-01,5.2
+3368,Paraná,Sul,2018-06-01,4.7
+3369,Santa Catarina,Sul,2018-06-01,4.6
+3370,Rio Grande do Sul,Sul,2018-06-01,6.2
+3371,Mato Grosso do Sul,Centro-Oeste,2018-06-01,4.9
+3372,Mato Grosso,Centro-Oeste,2018-06-01,4.6
+3373,Goiás,Centro-Oeste,2018-06-01,4.7
+3374,Distrito Federal,Centro-Oeste,2018-06-01,6.0
+3375,Rondônia,Norte,2018-07-01,4.6
+3376,Acre,Norte,2018-07-01,4.9
+3377,Amazonas,Norte,2018-07-01,5.3
+3378,Roraima,Norte,2018-07-01,5.4
+3379,Pará,Norte,2018-07-01,4.2
+3380,Amapá,Norte,2018-07-01,5.8
+3381,Tocantins,Norte,2018-07-01,6.0
+3382,Maranhão,Nordeste,2018-07-01,4.4
+3383,Piauí,Nordeste,2018-07-01,4.8
+3384,Ceará,Nordeste,2018-07-01,5.6
+3385,Rio Grande do Norte,Nordeste,2018-07-01,5.6
+3386,Paraíba,Nordeste,2018-07-01,5.5
+3387,Pernambuco,Nordeste,2018-07-01,5.5
+3388,Alagoas,Nordeste,2018-07-01,4.8
+3389,Sergipe,Nordeste,2018-07-01,5.3
+3390,Bahia,Nordeste,2018-07-01,4.6
+3391,Minas Gerais,Sudeste,2018-07-01,5.2
+3392,Espírito Santo,Sudeste,2018-07-01,4.9
+3393,Rio de Janeiro,Sudeste,2018-07-01,6.7
+3394,São Paulo,Sudeste,2018-07-01,5.2
+3395,Paraná,Sul,2018-07-01,4.4
+3396,Santa Catarina,Sul,2018-07-01,4.6
+3397,Rio Grande do Sul,Sul,2018-07-01,6.1
+3398,Mato Grosso do Sul,Centro-Oeste,2018-07-01,4.6
+3399,Mato Grosso,Centro-Oeste,2018-07-01,4.5
+3400,Goiás,Centro-Oeste,2018-07-01,4.9
+3401,Distrito Federal,Centro-Oeste,2018-07-01,6.3
+3402,Rondônia,Norte,2018-08-01,4.7
+3403,Acre,Norte,2018-08-01,4.8
+3404,Amazonas,Norte,2018-08-01,5.4
+3405,Roraima,Norte,2018-08-01,5.6
+3406,Pará,Norte,2018-08-01,4.1
+3407,Amapá,Norte,2018-08-01,5.1
+3408,Tocantins,Norte,2018-08-01,5.3
+3409,Maranhão,Nordeste,2018-08-01,4.3
+3410,Piauí,Nordeste,2018-08-01,4.9
+3411,Ceará,Nordeste,2018-08-01,5.6
+3412,Rio Grande do Norte,Nordeste,2018-08-01,5.8
+3413,Paraíba,Nordeste,2018-08-01,5.4
+3414,Pernambuco,Nordeste,2018-08-01,5.3
+3415,Alagoas,Nordeste,2018-08-01,4.8
+3416,Sergipe,Nordeste,2018-08-01,5.3
+3417,Bahia,Nordeste,2018-08-01,4.5
+3418,Minas Gerais,Sudeste,2018-08-01,5.1
+3419,Espírito Santo,Sudeste,2018-08-01,4.9
+3420,Rio de Janeiro,Sudeste,2018-08-01,6.9
+3421,São Paulo,Sudeste,2018-08-01,5.1
+3422,Paraná,Sul,2018-08-01,4.5
+3423,Santa Catarina,Sul,2018-08-01,4.6
+3424,Rio Grande do Sul,Sul,2018-08-01,6.3
+3425,Mato Grosso do Sul,Centro-Oeste,2018-08-01,4.8
+3426,Mato Grosso,Centro-Oeste,2018-08-01,4.5
+3427,Goiás,Centro-Oeste,2018-08-01,4.7
+3428,Distrito Federal,Centro-Oeste,2018-08-01,6.0
+3429,Rondônia,Norte,2018-09-01,4.6
+3430,Acre,Norte,2018-09-01,4.8
+3431,Amazonas,Norte,2018-09-01,5.2
+3432,Roraima,Norte,2018-09-01,5.3
+3433,Pará,Norte,2018-09-01,4.1
+3434,Amapá,Norte,2018-09-01,4.8
+3435,Tocantins,Norte,2018-09-01,5.5
+3436,Maranhão,Nordeste,2018-09-01,4.3
+3437,Piauí,Nordeste,2018-09-01,4.8
+3438,Ceará,Nordeste,2018-09-01,5.4
+3439,Rio Grande do Norte,Nordeste,2018-09-01,5.7
+3440,Paraíba,Nordeste,2018-09-01,5.5
+3441,Pernambuco,Nordeste,2018-09-01,5.3
+3442,Alagoas,Nordeste,2018-09-01,4.6
+3443,Sergipe,Nordeste,2018-09-01,5.5
+3444,Bahia,Nordeste,2018-09-01,4.5
+3445,Minas Gerais,Sudeste,2018-09-01,5.1
+3446,Espírito Santo,Sudeste,2018-09-01,5.0
+3447,Rio de Janeiro,Sudeste,2018-09-01,6.5
+3448,São Paulo,Sudeste,2018-09-01,5.1
+3449,Paraná,Sul,2018-09-01,4.4
+3450,Santa Catarina,Sul,2018-09-01,4.6
+3451,Rio Grande do Sul,Sul,2018-09-01,6.3
+3452,Mato Grosso do Sul,Centro-Oeste,2018-09-01,4.6
+3453,Mato Grosso,Centro-Oeste,2018-09-01,4.6
+3454,Goiás,Centro-Oeste,2018-09-01,4.6
+3455,Distrito Federal,Centro-Oeste,2018-09-01,6.0
+3456,Rondônia,Norte,2018-10-01,4.5
+3457,Acre,Norte,2018-10-01,4.7
+3458,Amazonas,Norte,2018-10-01,5.2
+3459,Roraima,Norte,2018-10-01,5.7
+3460,Pará,Norte,2018-10-01,3.9
+3461,Amapá,Norte,2018-10-01,4.9
+3462,Tocantins,Norte,2018-10-01,5.6
+3463,Maranhão,Nordeste,2018-10-01,4.4
+3464,Piauí,Nordeste,2018-10-01,5.0
+3465,Ceará,Nordeste,2018-10-01,5.5
+3466,Rio Grande do Norte,Nordeste,2018-10-01,5.9
+3467,Paraíba,Nordeste,2018-10-01,5.4
+3468,Pernambuco,Nordeste,2018-10-01,5.3
+3469,Alagoas,Nordeste,2018-10-01,5.0
+3470,Sergipe,Nordeste,2018-10-01,6.8
+3471,Bahia,Nordeste,2018-10-01,4.6
+3472,Minas Gerais,Sudeste,2018-10-01,5.0
+3473,Espírito Santo,Sudeste,2018-10-01,4.9
+3474,Rio de Janeiro,Sudeste,2018-10-01,6.6
+3475,São Paulo,Sudeste,2018-10-01,5.3
+3476,Paraná,Sul,2018-10-01,4.4
+3477,Santa Catarina,Sul,2018-10-01,4.6
+3478,Rio Grande do Sul,Sul,2018-10-01,6.2
+3479,Mato Grosso do Sul,Centro-Oeste,2018-10-01,4.6
+3480,Mato Grosso,Centro-Oeste,2018-10-01,4.6
+3481,Goiás,Centro-Oeste,2018-10-01,4.8
+3482,Distrito Federal,Centro-Oeste,2018-10-01,6.4
+3483,Rondônia,Norte,2018-11-01,4.7
+3484,Acre,Norte,2018-11-01,4.9
+3485,Amazonas,Norte,2018-11-01,5.2
+3486,Roraima,Norte,2018-11-01,6.0
+3487,Pará,Norte,2018-11-01,4.0
+3488,Amapá,Norte,2018-11-01,5.0
+3489,Tocantins,Norte,2018-11-01,6.0
+3490,Maranhão,Nordeste,2018-11-01,4.3
+3491,Piauí,Nordeste,2018-11-01,4.7
+3492,Ceará,Nordeste,2018-11-01,5.5
+3493,Rio Grande do Norte,Nordeste,2018-11-01,5.8
+3494,Paraíba,Nordeste,2018-11-01,5.3
+3495,Pernambuco,Nordeste,2018-11-01,5.4
+3496,Alagoas,Nordeste,2018-11-01,5.0
+3497,Sergipe,Nordeste,2018-11-01,5.6
+3498,Bahia,Nordeste,2018-11-01,4.6
+3499,Minas Gerais,Sudeste,2018-11-01,5.1
+3500,Espírito Santo,Sudeste,2018-11-01,5.0
+3501,Rio de Janeiro,Sudeste,2018-11-01,6.8
+3502,São Paulo,Sudeste,2018-11-01,5.1
+3503,Paraná,Sul,2018-11-01,4.4
+3504,Santa Catarina,Sul,2018-11-01,4.5
+3505,Rio Grande do Sul,Sul,2018-11-01,6.1
+3506,Mato Grosso do Sul,Centro-Oeste,2018-11-01,4.5
+3507,Mato Grosso,Centro-Oeste,2018-11-01,4.8
+3508,Goiás,Centro-Oeste,2018-11-01,4.7
+3509,Distrito Federal,Centro-Oeste,2018-11-01,6.1
+3510,Rondônia,Norte,2018-12-01,4.6
+3511,Acre,Norte,2018-12-01,4.8
+3512,Amazonas,Norte,2018-12-01,5.2
+3513,Roraima,Norte,2018-12-01,5.8
+3514,Pará,Norte,2018-12-01,4.1
+3515,Amapá,Norte,2018-12-01,5.0
+3516,Tocantins,Norte,2018-12-01,5.8
+3517,Maranhão,Nordeste,2018-12-01,4.4
+3518,Piauí,Nordeste,2018-12-01,4.7
+3519,Ceará,Nordeste,2018-12-01,5.6
+3520,Rio Grande do Norte,Nordeste,2018-12-01,5.8
+3521,Paraíba,Nordeste,2018-12-01,5.8
+3522,Pernambuco,Nordeste,2018-12-01,5.5
+3523,Alagoas,Nordeste,2018-12-01,4.9
+3524,Sergipe,Nordeste,2018-12-01,5.7
+3525,Bahia,Nordeste,2018-12-01,4.5
+3526,Minas Gerais,Sudeste,2018-12-01,5.1
+3527,Espírito Santo,Sudeste,2018-12-01,5.0
+3528,Rio de Janeiro,Sudeste,2018-12-01,6.6
+3529,São Paulo,Sudeste,2018-12-01,5.2
+3530,Paraná,Sul,2018-12-01,4.4
+3531,Santa Catarina,Sul,2018-12-01,4.4
+3532,Rio Grande do Sul,Sul,2018-12-01,6.0
+3533,Mato Grosso do Sul,Centro-Oeste,2018-12-01,4.7
+3534,Mato Grosso,Centro-Oeste,2018-12-01,4.7
+3535,Goiás,Centro-Oeste,2018-12-01,4.7
+3536,Distrito Federal,Centro-Oeste,2018-12-01,5.9
+3537,Rondônia,Norte,2019-01-01,5.0
+3538,Acre,Norte,2019-01-01,5.0
+3539,Amazonas,Norte,2019-01-01,5.2
+3540,Roraima,Norte,2019-01-01,5.9
+3541,Pará,Norte,2019-01-01,4.1
+3542,Amapá,Norte,2019-01-01,5.0
+3543,Tocantins,Norte,2019-01-01,6.0
+3544,Maranhão,Nordeste,2019-01-01,4.6
+3545,Piauí,Nordeste,2019-01-01,4.9
+3546,Ceará,Nordeste,2019-01-01,5.7
+3547,Rio Grande do Norte,Nordeste,2019-01-01,5.9
+3548,Paraíba,Nordeste,2019-01-01,5.9
+3549,Pernambuco,Nordeste,2019-01-01,5.5
+3550,Alagoas,Nordeste,2019-01-01,6.3
+3551,Sergipe,Nordeste,2019-01-01,6.0
+3552,Bahia,Nordeste,2019-01-01,4.7
+3553,Minas Gerais,Sudeste,2019-01-01,5.2
+3554,Espírito Santo,Sudeste,2019-01-01,5.0
+3555,Rio de Janeiro,Sudeste,2019-01-01,7.1
+3556,São Paulo,Sudeste,2019-01-01,5.4
+3557,Paraná,Sul,2019-01-01,4.4
+3558,Santa Catarina,Sul,2019-01-01,4.6
+3559,Rio Grande do Sul,Sul,2019-01-01,6.2
+3560,Mato Grosso do Sul,Centro-Oeste,2019-01-01,4.8
+3561,Mato Grosso,Centro-Oeste,2019-01-01,4.8
+3562,Goiás,Centro-Oeste,2019-01-01,4.7
+3563,Distrito Federal,Centro-Oeste,2019-01-01,6.1
+3564,Rondônia,Norte,2019-02-01,5.0
+3565,Acre,Norte,2019-02-01,5.0
+3566,Amazonas,Norte,2019-02-01,5.3
+3567,Roraima,Norte,2019-02-01,6.3
+3568,Pará,Norte,2019-02-01,4.1
+3569,Amapá,Norte,2019-02-01,5.2
+3570,Tocantins,Norte,2019-02-01,5.7
+3571,Maranhão,Nordeste,2019-02-01,4.5
+3572,Piauí,Nordeste,2019-02-01,5.0
+3573,Ceará,Nordeste,2019-02-01,5.8
+3574,Rio Grande do Norte,Nordeste,2019-02-01,5.6
+3575,Paraíba,Nordeste,2019-02-01,5.7
+3576,Pernambuco,Nordeste,2019-02-01,5.3
+3577,Alagoas,Nordeste,2019-02-01,5.3
+3578,Sergipe,Nordeste,2019-02-01,5.8
+3579,Bahia,Nordeste,2019-02-01,4.6
+3580,Minas Gerais,Sudeste,2019-02-01,5.0
+3581,Espírito Santo,Sudeste,2019-02-01,4.7
+3582,Rio de Janeiro,Sudeste,2019-02-01,7.1
+3583,São Paulo,Sudeste,2019-02-01,5.1
+3584,Paraná,Sul,2019-02-01,4.2
+3585,Santa Catarina,Sul,2019-02-01,4.4
+3586,Rio Grande do Sul,Sul,2019-02-01,6.1
+3587,Mato Grosso do Sul,Centro-Oeste,2019-02-01,4.7
+3588,Mato Grosso,Centro-Oeste,2019-02-01,4.5
+3589,Goiás,Centro-Oeste,2019-02-01,4.6
+3590,Distrito Federal,Centro-Oeste,2019-02-01,5.6
+3591,Rondônia,Norte,2019-03-01,4.7
+3592,Acre,Norte,2019-03-01,5.1
+3593,Amazonas,Norte,2019-03-01,5.3
+3594,Roraima,Norte,2019-03-01,6.3
+3595,Pará,Norte,2019-03-01,4.1
+3596,Amapá,Norte,2019-03-01,5.4
+3597,Tocantins,Norte,2019-03-01,5.6
+3598,Maranhão,Nordeste,2019-03-01,4.5
+3599,Piauí,Nordeste,2019-03-01,5.0
+3600,Ceará,Nordeste,2019-03-01,5.6
+3601,Rio Grande do Norte,Nordeste,2019-03-01,5.8
+3602,Paraíba,Nordeste,2019-03-01,5.7
+3603,Pernambuco,Nordeste,2019-03-01,5.4
+3604,Alagoas,Nordeste,2019-03-01,5.0
+3605,Sergipe,Nordeste,2019-03-01,5.5
+3606,Bahia,Nordeste,2019-03-01,4.6
+3607,Minas Gerais,Sudeste,2019-03-01,5.1
+3608,Espírito Santo,Sudeste,2019-03-01,4.9
+3609,Rio de Janeiro,Sudeste,2019-03-01,6.8
+3610,São Paulo,Sudeste,2019-03-01,5.4
+3611,Paraná,Sul,2019-03-01,4.3
+3612,Santa Catarina,Sul,2019-03-01,4.6
+3613,Rio Grande do Sul,Sul,2019-03-01,6.2
+3614,Mato Grosso do Sul,Centro-Oeste,2019-03-01,4.6
+3615,Mato Grosso,Centro-Oeste,2019-03-01,4.5
+3616,Goiás,Centro-Oeste,2019-03-01,4.7
+3617,Distrito Federal,Centro-Oeste,2019-03-01,5.6
+3618,Rondônia,Norte,2019-04-01,4.6
+3619,Acre,Norte,2019-04-01,5.1
+3620,Amazonas,Norte,2019-04-01,5.2
+3621,Roraima,Norte,2019-04-01,5.4
+3622,Pará,Norte,2019-04-01,4.0
+3623,Amapá,Norte,2019-04-01,5.8
+3624,Tocantins,Norte,2019-04-01,5.7
+3625,Maranhão,Nordeste,2019-04-01,4.5
+3626,Piauí,Nordeste,2019-04-01,4.9
+3627,Ceará,Nordeste,2019-04-01,5.5
+3628,Rio Grande do Norte,Nordeste,2019-04-01,5.5
+3629,Paraíba,Nordeste,2019-04-01,5.7
+3630,Pernambuco,Nordeste,2019-04-01,5.2
+3631,Alagoas,Nordeste,2019-04-01,5.1
+3632,Sergipe,Nordeste,2019-04-01,5.4
+3633,Bahia,Nordeste,2019-04-01,4.4
+3634,Minas Gerais,Sudeste,2019-04-01,5.0
+3635,Espírito Santo,Sudeste,2019-04-01,4.8
+3636,Rio de Janeiro,Sudeste,2019-04-01,6.7
+3637,São Paulo,Sudeste,2019-04-01,5.0
+3638,Paraná,Sul,2019-04-01,4.3
+3639,Santa Catarina,Sul,2019-04-01,4.4
+3640,Rio Grande do Sul,Sul,2019-04-01,6.0
+3641,Mato Grosso do Sul,Centro-Oeste,2019-04-01,4.6
+3642,Mato Grosso,Centro-Oeste,2019-04-01,4.5
+3643,Goiás,Centro-Oeste,2019-04-01,4.4
+3644,Distrito Federal,Centro-Oeste,2019-04-01,5.8
+3645,Rondônia,Norte,2019-05-01,4.5
+3646,Acre,Norte,2019-05-01,4.6
+3647,Amazonas,Norte,2019-05-01,5.2
+3648,Roraima,Norte,2019-05-01,6.0
+3649,Pará,Norte,2019-05-01,3.9
+3650,Amapá,Norte,2019-05-01,5.5
+3651,Tocantins,Norte,2019-05-01,5.4
+3652,Maranhão,Nordeste,2019-05-01,4.5
+3653,Piauí,Nordeste,2019-05-01,4.9
+3654,Ceará,Nordeste,2019-05-01,5.7
+3655,Rio Grande do Norte,Nordeste,2019-05-01,5.7
+3656,Paraíba,Nordeste,2019-05-01,5.3
+3657,Pernambuco,Nordeste,2019-05-01,5.3
+3658,Alagoas,Nordeste,2019-05-01,5.1
+3659,Sergipe,Nordeste,2019-05-01,5.5
+3660,Bahia,Nordeste,2019-05-01,4.4
+3661,Minas Gerais,Sudeste,2019-05-01,4.9
+3662,Espírito Santo,Sudeste,2019-05-01,4.9
+3663,Rio de Janeiro,Sudeste,2019-05-01,6.8
+3664,São Paulo,Sudeste,2019-05-01,5.0
+3665,Paraná,Sul,2019-05-01,4.2
+3666,Santa Catarina,Sul,2019-05-01,4.4
+3667,Rio Grande do Sul,Sul,2019-05-01,6.0
+3668,Mato Grosso do Sul,Centro-Oeste,2019-05-01,4.5
+3669,Mato Grosso,Centro-Oeste,2019-05-01,4.6
+3670,Goiás,Centro-Oeste,2019-05-01,4.5
+3671,Distrito Federal,Centro-Oeste,2019-05-01,5.8
+3672,Rondônia,Norte,2019-06-01,4.8
+3673,Acre,Norte,2019-06-01,5.0
+3674,Amazonas,Norte,2019-06-01,5.2
+3675,Roraima,Norte,2019-06-01,5.7
+3676,Pará,Norte,2019-06-01,3.8
+3677,Amapá,Norte,2019-06-01,5.8
+3678,Tocantins,Norte,2019-06-01,5.6
+3679,Maranhão,Nordeste,2019-06-01,4.6
+3680,Piauí,Nordeste,2019-06-01,4.9
+3681,Ceará,Nordeste,2019-06-01,5.6
+3682,Rio Grande do Norte,Nordeste,2019-06-01,5.5
+3683,Paraíba,Nordeste,2019-06-01,5.5
+3684,Pernambuco,Nordeste,2019-06-01,5.3
+3685,Alagoas,Nordeste,2019-06-01,5.1
+3686,Sergipe,Nordeste,2019-06-01,5.6
+3687,Bahia,Nordeste,2019-06-01,4.5
+3688,Minas Gerais,Sudeste,2019-06-01,5.0
+3689,Espírito Santo,Sudeste,2019-06-01,4.8
+3690,Rio de Janeiro,Sudeste,2019-06-01,7.0
+3691,São Paulo,Sudeste,2019-06-01,5.1
+3692,Paraná,Sul,2019-06-01,4.4
+3693,Santa Catarina,Sul,2019-06-01,4.4
+3694,Rio Grande do Sul,Sul,2019-06-01,6.1
+3695,Mato Grosso do Sul,Centro-Oeste,2019-06-01,4.6
+3696,Mato Grosso,Centro-Oeste,2019-06-01,4.5
+3697,Goiás,Centro-Oeste,2019-06-01,4.5
+3698,Distrito Federal,Centro-Oeste,2019-06-01,5.8
+3699,Rondônia,Norte,2019-07-01,4.8
+3700,Acre,Norte,2019-07-01,4.5
+3701,Amazonas,Norte,2019-07-01,5.2
+3702,Roraima,Norte,2019-07-01,5.7
+3703,Pará,Norte,2019-07-01,4.2
+3704,Amapá,Norte,2019-07-01,5.5
+3705,Tocantins,Norte,2019-07-01,5.8
+3706,Maranhão,Nordeste,2019-07-01,4.8
+3707,Piauí,Nordeste,2019-07-01,4.9
+3708,Ceará,Nordeste,2019-07-01,5.7
+3709,Rio Grande do Norte,Nordeste,2019-07-01,5.4
+3710,Paraíba,Nordeste,2019-07-01,5.6
+3711,Pernambuco,Nordeste,2019-07-01,5.3
+3712,Alagoas,Nordeste,2019-07-01,5.1
+3713,Sergipe,Nordeste,2019-07-01,5.8
+3714,Bahia,Nordeste,2019-07-01,4.6
+3715,Minas Gerais,Sudeste,2019-07-01,5.1
+3716,Espírito Santo,Sudeste,2019-07-01,4.8
+3717,Rio de Janeiro,Sudeste,2019-07-01,6.8
+3718,São Paulo,Sudeste,2019-07-01,5.2
+3719,Paraná,Sul,2019-07-01,4.3
+3720,Santa Catarina,Sul,2019-07-01,4.3
+3721,Rio Grande do Sul,Sul,2019-07-01,6.0
+3722,Mato Grosso do Sul,Centro-Oeste,2019-07-01,4.6
+3723,Mato Grosso,Centro-Oeste,2019-07-01,4.4
+3724,Goiás,Centro-Oeste,2019-07-01,4.6
+3725,Distrito Federal,Centro-Oeste,2019-07-01,5.9
+3726,Rondônia,Norte,2019-08-01,4.9
+3727,Acre,Norte,2019-08-01,4.9
+3728,Amazonas,Norte,2019-08-01,5.1
+3729,Roraima,Norte,2019-08-01,5.5
+3730,Pará,Norte,2019-08-01,4.2
+3731,Amapá,Norte,2019-08-01,5.0
+3732,Tocantins,Norte,2019-08-01,5.6
+3733,Maranhão,Nordeste,2019-08-01,4.6
+3734,Piauí,Nordeste,2019-08-01,4.7
+3735,Ceará,Nordeste,2019-08-01,5.5
+3736,Rio Grande do Norte,Nordeste,2019-08-01,5.2
+3737,Paraíba,Nordeste,2019-08-01,5.6
+3738,Pernambuco,Nordeste,2019-08-01,5.3
+3739,Alagoas,Nordeste,2019-08-01,5.1
+3740,Sergipe,Nordeste,2019-08-01,5.9
+3741,Bahia,Nordeste,2019-08-01,4.5
+3742,Minas Gerais,Sudeste,2019-08-01,5.1
+3743,Espírito Santo,Sudeste,2019-08-01,4.9
+3744,Rio de Janeiro,Sudeste,2019-08-01,6.7
+3745,São Paulo,Sudeste,2019-08-01,5.3
+3746,Paraná,Sul,2019-08-01,4.3
+3747,Santa Catarina,Sul,2019-08-01,4.4
+3748,Rio Grande do Sul,Sul,2019-08-01,6.0
+3749,Mato Grosso do Sul,Centro-Oeste,2019-08-01,4.8
+3750,Mato Grosso,Centro-Oeste,2019-08-01,4.6
+3751,Goiás,Centro-Oeste,2019-08-01,4.8
+3752,Distrito Federal,Centro-Oeste,2019-08-01,5.6
+3753,Rondônia,Norte,2019-09-01,4.7
+3754,Acre,Norte,2019-09-01,4.8
+3755,Amazonas,Norte,2019-09-01,5.0
+3756,Roraima,Norte,2019-09-01,5.6
+3757,Pará,Norte,2019-09-01,4.0
+3758,Amapá,Norte,2019-09-01,4.9
+3759,Tocantins,Norte,2019-09-01,5.4
+3760,Maranhão,Nordeste,2019-09-01,4.6
+3761,Piauí,Nordeste,2019-09-01,4.7
+3762,Ceará,Nordeste,2019-09-01,5.6
+3763,Rio Grande do Norte,Nordeste,2019-09-01,5.6
+3764,Paraíba,Nordeste,2019-09-01,5.5
+3765,Pernambuco,Nordeste,2019-09-01,5.3
+3766,Alagoas,Nordeste,2019-09-01,5.1
+3767,Sergipe,Nordeste,2019-09-01,5.7
+3768,Bahia,Nordeste,2019-09-01,4.4
+3769,Minas Gerais,Sudeste,2019-09-01,4.9
+3770,Espírito Santo,Sudeste,2019-09-01,4.7
+3771,Rio de Janeiro,Sudeste,2019-09-01,6.5
+3772,São Paulo,Sudeste,2019-09-01,5.0
+3773,Paraná,Sul,2019-09-01,4.3
+3774,Santa Catarina,Sul,2019-09-01,4.4
+3775,Rio Grande do Sul,Sul,2019-09-01,6.0
+3776,Mato Grosso do Sul,Centro-Oeste,2019-09-01,4.7
+3777,Mato Grosso,Centro-Oeste,2019-09-01,4.3
+3778,Goiás,Centro-Oeste,2019-09-01,4.6
+3779,Distrito Federal,Centro-Oeste,2019-09-01,5.5
+3780,Rondônia,Norte,2019-10-01,4.7
+3781,Acre,Norte,2019-10-01,4.9
+3782,Amazonas,Norte,2019-10-01,5.2
+3783,Roraima,Norte,2019-10-01,5.4
+3784,Pará,Norte,2019-10-01,4.0
+3785,Amapá,Norte,2019-10-01,5.2
+3786,Tocantins,Norte,2019-10-01,5.5
+3787,Maranhão,Nordeste,2019-10-01,4.5
+3788,Piauí,Nordeste,2019-10-01,4.7
+3789,Ceará,Nordeste,2019-10-01,5.6
+3790,Rio Grande do Norte,Nordeste,2019-10-01,5.7
+3791,Paraíba,Nordeste,2019-10-01,5.6
+3792,Pernambuco,Nordeste,2019-10-01,5.3
+3793,Alagoas,Nordeste,2019-10-01,5.2
+3794,Sergipe,Nordeste,2019-10-01,5.9
+3795,Bahia,Nordeste,2019-10-01,4.5
+3796,Minas Gerais,Sudeste,2019-10-01,5.0
+3797,Espírito Santo,Sudeste,2019-10-01,4.8
+3798,Rio de Janeiro,Sudeste,2019-10-01,6.7
+3799,São Paulo,Sudeste,2019-10-01,5.0
+3800,Paraná,Sul,2019-10-01,4.3
+3801,Santa Catarina,Sul,2019-10-01,4.3
+3802,Rio Grande do Sul,Sul,2019-10-01,6.0
+3803,Mato Grosso do Sul,Centro-Oeste,2019-10-01,4.6
+3804,Mato Grosso,Centro-Oeste,2019-10-01,4.5
+3805,Goiás,Centro-Oeste,2019-10-01,4.6
+3806,Distrito Federal,Centro-Oeste,2019-10-01,5.6
+3807,Rondônia,Norte,2019-11-01,4.6
+3808,Acre,Norte,2019-11-01,5.2
+3809,Amazonas,Norte,2019-11-01,5.1
+3810,Roraima,Norte,2019-11-01,5.8
+3811,Pará,Norte,2019-11-01,4.0
+3812,Amapá,Norte,2019-11-01,4.9
+3813,Tocantins,Norte,2019-11-01,5.4
+3814,Maranhão,Nordeste,2019-11-01,4.5
+3815,Piauí,Nordeste,2019-11-01,4.7
+3816,Ceará,Nordeste,2019-11-01,5.7
+3817,Rio Grande do Norte,Nordeste,2019-11-01,5.7
+3818,Paraíba,Nordeste,2019-11-01,5.5
+3819,Pernambuco,Nordeste,2019-11-01,5.3
+3820,Alagoas,Nordeste,2019-11-01,5.2
+3821,Sergipe,Nordeste,2019-11-01,5.7
+3822,Bahia,Nordeste,2019-11-01,4.5
+3823,Minas Gerais,Sudeste,2019-11-01,5.0
+3824,Espírito Santo,Sudeste,2019-11-01,4.8
+3825,Rio de Janeiro,Sudeste,2019-11-01,6.6
+3826,São Paulo,Sudeste,2019-11-01,5.0
+3827,Paraná,Sul,2019-11-01,4.2
+3828,Santa Catarina,Sul,2019-11-01,4.2
+3829,Rio Grande do Sul,Sul,2019-11-01,6.0
+3830,Mato Grosso do Sul,Centro-Oeste,2019-11-01,4.7
+3831,Mato Grosso,Centro-Oeste,2019-11-01,4.6
+3832,Goiás,Centro-Oeste,2019-11-01,4.7
+3833,Distrito Federal,Centro-Oeste,2019-11-01,5.8
+3834,Rondônia,Norte,2019-12-01,4.8
+3835,Acre,Norte,2019-12-01,5.0
+3836,Amazonas,Norte,2019-12-01,5.1
+3837,Roraima,Norte,2019-12-01,6.1
+3838,Pará,Norte,2019-12-01,4.1
+3839,Amapá,Norte,2019-12-01,5.0
+3840,Tocantins,Norte,2019-12-01,5.1
+3841,Maranhão,Nordeste,2019-12-01,4.5
+3842,Piauí,Nordeste,2019-12-01,4.7
+3843,Ceará,Nordeste,2019-12-01,5.7
+3844,Rio Grande do Norte,Nordeste,2019-12-01,5.9
+3845,Paraíba,Nordeste,2019-12-01,5.7
+3846,Pernambuco,Nordeste,2019-12-01,5.4
+3847,Alagoas,Nordeste,2019-12-01,5.7
+3848,Sergipe,Nordeste,2019-12-01,5.8
+3849,Bahia,Nordeste,2019-12-01,4.7
+3850,Minas Gerais,Sudeste,2019-12-01,5.0
+3851,Espírito Santo,Sudeste,2019-12-01,4.7
+3852,Rio de Janeiro,Sudeste,2019-12-01,6.7
+3853,São Paulo,Sudeste,2019-12-01,5.1
+3854,Paraná,Sul,2019-12-01,4.3
+3855,Santa Catarina,Sul,2019-12-01,4.4
+3856,Rio Grande do Sul,Sul,2019-12-01,5.9
+3857,Mato Grosso do Sul,Centro-Oeste,2019-12-01,4.6
+3858,Mato Grosso,Centro-Oeste,2019-12-01,4.3
+3859,Goiás,Centro-Oeste,2019-12-01,4.7
+3860,Distrito Federal,Centro-Oeste,2019-12-01,5.6
