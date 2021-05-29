@@ -25,3 +25,27 @@ Observação: a base de dados referente ao IPCA foi utilizada como uma base de d
 ### [Notebooks](https://github.com/Pedro-correa-almeida/Projeto_final_M1_bootcamp_alura/tree/main/notebooks)
 
 Aqui se encontram os 5 notebooks utilizados na análise e além disso um [arquivo python](https://github.com/Pedro-correa-almeida/Projeto_final_M1_bootcamp_alura/tree/main/notebooks/funcoes_datasus.py) com as funções utilizadas nos notebooks, desses 5 notebooks, em 4 deles foram realizadas as transformações e limpeza necessárias a fim de deixar o notebook com a [análise final](https://github.com/Pedro-correa-almeida/Projeto_final_M1_bootcamp_alura/blob/main/notebooks/analise_exploratoria_final.ipynb) mais limpo e focado na análise exploratória.
+
+# Escopo do projeto
+
+## 1- Limpeza dos dados brutos
+
+Aqui foi realizada a limpeza dos dados brutos, uma das partes mais importantes do projeto e mais trabalhosas, e, por essa razão, essa parte foi dividida em vários notebooks, seguindo o mesmo padrão:
+
+-Dados restringidos entre Fevereiro de 2008 e Dezembro de 2019, pois ao se analisar dados reais, principalmente envolvenso saúde, temos que tomar cuidado com dados que apresentam dados faltantes ou desatualizados.
+<br>
+-Os dados foram manipulados para ter uma coluna só para as datas, uma coluna só para os estados, uma coluna para região do estado, e por fim uma coluna para os dados numéricos.
+
+## 2 - Leitura dos dados limpos
+
+Foi realizada a leitura dos dados limpos que estão em 3 arquivos diferentes, são eles:
+
+
+
+## 3 - Funções
+
+Nessa parte estão as funções utilizadas nos notebooks.
+
+## 4 - Concatenação dos dados
+
+## 5 - Análise Exploratória
