@@ -22,3 +22,6 @@ Aqui estão as bases de dados após todos os tratamentos e limpeza realizados a 
 <br>
 Observação: a base de dados referente ao IPCA foi utilizada como uma base de dados auxiliar apenas para corrigir os valores gastos, portanto ela não foi utilizada na análise final e não precisou ser salva no repositório de dados limpos.
 
+### [Notebooks](https://github.com/Pedro-correa-almeida/Projeto_modulo_1/tree/main/notebooks)
+
+Aqui se encontram os 5 notebooks utilizados na análise e além disso um [arquivo python](https://github.com/Pedro-correa-almeida/Projeto_modulo_1/blob/main/notebooks/funcoes_datasus.py) com as funções utilizadas nos notebooks, desses 5 notebooks, em 4 deles foram realizadas as transformações e limpeza necessárias a fim de deixar o notebook com a [análise final] mais limpo e focado na análise exploratória
