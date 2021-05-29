@@ -33,6 +33,7 @@ Aqui se encontram os 5 notebooks utilizados na análise e além disso um [arquiv
 Aqui foi realizada a limpeza dos dados brutos, uma das partes mais importantes do projeto e mais trabalhosas, e, por essa razão, essa parte foi dividida em vários notebooks, seguindo o mesmo padrão:
 
 -Dados restringidos entre Fevereiro de 2008 e Dezembro de 2019, pois ao se analisar dados reais, principalmente envolvenso saúde, temos que tomar cuidado com dados que apresentam dados faltantes ou desatualizados.
+<br>
 -Os dados foram manipulados para ter uma coluna só para as datas, uma coluna só para os estados, uma coluna para região do estado, e por fim uma coluna para os dados numéricos
 
 ##
