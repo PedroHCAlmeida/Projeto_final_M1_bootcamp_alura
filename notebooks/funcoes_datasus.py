@@ -6,8 +6,11 @@ from matplotlib import ticker
 
 def tranforma_date(data):
     '''
-    Função que recebe as colunas no formato Ano/Mês e tranforma retorna um objeto tipo data
-    obs:retorna com a data no primeiro dia do mês correspondente
+    Função que recebe uma coluna no formato Ano/Mês e transforma em um objeto tipo data
+    Obs:retorna com a data no primeiro dia do mês correspondente
+    Parâmetros:
+    
+        data: coluna do dataframe no formato Ano/Mês, tipo=pd.Series
     '''
     dict_mes = {'Jan':'1', 'Fev':'2', 'Mar':'3', 'Abr':'4', 
                 'Mai':'5', 'Jun':'6', 'Jul':'7', 'Ago':'8',
@@ -27,6 +30,11 @@ def limpa_dados(dados, nome):
         transforma as colunas relacionadas a data em uma coluna apenas(coluna data)
         transforma a coluna data para o tipo date do python
         restringe a data entre fevereiro de 2008 e dezembro de 2019
+        
+    Parâmetros:
+        
+        dados: dataframe com a base de dados coletado do datasus, tipo=pd.DataFrame
+        nome: nome da variável numérica correspondente, tipo="string""
     '''
     #Renomeando a coluna Unidade da Federação para simplificar a manipulação 
     dados = dados.rename(columns={'Unidade da Federação':'UF'})
@@ -61,6 +69,7 @@ def plot_grafico_linha(dados, y, hue='UF', title=None, ylabel=None, xlabel='Ano/
     '''
     Função que recebe o dataframe e plota um gráfico de linha com o eixo x com a data e eixo y os valores numéricos 
     Parâmetros:
+    
         dados: dataframe do pandas, tipo=pd.DataFrame
         y: nome da variável com os dados numéricos, tipo=string
         hue: variável categórica para agrupar os dados em linhas de diferentes cores, padrão="UF", tipo=string
