@@ -24,4 +24,4 @@ Observação: a base de dados referente ao IPCA foi utilizada como uma base de d
 
 ### [Notebooks](https://github.com/Pedro-correa-almeida/Projeto_final_M1_bootcamp_alura/tree/main/notebooks)
 
-Aqui se encontram os 5 notebooks utilizados na análise e além disso um [arquivo python](https://github.com/Pedro-correa-almeida/Projeto_final_M1_bootcamp_alura/tree/main/notebooks/funcoes_datasus.py) com as funções utilizadas nos notebooks, desses 5 notebooks, em 4 deles foram realizadas as transformações e limpeza necessárias a fim de deixar o notebook com a [análise final] mais limpo e focado na análise exploratória
+Aqui se encontram os 5 notebooks utilizados na análise e além disso um [arquivo python](https://github.com/Pedro-correa-almeida/Projeto_final_M1_bootcamp_alura/tree/main/notebooks/funcoes_datasus.py) com as funções utilizadas nos notebooks, desses 5 notebooks, em 4 deles foram realizadas as transformações e limpeza necessárias a fim de deixar o notebook com a [análise final](https://github.com/Pedro-correa-almeida/Projeto_final_M1_bootcamp_alura/blob/main/notebooks/analise_exploratoria_final.ipynb) mais limpo e focado na análise exploratória
