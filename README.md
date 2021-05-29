@@ -20,7 +20,7 @@ Além disso foram utilizadas duas bases de dados auxiliares do [IBGE](https://ww
 
 Aqui estão as bases de dados após todos os tratamentos e limpeza realizados a fim de deixar as bases de dados em um padrão que fosse possível comparar todos os valores juntos.
 <br>
-Observação: a base de dados referente ao IPCA foi utilizada como uma base de dados auxiliar apenas para corrigir os valores gastos, portanto ela não foi utilizada na análise final e não precisou ser salva no repositório de dados limpos, além disso a base de dados sobre a população dos estados por ano foi tratada junto com as AIHs aprovadas e esses dados estão juntos no arquivo [AIH_aprovadas_e_populacao](https://github.com/Pedro-correa-almeida/Projeto_final_M1_bootcamp_alura/blob/main/dados_limpos/AIH_aprovadas_e_populacao.csv)
+Observação: a base de dados referente ao IPCA foi utilizada como uma base de dados auxiliar apenas para corrigir os valores gastos, portanto ela não foi utilizada na análise final e não precisou ser salva no repositório de dados limpos, além disso a base de dados sobre a população dos estados por ano foi tratada junto com as AIHs aprovadas e esses dados estão juntos no arquivo [AIH_aprovadas_e_populacao](https://github.com/Pedro-correa-almeida/Projeto_final_M1_bootcamp_alura/blob/main/dados_limpos/AIH_aprovadas_e_populacao.csv).
 
 ### [Notebooks](https://github.com/Pedro-correa-almeida/Projeto_final_M1_bootcamp_alura/tree/main/notebooks)
 
