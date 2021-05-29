@@ -34,7 +34,18 @@ Aqui foi realizada a limpeza dos dados brutos, uma das partes mais importantes d
 
 -Dados restringidos entre Fevereiro de 2008 e Dezembro de 2019, pois ao se analisar dados reais, principalmente envolvenso saúde, temos que tomar cuidado com dados que apresentam dados faltantes ou desatualizados.
 <br>
--Os dados foram manipulados para ter uma coluna só para as datas, uma coluna só para os estados, uma coluna para região do estado, e por fim uma coluna para os dados numéricos
+-Os dados foram manipulados para ter uma coluna só para as datas, uma coluna só para os estados, uma coluna para região do estado, e por fim uma coluna para os dados numéricos.
 
-##
+## 2 - Leitura dos dados limpos
+
+Foi realizada a leitura dos dados limpos que estão em 3 arquivos diferentes, são eles:
+
+
+
+## 3 - Funções
+
+Nessa parte estão as funções utilizadas nos notebooks.
+
+## 4 - Concatenação dos dados
+
 
