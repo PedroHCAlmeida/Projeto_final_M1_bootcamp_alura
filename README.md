@@ -18,5 +18,6 @@ Além disso foram utilizadas duas bases de dados auxiliares do [IBGE](https://ww
 
 ### [Dados limpos](https://github.com/Pedro-correa-almeida/Projeto_modulo_1/tree/main/dados_limpos):
 
-Aqui estão as bases de dados
+Aqui estão as bases de dados após todos os tratamentos e limpeza realizados a fim de deixar as bases de dados em um padrão que fosse possível comparar todos os valores juntos.
+Observação: a base de dados referente ao IPCA foi utilizada como uma base de dados auxiliar apenas para corrigir os valores gastos, portanto ela não foi utilizada na análise final e não precisou ser salva no repositório de dados limpos.
 
