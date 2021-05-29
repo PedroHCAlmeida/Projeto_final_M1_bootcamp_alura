@@ -38,7 +38,7 @@ Aqui foi realizada a limpeza dos dados brutos, uma das partes mais importantes d
 
 ## 2 - Leitura dos dados limpos
 
-Foi realizada a leitura dos dados limpos que estão em 3 arquivos diferentes, são eles:
+Foi realizada a leitura dos dados limpos que estão em 3 arquivos diferentes em 'DataFrames' do pandas, são eles:
 
 -[AIH aprovadas e população](https://github.com/Pedro-correa-almeida/Projeto_final_M1_bootcamp_alura/blob/main/dados_limpos/AIH_aprovadas_e_populacao.csv) - arquivo csv dividido em 7 colunas: UF(estado), regiao, data(formato ano-mês-dia), AIH_aprovadas(números de AIH no período pelo estado), ano, pop(população naquele ano), AIH_por_mil(AIHs aprovadas a cada mil habitantes daquele estado)
 <br>
@@ -51,5 +51,7 @@ Foi realizada a leitura dos dados limpos que estão em 3 arquivos diferentes, s�
 Nessa parte estão as funções utilizadas nos notebooks.
 
 ## 4 - Concatenação dos dados
+
+Nessa etapa do projeto todos três arquivos foram unidos em apenas um 'DataFrame' do pandas a fim de comparar todos os dados obtidos, além disso foi criada mais uma coluna(valor_corrigido_por_mil) calculando se o valor gasto corrigido a cada mil habitantes do estado, e foi criado outro 'DataFrame' agrupando os dados pela região.
 
 ## 5 - Análise Exploratória
