@@ -6,7 +6,7 @@
 
 Olá, meu nome é Pedro Henrique, e esse é meu repositório referente ao projeto final do módulo 1 do [Bootcamp De Data Science Aplicada](https://www.alura.com.br/bootcamp/data-science-aplicada/matriculas-abertas) promovido pela [Alura](https://www.alura.com.br/), esse módulo tratou sobre Python e pandas para análise de dados reais. Esse projeto teve como objetivo realizar uma análise exploratória em dados reais do Sistema Único de Saúde(SUS).
 
-A análise exploratória tem como objetivo encontrar possíveis padrões de uma forma muito flexível procurando pistas e indícios sobre o comportamento dos dados, seu próposito é levantar hipóteses sobre a distribuição dos dados sem uma definição prévia e sem tranformações estatística.
+A análise exploratória tem como objetivo encontrar possíveis padrões de uma forma muito flexível procurando pistas e indícios sobre o comportamento dos dados, seu próposito é levantar hipóteses sobre a distribuição dos dados sem uma definição prévia e sem tranformações estatísticas.
 
 O projeto foi dividido em 3 pastas diferentes, são elas:
  
