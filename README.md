@@ -1,4 +1,4 @@
-# Análise Exploratória Dados do SUS
+# Análise Exploratória Dados do SUS :bar_chart:
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_SUS.svg/1200px-Logo_SUS.svg.png)
 
