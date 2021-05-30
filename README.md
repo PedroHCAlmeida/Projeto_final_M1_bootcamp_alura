@@ -56,4 +56,4 @@ Nessa etapa do projeto todos três arquivos foram unidos em apenas um 'DataFrame
 
 ## 5 - Análise Exploratória
 
-Essa foi a última fase do projeto e foi onde eu procurei encontrar o relacionamento dos dados, levantando hipóteses, nela onde foram criado os gráficos comparando todas as bases de dados coletadas.
+Essa foi a última fase do projeto e foi onde eu procurei encontrar o relacionamento dos dados, levantando hipóteses, nela onde foram criado os gráficos comparando todas as bases de dados coletadas, além disso foram utilizados diversos gráficos para melhorar o entendimento dessas variáveis e conseguir extrair informações.
