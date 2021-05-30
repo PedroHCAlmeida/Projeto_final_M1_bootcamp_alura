@@ -52,7 +52,7 @@ Nessa parte estão as funções utilizadas nos notebooks.
 
 ## 4 - Concatenação dos dados
 
-Nessa etapa do projeto todos três arquivos foram unidos em apenas um 'DataFrame' do pandas a fim de comparar todos os dados obtidos, além disso foi criada mais uma coluna(valor_corrigido_por_mil) calculando se o valor gasto corrigido a cada mil habitantes do estado, e foi criado outro 'DataFrame' agrupando os dados pela região.
+Nessa etapa do projeto todos três arquivos foram unidos em apenas um 'DataFrame' do pandas a fim de comparar todos os dados obtidos, além disso foram criadas colunas adicionais e novas tabelas agrupando os dados.
 
 ## 5 - Análise Exploratória
 
