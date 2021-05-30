@@ -10,7 +10,7 @@ A análise exploratória tem como objetivo encontrar possíveis padrões de uma 
 
 O projeto foi dividido em 3 pastas diferentes, são elas:
  
-### [Dados brutos](https://github.com/Pedro-correa-almeida/Projeto_final_M1_bootcamp_alura/tree/main/dados_limpos): 
+### [Dados brutos](https://github.com/Pedro-correa-almeida/Projeto_final_M1_bootcamp_alura/tree/main/dados_brutos): 
 
 Nesse diretório estão os dados coletados diretos da fonte sem nenhuma limpeza, no total foram coletados 5 bases de dados, 3 delas do [datasus](http://tabnet.datasus.gov.br/cgi/menu_tabnet_php.htm#), referentes ao valor dos serviços hospitalares, número de AIHs(Autorização de Internação Hospitalar) aprovadas e média de permanência dos pacientes, todas foram coletadas com as colunas indicando o mês e o ano, e o index a Unidade Federativa correspondente.
 
