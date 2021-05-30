@@ -44,7 +44,7 @@ Foi realizada a leitura dos dados limpos que estão em 3 arquivos diferentes em 
 <br>
 -[Média de permanência](https://github.com/Pedro-correa-almeida/Projeto_final_M1_bootcamp_alura/blob/main/dados_limpos/media_permanencia.csv) - arquivo csv dividido em 4 colunas: UF(estado), regiao, data(formato ano-mês-dia), perm_media(permanência média dos pacientes no período pelo estado)
 <br>
--[Valor hospitalar corrigido](https://github.com/Pedro-correa-almeida/Projeto_final_M1_bootcamp_alura/blob/main/dados_limpos/valor_hospitalar.csv) - arquivo csv dividido em 5 colunas: UF(estado), regiao, data(formato ano-mês-dia), valor_hospitalar(valor dos serviços hospitalares referente às AIH aprovadas no período), valor_corrigido(valor hospitalar gasto corrigido pelo IPCA no período pelo estado)
+-[Valor hospitalar](https://github.com/Pedro-correa-almeida/Projeto_final_M1_bootcamp_alura/blob/main/dados_limpos/valor_hospitalar.csv) - arquivo csv dividido em 5 colunas: UF(estado), regiao, data(formato ano-mês-dia), valor_hospitalar(valor dos serviços hospitalares referente às AIH aprovadas no período), valor_corrigido(valor hospitalar gasto corrigido pelo IPCA no período pelo estado)
 
 ## 3 - Funções
 
