@@ -4,9 +4,9 @@
 
 # Sobre o projeto
 
-Olá, meu nome é Pedro Henrique, e esse é meu repositório referente ao projeto final do módulo 1 do [Bootcamp De Data Science Aplicada](https://www.alura.com.br/bootcamp/data-science-aplicada/matriculas-abertas) promovido pela [Alura](https://www.alura.com.br/), sobre Python e pandas para análise de dados reais. Esse projeto teve como objetivo realizar uma análise exploratória em dados reais do Sistema Único de Saúde(SUS).
+Olá, meu nome é Pedro Henrique, e esse é meu repositório referente ao projeto final do módulo 1 do [Bootcamp De Data Science Aplicada](https://www.alura.com.br/bootcamp/data-science-aplicada/matriculas-abertas) promovido pela [Alura](https://www.alura.com.br/), esse módulo tratou sobre Python e pandas para análise de dados reais. Esse projeto teve como objetivo realizar uma análise exploratória em dados reais do Sistema Único de Saúde(SUS).
 
-A análise exploratória tem como objetivo encontrar possíveis padrões de uma forma muito flexível procurando pistas e indícios sobre o comportamento dos dados, seu próposito é levantar hipóteses sobre a distribuição dos dados sem uma definição prévia e sem tranformações estatística.
+A análise exploratória tem como objetivo encontrar possíveis padrões de uma forma muito flexível procurando pistas e indícios sobre o comportamento dos dados, seu próposito é levantar hipóteses sobre a distribuição dos dados sem uma definição prévia e sem tranformações estatísticas.
 
 O projeto foi dividido em 3 pastas diferentes, são elas:
  
@@ -20,7 +20,7 @@ Além disso foram utilizadas duas bases de dados auxiliares do [IBGE](https://ww
 
 Aqui estão as bases de dados após todos os tratamentos e limpeza realizados a fim de deixar as bases de dados em um padrão que fosse possível comparar todos os valores juntos.
 <br>
-Observação: a base de dados referente ao IPCA foi utilizada como uma base de dados auxiliar apenas para corrigir os valores gastos, portanto ela não foi utilizada na análise final e não precisou ser salva no repositório de dados limpos, além disso a base de dados sobre a população dos estados por ano foi tratada junto com as AIHs aprovadas e esses dados estão juntos no arquivo [AIH_aprovadas_e_populacao](https://github.com/Pedro-correa-almeida/Projeto_final_M1_bootcamp_alura/blob/main/dados_limpos/AIH_aprovadas_e_populacao.csv)
+Observação: a base de dados referente ao IPCA foi utilizada como uma base de dados auxiliar apenas para corrigir os valores gastos, portanto ela não foi utilizada na análise final e não precisou ser salva no repositório de dados limpos, além disso a base de dados sobre a população dos estados por ano foi tratada junto com as AIHs aprovadas e esses dados estão juntos no arquivo [AIH_aprovadas_e_populacao](https://github.com/Pedro-correa-almeida/Projeto_final_M1_bootcamp_alura/blob/main/dados_limpos/AIH_aprovadas_e_populacao.csv).
 
 ### [Notebooks](https://github.com/Pedro-correa-almeida/Projeto_final_M1_bootcamp_alura/tree/main/notebooks)
 
@@ -32,7 +32,7 @@ Aqui se encontram os 5 notebooks utilizados na análise e além disso um [arquiv
 
 Aqui foi realizada a limpeza dos dados brutos, uma das partes mais importantes do projeto e mais trabalhosas, e, por essa razão, essa parte foi dividida em vários notebooks, seguindo o mesmo padrão:
 
--Dados restringidos entre Fevereiro de 2008 e Dezembro de 2019, pois ao se analisar dados reais, principalmente envolvenso saúde, temos que tomar cuidado com dados que apresentam dados faltantes ou desatualizados.
+-Dados restringidos entre Fevereiro de 2008 e Dezembro de 2019, pois ao se analisar dados reais, principalmente envolvendo saúde, temos que tomar cuidado com dados que apresentam dados faltantes ou desatualizados.
 <br>
 -Os dados foram manipulados para ter uma coluna só para as datas, uma coluna só para os estados, uma coluna para região do estado, e por fim uma coluna para os dados numéricos.
 
@@ -44,7 +44,7 @@ Foi realizada a leitura dos dados limpos que estão em 3 arquivos diferentes em 
 <br>
 -[Média de permanência](https://github.com/Pedro-correa-almeida/Projeto_final_M1_bootcamp_alura/blob/main/dados_limpos/media_permanencia.csv) - arquivo csv dividido em 4 colunas: UF(estado), regiao, data(formato ano-mês-dia), perm_media(permanência média dos pacientes no período pelo estado)
 <br>
--[Valor hospitalar corrigido](https://github.com/Pedro-correa-almeida/Projeto_final_M1_bootcamp_alura/blob/main/dados_limpos/valor_hospitalar_corrigido.csv) - arquivo csv dividido em 4 colunas: UF(estado), regiao, data(formato ano-mês-dia), valor_corrigido(valor hospitalar gasto corrigido pelo IPCA no período pelo estado)
+-[Valor hospitalar corrigido](https://github.com/Pedro-correa-almeida/Projeto_final_M1_bootcamp_alura/blob/main/dados_limpos/valor_hospitalar_corrigido.csv) - arquivo csv dividido em 5 colunas: UF(estado), regiao, data(formato ano-mês-dia), valor_hospitalar(valor dos serviços hospitalares referente às AIH aprovadas no período), valor_corrigido(valor hospitalar gasto corrigido pelo IPCA no período pelo estado)
 
 ## 3 - Funções
 
