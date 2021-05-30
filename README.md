@@ -55,3 +55,5 @@ Nessa parte estão as funções utilizadas nos notebooks.
 Nessa etapa do projeto todos três arquivos foram unidos em apenas um 'DataFrame' do pandas a fim de comparar todos os dados obtidos, além disso foi criada mais uma coluna(valor_corrigido_por_mil) calculando se o valor gasto corrigido a cada mil habitantes do estado, e foi criado outro 'DataFrame' agrupando os dados pela região.
 
 ## 5 - Análise Exploratória
+
+Essa foi a última fase do projeto e foi onde eu procurei encontrar o relacionamento dos dados, levantando hipóteses, nela onde foram criado os gráficos comparando todas as bases de dados coletadas.
