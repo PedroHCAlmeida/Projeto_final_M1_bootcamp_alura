@@ -10,7 +10,7 @@ A análise exploratória tem como objetivo encontrar possíveis padrões de uma 
 
 O projeto foi dividido em 3 pastas diferentes, são elas:
  
-### [Dados brutos](https://github.com/Pedro-correa-almeida/Projeto_final_M1_bootcamp_alura/tree/main/dados_limpos): 
+### [Dados brutos](https://github.com/Pedro-correa-almeida/Projeto_final_M1_bootcamp_alura/tree/main/dados_brutos): 
 
 Nesse diretório estão os dados coletados diretos da fonte sem nenhuma limpeza, no total foram coletados 5 bases de dados, 3 delas do [datasus](http://tabnet.datasus.gov.br/cgi/menu_tabnet_php.htm#), referentes ao valor dos serviços hospitalares, número de AIHs(Autorização de Internação Hospitalar) aprovadas e média de permanência dos pacientes, todas foram coletadas com as colunas indicando o mês e o ano, e o index a Unidade Federativa correspondente.
 
@@ -44,7 +44,7 @@ Foi realizada a leitura dos dados limpos que estão em 3 arquivos diferentes em 
 <br>
 -[Média de permanência](https://github.com/Pedro-correa-almeida/Projeto_final_M1_bootcamp_alura/blob/main/dados_limpos/media_permanencia.csv) - arquivo csv dividido em 4 colunas: UF(estado), regiao, data(formato ano-mês-dia), perm_media(permanência média dos pacientes no período pelo estado)
 <br>
--[Valor hospitalar corrigido](https://github.com/Pedro-correa-almeida/Projeto_final_M1_bootcamp_alura/blob/main/dados_limpos/valor_hospitalar_corrigido.csv) - arquivo csv dividido em 5 colunas: UF(estado), regiao, data(formato ano-mês-dia), valor_hospitalar(valor dos serviços hospitalares referente às AIH aprovadas no período), valor_corrigido(valor hospitalar gasto corrigido pelo IPCA no período pelo estado)
+-[Valor hospitalar](https://github.com/Pedro-correa-almeida/Projeto_final_M1_bootcamp_alura/blob/main/dados_limpos/valor_hospitalar.csv) - arquivo csv dividido em 5 colunas: UF(estado), regiao, data(formato ano-mês-dia), valor_hospitalar(valor dos serviços hospitalares referente às AIH aprovadas no período), valor_corrigido(valor hospitalar gasto corrigido pelo IPCA no período pelo estado)
 
 ## 3 - Funções
 
@@ -52,6 +52,8 @@ Nessa parte estão as funções utilizadas nos notebooks.
 
 ## 4 - Concatenação dos dados
 
-Nessa etapa do projeto todos três arquivos foram unidos em apenas um 'DataFrame' do pandas a fim de comparar todos os dados obtidos, além disso foi criada mais uma coluna(valor_corrigido_por_mil) calculando se o valor gasto corrigido a cada mil habitantes do estado, e foi criado outro 'DataFrame' agrupando os dados pela região.
+Nessa etapa do projeto todos três arquivos foram unidos em apenas um 'DataFrame' do pandas a fim de comparar todos os dados obtidos, além disso foram criadas colunas adicionais e novas tabelas agrupando os dados.
 
 ## 5 - Análise Exploratória
+
+Essa foi a última fase do projeto e foi onde eu procurei encontrar o relacionamento dos dados, levantando hipóteses, nela foi possível comparar todas as bases de dados coletadas juntas, além disso foram utilizados diversos gráficos para melhorar o entendimento das variáveis e conseguir extrair informações.
